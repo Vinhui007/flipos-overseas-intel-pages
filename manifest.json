@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-12T10:47:26",
+  "generated_at": "2026-07-12T10:48:56",
   "files": [
     "index.html",
     "report.md",
-    "articles.json"
+    "articles.json",
+    ".nojekyll"
   ]
 }
