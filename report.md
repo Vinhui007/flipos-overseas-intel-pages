@@ -1,7 +1,7 @@
 # FLIPOS 出海行业情报日报
 
-- 生成时间：2026-07-12 11:57
-- 今日新增/近期主题：18 个
+- 生成时间：2026-07-13 01:04
+- 今日新增/近期主题：20 个
 - 补充观察：5 个
 - 时间规则：优先展示近 14 天发布；无发布时间按近 24 小时抓取计算
 - 排序规则：先按时间窗口过滤，再按相关性 60% + 重要性 40%
@@ -199,7 +199,40 @@
 
 **建议动作**：产品团队可深入对标Lightspeed的Order Anywhere和Advanced Insights模块，提炼FLIPOS差异化能力；建议建立竞品能力追踪机制，定期更新各竞品在东南亚/日韩市场的功能迭代。
 
-### 12. 马来亚银行与OmniPay推QRPh聚合收款
+### 12. 老牌POS厂商Squirrel加速云化转型
+
+- 来源：Restaurant Technology News
+- 发布时间：2026-07-07
+- 分类：竞品动态
+- 重要性：6/10
+- 相关性：7/10
+- 市场标签：美国、全球
+- 事件 Key：legacy-pos-cloud-migration
+- 原文：[https://restauranttechnologynews.com/2026/07/squirrel-brings-cloud-pos-integrated-payments-and-kitchen-automation-to-restaurants-and-hotels/](https://restauranttechnologynews.com/2026/07/squirrel-brings-cloud-pos-integrated-payments-and-kitchen-automation-to-restaurants-and-hotels/)
+
+**信号**：42年老牌餐饮POS厂商Squirrel推出Cloud POS，强调多渠道订单整合和云迁移平滑路径，反映全服务餐饮对一体化平台的需求
+
+**对 FLIPOS 的影响**：Squirrel的云迁移工具和全渠道订单整合策略与FLIPOS的iPad POS和H5/Kiosk点单能力存在直接竞争，需关注其定价和部署灵活性。
+
+**建议动作**：产品团队应对比Squirrel Cloud的功能矩阵，评估FLIPOS在多渠道订单路由和云迁移体验上的差距，必要时强化迁移工具能力。
+
+### 13. Stripe前高管预测实时支付重大突破
+
+- 来源：Payments Dive
+- 发布时间：2026-07-07
+- 分类：支付与合规
+- 重要性：6/10
+- 相关性：7/10
+- 事件 Key：realtime-payment-consumer-expansion
+- 原文：[https://www.paymentsdive.com/news/how-real-time-payments-expand-stripe-fintechs-fednow-rtp-consumers-banks/824410/](https://www.paymentsdive.com/news/how-real-time-payments-expand-stripe-fintechs-fednow-rtp-consumers-banks/824410/)
+
+**信号**：全球消费者端实时支付基础设施将在18个月内取得重大进展，支付时效性竞争加剧
+
+**对 FLIPOS 的影响**：FLIPOS需关注海外市场实时支付网络演进，特别是东南亚和东亚市场的新兴即时支付方案，以便在未来支付合作选型中保持技术前瞻性。
+
+**建议动作**：支付团队应持续跟踪各出海市场的实时支付基础设施成熟度（如新加坡PayNow、泰国PromptPay、港澳转数快），评估与现有Adyen等支付伙伴的整合路径，在Solution Pack迭代中预留实时支付扩展接口。
+
+### 14. 马来亚银行与OmniPay推QRPh聚合收款
 
 - 来源：Fintech News Philippines
 - 发布时间：2026-07-08
@@ -216,7 +249,7 @@
 
 **建议动作**：产品团队评估在菲律宾市场接入QRPh扫码支付的可行性；支付团队与当地银行或聚合支付服务商（如OmniPay）探讨集成合作机会。
 
-### 13. 商户需主动应对欺诈挑战
+### 15. 商户需主动应对欺诈挑战
 
 - 来源：Payments Dive
 - 发布时间：2026-07-10
@@ -233,7 +266,7 @@
 
 **建议动作**：支付团队可评估现有支付回调和退款流程中的风控盲点，与 Adyen、KPay 等收单伙伴确认其欺诈检测能力覆盖范围，为未来 Solution Pack 增强风控功能做储备。
 
-### 14. 越南9Pay获Visa直连牌照
+### 16. 越南9Pay获Visa直连牌照
 
 - 来源：Fintech News Singapore
 - 发布时间：2026-07-09
@@ -250,7 +283,7 @@
 
 **建议动作**：建议产品团队将此案例纳入东南亚支付合规研究档案，关注越南监管政策演变，为未来市场机会评估做准备。
 
-### 15. 马来西亚央行要求金融AI保持人类问责
+### 17. 马来西亚央行要求金融AI保持人类问责
 
 - 来源：Fintech News Malaysia
 - 发布时间：2026-07-09
@@ -267,7 +300,24 @@
 
 **建议动作**：法务团队应持续跟踪BNM的AI治理指引，为未来进入东南亚市场预埋合规能力，包括AI决策的可解释性和人类问责机制。
 
-### 16. Xendit整合菲律宾老牌支付Dragonpay
+### 18. MarginEdge后端成本管理平台处理百亿美元餐饮支出
+
+- 来源：Restaurant Technology News
+- 发布时间：2026-07-07
+- 分类：竞品动态
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：美国、加拿大、全球
+- 事件 Key：restaurant-backoffice-automation-cost-management
+- 原文：[https://restauranttechnologynews.com/2026/07/marginedge-improves-restaurant-profitability-with-real-time-cost-management-ai-forecasting-and-back-office-automation/](https://restauranttechnologynews.com/2026/07/marginedge-improves-restaurant-profitability-with-real-time-cost-management-ai-forecasting-and-back-office-automation/)
+
+**信号**：餐饮后端运营自动化成新热点，实时成本管理和发票数字化处理正在重塑餐厅利润管理方式
+
+**对 FLIPOS 的影响**：FLIPOS当前Solution Pack聚焦POS、外卖和支付前端，后端成本管理和发票自动化暂未覆盖。MarginEdge的快速扩张表明餐厅对财务可见性需求强烈，可能成为未来扩展方向。
+
+**建议动作**：产品团队需评估是否在现有POS基础上叠加成本管理和库存追踪能力，或通过开放API与专业后端系统集成，完善餐饮数字化闭环。
+
+### 19. Xendit整合菲律宾老牌支付Dragonpay
 
 - 来源：Fintech News Philippines
 - 发布时间：2026-07-08
@@ -284,7 +334,7 @@
 
 **建议动作**：支付团队评估Xendit新平台的OTC支付能力，考虑是否需要接入Dragonpay的柜台支付渠道以覆盖无银行账户用户；产品团队关注Xendit菲律宾生态更新，评估对现有支付方案的影响。
 
-### 17. 支付宝AI代理覆盖3000万台Tap设备
+### 20. 支付宝AI代理覆盖3000万台Tap设备
 
 - 来源：Fintech News Hong Kong
 - 发布时间：2026-07-08
@@ -300,22 +350,6 @@
 **对 FLIPOS 的影响**：支付宝将POS终端升级为AI运营平台的模式，对FLIPOS在日本（LINE KPay）、新加坡（GrabFood）等市场有参考价值——支付终端的AI化正成为趋势，需评估现有POS产品是否需要嵌入类似智能助手能力或与本地AI终端生态集成
 
 **建议动作**：产品团队应将"POS终端AI能力"纳入中期路线图规划；支付团队可研究Tap设备与FLIPOS日本、新加坡解决方案的潜在集成点，尤其是AI驱动的商户经营分析功能
-
-### 18. 店内音频互动成餐饮营销新触点
-
-- 来源：Restaurant Technology News
-- 发布时间：2026-07-03
-- 分类：餐饮数字化
-- 重要性：7/10
-- 相关性：6/10
-- 事件 Key：in-store-audio-restaurant-engagement
-- 原文：[https://restauranttechnologynews.com/2026/07/why-in-store-audio-is-becoming-a-strategic-engagement-channel-for-restaurants/](https://restauranttechnologynews.com/2026/07/why-in-store-audio-is-becoming-a-strategic-engagement-channel-for-restaurants/)
-
-**信号**：餐饮店内音频从背景音乐升级为可量化、可定向的客户互动渠道，与会员系统和营销活动深度联动
-
-**对 FLIPOS 的影响**：店内音频互动可与FLIPOS CRM触达、会员注册功能形成协同，为餐饮品牌提供线上线下一体化的客户互动方案。
-
-**建议动作**：产品团队可评估将音频互动能力纳入营销工具矩阵的可行性；市场团队可关注港澳、新加坡等成熟市场连锁品牌的音频营销需求，作为Solution Pack差异化卖点。
 
 ## 补充观察
 
