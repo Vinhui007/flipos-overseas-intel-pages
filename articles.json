@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T11:57:03",
-  "count": 223,
+  "generated_at": "2026-07-13T01:04:01",
+  "count": 235,
   "articles": [
     {
       "id": 1,
@@ -3928,6 +3928,56 @@
       }
     },
     {
+      "id": 283,
+      "title": "China slowdown, fraud crackdown weigh on Myanmar jade prices",
+      "url": "https://www.bangkokpost.com/business/general/3282269/china-slowdown-fraud-crackdown-weigh-on-myanmar-jade-prices",
+      "source": "Bangkok Post Business",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-07-07T09:42:00",
+      "fetched_at": "2026-07-07T04:26:42",
+      "ai_output": {
+        "short_title": "缅甸翡翠价格因中国需求下降下跌",
+        "one_line_signal": "缅甸玉石贸易受中国经济放缓和反诈行动影响，折射出区域贸易与地缘风险的关联性",
+        "zh_summary": "曼德勒玉石市场价格下跌，商贩将此归因于中国经济放缓，以及中国关联国际犯罪组织因反诈打击减少采购。该事件反映了缅甸贸易经济对中国的强依赖性，以及政策风险对边境贸易的传导效应，但对餐饮SaaS行业无直接关联。",
+        "category": "出海市场动态",
+        "importance_score": 3,
+        "relevance_score": 1,
+        "market_tags": "缅甸、中国",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_owner": "市场",
+        "action_level": "可观察",
+        "flipos_impact": "FLIPOS当前聚焦餐饮SaaS，缅甸玉石贸易动态与餐饮行业无业务交集，对海外产品路线图无影响。",
+        "recommended_action": "市场团队可将该信号归档为东南亚区域经济动态参考，但不需纳入当前产品评估范围。"
+      }
+    },
+    {
+      "id": 291,
+      "title": "AI Rudder Supplies Tonik With AI-Powered Customer Service Voice Agents",
+      "url": "https://fintechnews.ph/72150/ai/tonik-ai-rudder-voice-agents-partnership/",
+      "source": "Fintech News Philippines",
+      "region": "Philippines",
+      "domain": "fintech",
+      "published_at": "2026-07-07T03:53:13",
+      "fetched_at": "2026-07-07T04:26:55",
+      "ai_output": {
+        "short_title": "菲律宾Tonik银行引入AI语音客服",
+        "one_line_signal": "东南亚数字银行加速部署AI客服，语音自动化进入金融业运营标配阶段",
+        "zh_summary": "菲律宾数字银行 Tonik 与 AI Rudder 合作部署 AI 语音客服代理，提升客户互动效率和个性化服务能力。这是东南亚 neobank 领域 AI 应用的最新案例，但属于银行业而非餐饮零售场景，与 FLIPOS 当前餐饮 SaaS 业务暂无直接关联。",
+        "category": "AI与自动化",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "菲律宾",
+        "primary_market": "全球",
+        "affected_capability": "CRM",
+        "action_owner": "产品",
+        "action_level": "可观察",
+        "flipos_impact": "Tonik 是菲律宾 neobank，不在 FLIPOS 当前港澳/新马日泰 Solution Pack 覆盖范围。餐饮行业对 AI 客服的需求形态与银行业差异显著，此案例对 FLIPOS 产品路线图无直接参考价值。",
+        "recommended_action": "产品团队可作为行业趋势存档，关注餐饮场景类似的 AI 外呼/语音交互需求是否会在东南亚餐饮市场出现。当前无需介入菲律宾市场。"
+      }
+    },
+    {
       "id": 305,
       "title": "ezCater Helps Restaurants Capture Workplace Catering Demand Through a More Connected Food Platform",
       "url": "https://restauranttechnologynews.com/2026/07/ezcater-helps-restaurants-capture-workplace-catering-demand-through-a-more-connected-food-platform/",
@@ -4153,6 +4203,31 @@
       }
     },
     {
+      "id": 317,
+      "title": "Alipay Launches AI Platform for Business Service Integration",
+      "url": "https://fintechnews.hk/39566/ai/alipay-ai-open-platform-abao-merchant-services/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-07-07T04:49:11",
+      "fetched_at": "2026-07-08T09:00:21",
+      "ai_output": {
+        "short_title": "支付宝AI开放平台赋能商户",
+        "one_line_signal": "蚂蚁集团推出支付宝AI开放平台，通过内置AI助手Abao为商户提供自动化服务与支付整合能力，覆盖1亿用户生态",
+        "zh_summary": "支付宝发布AI开放平台，允许开发者将商户服务接入AI助手Abao，实现自动化交易与客户交互。该平台支持双轨制集成方案：服务可被AI直接调用或通过屏幕识别技术自动执行。商户可通过单次连接触达移动端、车载、AI眼镜及IoT设备，覆盖1亿用户网络。对香港商户而言，这是进入内地数字经济自动化的新渠道。",
+        "category": "AI与自动化",
+        "importance_score": 7,
+        "relevance_score": 5,
+        "market_tags": "香港、中国内地、全球",
+        "primary_market": "香港",
+        "affected_capability": "支付",
+        "action_owner": "支付",
+        "action_level": "可观察",
+        "flipos_impact": "支付宝AI平台若在香港商户普及，可能影响FLIPOS港澳客户的支付集成需求，需要评估是否支持AI驱动的支付回调场景。当前港澳Solution Pack中的Wallet Card、MPay等支付通道暂未被直接替代。",
+        "recommended_action": "支付团队应持续跟踪支付宝AI平台生态进展，评估其对港澳商户支付集成需求的潜在影响，尤其是AI助手自动化交易场景是否需要新的回调对接方案。"
+      }
+    },
+    {
       "id": 318,
       "title": "Zetrix AI to Help Philippines Verify Government Credentials on Blockchain",
       "url": "https://fintechnews.my/59492/blockchain/zetrix-philippines/",
@@ -4200,6 +4275,31 @@
         "action_level": "可观察",
         "flipos_impact": "马来西亚不在FLIPOS当前Solution Pack覆盖范围，暂不影响港澳新日泰市场的支付接入策略。",
         "recommended_action": "持续观察东南亚伊斯兰金融合规要求，未来如考虑进入马来西亚市场需提前研究当地伊斯兰支付认证标准。"
+      }
+    },
+    {
+      "id": 320,
+      "title": "CIMB Islamic Plans Lower-Cost Credit Card for Daily Expenses",
+      "url": "https://fintechnews.my/59467/fintech-lending-malaysia/cimb-lite-i/",
+      "source": "Fintech News Malaysia",
+      "region": "Malaysia",
+      "domain": "fintech",
+      "published_at": "2026-07-07T05:28:29",
+      "fetched_at": "2026-07-08T09:00:22",
+      "ai_output": {
+        "short_title": "CIMB伊斯兰推低门槛信用卡布局马来",
+        "one_line_signal": "马来西亚银行推出无年费简化信用卡，反映当地消费金融普惠化趋势",
+        "zh_summary": "CIMB伊斯兰银行宣布将于2026年10月推出CIMB Lite-i信用卡，主打无年费、14%统一年利率的非复利结构，面向不需要高端福利的日常消费用户。该卡为伊斯兰合规产品，体现马来西亚金融机构扩大普惠金融覆盖的策略。对FLIPOS当前出海市场直接影响有限，属可观察的支付生态变化。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "马来西亚",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_owner": "支付",
+        "action_level": "可观察",
+        "flipos_impact": "马来西亚不在FLIPOS当前Solution Pack覆盖范围内，此新闻暂无直接业务影响。但需关注东南亚普惠金融趋势，若未来进入马来市场，伊斯兰合规支付能力可能成为必要能力。",
+        "recommended_action": "建议支付团队将此新闻归档为东南亚金融基础设施情报，若未来规划马来市场，需提前研究伊斯兰支付合规要求（Sharia-compliant payment）及本地银行卡网络（DuitNow/P柜台）。"
       }
     },
     {
@@ -4353,6 +4453,31 @@
       }
     },
     {
+      "id": 328,
+      "title": "Why more women are turning to restaurant franchising",
+      "url": "https://www.fastcasual.com/blogs/why-more-women-are-turning-to-restaurant-franchising/",
+      "source": "Fast Casual",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-07-07T10:00:00",
+      "fetched_at": "2026-07-08T09:00:26",
+      "ai_output": {
+        "short_title": "女性加盟餐饮趋势上升",
+        "one_line_signal": "女性餐饮创业者增多，加盟模式成为餐饮创业入口，对SaaS服务商的目标客群结构产生影响",
+        "zh_summary": "越来越多的女性选择通过加盟模式进入餐饮创业领域。文章分析了女性为何倾向于选择加盟而非独立创业：可借助已有品牌知名度和运营支持，降低创业风险。这对面向中小餐饮创业者的SaaS服务商意味着目标客群结构正在变化，加盟品牌总部与加盟商的双层管理需求值得关注。",
+        "category": "餐饮数字化",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "POS",
+        "action_owner": "市场",
+        "action_level": "可观察",
+        "flipos_impact": "女性餐饮加盟商增多可能带来新的客群机会，但也意味着需要关注加盟品牌总部对加盟商数字化工具的统一采购和管理需求，而非仅面向单店。",
+        "recommended_action": "市场团队可关注海外市场女性餐饮创业者比例，在营销素材中体现对中小餐饮创业者的友好性，并探索与加盟品牌总部合作的可能性。"
+      }
+    },
+    {
       "id": 329,
       "title": "UK fintech Kord raises £6.4 million",
       "url": "https://www.finextra.com/newsarticle/48053/uk-fintech-kord-raises-64-million?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -4375,6 +4500,181 @@
         "action_level": null,
         "flipos_impact": "Kord专注于房地产高价值交易支付，与餐饮POS支付场景差异显著，不构成直接竞争或合作机会，对FLIPOS海外业务无实质影响。",
         "recommended_action": "产品团队可将此案例作为身份验证技术趋势的参考，但无需针对餐饮场景调整；支付团队继续聚焦餐饮外卖、堂食的高频小额支付合规需求。"
+      }
+    },
+    {
+      "id": 330,
+      "title": "Italian fintech Satispay partners Mastercard for debit card launch",
+      "url": "https://www.finextra.com/newsarticle/48051/italian-fintech-satispay-partners-mastercard-for-debit-card-launch?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-07-08T00:01:00",
+      "fetched_at": "2026-07-08T09:00:26",
+      "ai_output": {
+        "short_title": "Satispay联手Mastercard推出借记卡",
+        "one_line_signal": "欧洲独立支付平台加速向超级应用演进，从电子钱包扩展至银行卡和投资领域",
+        "zh_summary": "意大利支付独角兽Satispay与Mastercard合作推出借记卡，并新增股票ETF投资功能。这反映了欧洲独立支付平台从单一电子钱包向\"超级应用\"生态演进的趋势。对FLIPOS的参考意义在于：东南亚/东亚市场的钱包合作伙伴（Line Pay、KPay等）未来可能采用类似策略，需提前评估接口兼容性和合作可能性。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 5,
+        "market_tags": "欧洲、意大利、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_owner": "支付",
+        "action_level": "可观察",
+        "flipos_impact": "该事件不直接影响FLIPOS当前Solution Pack，但展示了支付平台向超级应用演进的路径，东南亚/东亚市场的钱包类合作伙伴（如Line Pay、KPay）未来可能采取类似策略。",
+        "recommended_action": "支付团队可关注Satispay等欧洲独立支付平台的生态扩展策略，评估FLIPOS接口对钱包+银行卡混合模式的兼容性，为未来与钱包伙伴的深化合作做准备。"
+      }
+    },
+    {
+      "id": 331,
+      "title": "How real-time payments expand",
+      "url": "https://www.paymentsdive.com/news/how-real-time-payments-expand-stripe-fintechs-fednow-rtp-consumers-banks/824410/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-07-07T08:47:00",
+      "fetched_at": "2026-07-08T09:00:26",
+      "ai_output": {
+        "short_title": "Stripe前高管预测实时支付重大突破",
+        "one_line_signal": "全球消费者端实时支付基础设施将在18个月内取得重大进展，支付时效性竞争加剧",
+        "zh_summary": "Stripe前高管预测未来18个月消费者层面实时支付将有重大突破。随着FedNow、RTP网络持续扩张，实时支付正从B2B向C端加速渗透。支付结算时效将成为餐饮商户选择支付服务商的核心考量因素之一。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 7,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_owner": "支付",
+        "action_level": "可观察",
+        "flipos_impact": "FLIPOS需关注海外市场实时支付网络演进，特别是东南亚和东亚市场的新兴即时支付方案，以便在未来支付合作选型中保持技术前瞻性。",
+        "recommended_action": "支付团队应持续跟踪各出海市场的实时支付基础设施成熟度（如新加坡PayNow、泰国PromptPay、港澳转数快），评估与现有Adyen等支付伙伴的整合路径，在Solution Pack迭代中预留实时支付扩展接口。"
+      }
+    },
+    {
+      "id": 332,
+      "title": "Burger King extends chicken sandwich lineup",
+      "url": "https://www.qsrweb.com/news/burger-king-extends-chicken-sandwich-lineup/",
+      "source": "QSR Web",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-07-07T16:00:00",
+      "fetched_at": "2026-07-08T09:00:28",
+      "ai_output": {
+        "short_title": "汉堡王拓展鸡肉三明治产品线",
+        "one_line_signal": "头部快餐品牌持续加码大单品策略，菜单创新成为QSR竞争焦点",
+        "zh_summary": "汉堡王宣布扩展鸡肉三明治产品组合，增添新口味或新品类。此举反映快餐行业以产品创新驱动同店增长的策略，对POS系统菜单管理能力提出快速响应要求。",
+        "category": "竞品动态",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "全球、美国",
+        "primary_market": "全球",
+        "affected_capability": "POS",
+        "action_owner": "市场",
+        "action_level": "可观察",
+        "flipos_impact": "文章来自QSR行业媒体，内容为汉堡王菜单扩展，对FLIPOS POS和支付业务无直接关联，但可作为观察海外快餐数字化趋势的参考。",
+        "recommended_action": "市场团队可归档此类竞品动态用于行业趋势分析，无需产品或支付团队介入。"
+      }
+    },
+    {
+      "id": 333,
+      "title": "Freddy’s plans to reach 600 restaurants in 2026",
+      "url": "https://www.restaurantdive.com/news/freddys-opens-60-units-2026-surpassing-600/824586/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-07-07T11:22:00",
+      "fetched_at": "2026-07-08T09:00:28",
+      "ai_output": {
+        "short_title": "Freddy's快餐连锁加速扩张剑指600店",
+        "one_line_signal": "美国快餐连锁Freddy's以60家新店提速扩张，反映快餐赛道持续整合与加盟模式优化趋势",
+        "zh_summary": "Freddy's宣布2026年门店将超600家，今年新开60店并调整店型策略，主打inline和endcap以增强加盟商选址灵活性。该案例反映美国快餐连锁正通过优化加盟模型实现规模化，对FLIPOS海外业务的支付合规和POS能力暂无直接影响。",
+        "category": "竞品动态",
+        "importance_score": 3,
+        "relevance_score": 1,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_owner": "市场",
+        "action_level": "可观察",
+        "flipos_impact": "Freddy's的扩张新闻属于美国本土餐饮连锁动态，未涉及FLIPOS当前出海布局的支付、POS或合规能力，对港澳、新加坡、日本、泰国市场无业务影响。",
+        "recommended_action": "建议市场团队将此作为美国餐饮行业情报持续跟踪，无需产品、支付或法务团队介入评估。"
+      }
+    },
+    {
+      "id": 334,
+      "title": "Taco Bell revs up drive-thru AI deployment",
+      "url": "https://www.restaurantdive.com/news/taco-bell-omilia-drive-thru-ai-deployment/824564/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-07-07T11:08:00",
+      "fetched_at": "2026-07-08T09:00:28",
+      "ai_output": {
+        "short_title": "Taco Bell美国900店部署免下车语音AI点单",
+        "one_line_signal": "美国快餐连锁加速AI语音点单规模化，替代传统人工窗口的自动化趋势明确",
+        "zh_summary": "Taco Bell与语音AI公司Omilia合作，将语音点单技术扩展至近900家美国门店。这是继麦当劳、Hardee's后又一快餐巨头加码AI点单，标志着免下车通道的语音自动化进入规模化落地阶段。对亚洲市场而言，自助点单/Kiosk的竞争已从触屏交互延伸至语音交互。",
+        "category": "AI与自动化",
+        "importance_score": 7,
+        "relevance_score": 5,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "Kiosk",
+        "action_owner": "产品",
+        "action_level": "可观察",
+        "flipos_impact": "当前FLIPOS Solution Pack中的Kiosk/H5点单方案以触屏交互为主，语音点单暂未覆盖。此趋势表明亚洲市场未来Kiosk竞争维度可能扩展，需关注日本、新加坡客户的潜在需求。",
+        "recommended_action": "产品团队可开始调研语音点单的技术可行性和日本/新加坡市场需求，作为2025年Kiosk能力升级的参考方向；目前暂无需纳入紧急Roadmap。"
+      }
+    },
+    {
+      "id": 335,
+      "title": "Squirrel Brings Cloud POS, Integrated Payments and Kitchen Automation to Restaurants and Hotels",
+      "url": "https://restauranttechnologynews.com/2026/07/squirrel-brings-cloud-pos-integrated-payments-and-kitchen-automation-to-restaurants-and-hotels/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-07-07T14:39:59",
+      "fetched_at": "2026-07-08T09:00:28",
+      "ai_output": {
+        "short_title": "老牌POS厂商Squirrel加速云化转型",
+        "one_line_signal": "42年老牌餐饮POS厂商Squirrel推出Cloud POS，强调多渠道订单整合和云迁移平滑路径，反映全服务餐饮对一体化平台的需求",
+        "zh_summary": "Squirrel Systems发布Squirrel Cloud POS，定位全服务餐厅、酒店和多门店企业。平台支持iOS/Android/Windows多终端运行，整合堂食、外卖、路边取餐、kiosk、QR点单等全渠道订单路由。核心卖点是云迁移工具（自动数据迁移、简化工作流）降低替换风险，呼应行业从传统POS向云端转型的趋势。",
+        "category": "竞品动态",
+        "importance_score": 6,
+        "relevance_score": 7,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "POS",
+        "action_owner": "产品",
+        "action_level": "可观察",
+        "flipos_impact": "Squirrel的云迁移工具和全渠道订单整合策略与FLIPOS的iPad POS和H5/Kiosk点单能力存在直接竞争，需关注其定价和部署灵活性。",
+        "recommended_action": "产品团队应对比Squirrel Cloud的功能矩阵，评估FLIPOS在多渠道订单路由和云迁移体验上的差距，必要时强化迁移工具能力。"
+      }
+    },
+    {
+      "id": 336,
+      "title": "MarginEdge Improves Restaurant Profitability With Real-Time Cost Management, AI Forecasting and Back-Office Automation",
+      "url": "https://restauranttechnologynews.com/2026/07/marginedge-improves-restaurant-profitability-with-real-time-cost-management-ai-forecasting-and-back-office-automation/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-07-07T14:18:31",
+      "fetched_at": "2026-07-08T09:00:28",
+      "ai_output": {
+        "short_title": "MarginEdge后端成本管理平台处理百亿美元餐饮支出",
+        "one_line_signal": "餐饮后端运营自动化成新热点，实时成本管理和发票数字化处理正在重塑餐厅利润管理方式",
+        "zh_summary": "MarginEdge专注餐饮后端财务自动化，帮助餐厅实时追踪食品成本、库存和利润表现。平台已处理超150亿美元餐饮支出，年支付额超10亿美元。核心差异在于将POS数据、发票和会计系统打通，减少手动数据录入。值得FLIPOS关注的是，后端成本管理正成为餐饮SaaS的下一个竞争高地。",
+        "category": "竞品动态",
+        "importance_score": 7,
+        "relevance_score": 6,
+        "market_tags": "美国、加拿大、全球",
+        "primary_market": "全球",
+        "affected_capability": "CRM",
+        "action_owner": "产品",
+        "action_level": "可观察",
+        "flipos_impact": "FLIPOS当前Solution Pack聚焦POS、外卖和支付前端，后端成本管理和发票自动化暂未覆盖。MarginEdge的快速扩张表明餐厅对财务可见性需求强烈，可能成为未来扩展方向。",
+        "recommended_action": "产品团队需评估是否在现有POS基础上叠加成本管理和库存追踪能力，或通过开放API与专业后端系统集成，完善餐饮数字化闭环。"
       }
     },
     {
