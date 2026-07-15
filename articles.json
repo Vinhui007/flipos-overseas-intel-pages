@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T04:42:30",
-  "count": 288,
+  "generated_at": "2026-07-15T10:06:00",
+  "count": 438,
   "articles": [
     {
       "id": 1,
@@ -2166,6 +2166,489 @@
       }
     },
     {
+      "id": 104,
+      "title": "Deluxe makes $625M acquisition",
+      "url": "https://www.paymentsdive.com/news/deluxe-makes-625m-acquisition/823276/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-18T10:57:12",
+      "fetched_at": "2026-06-19T02:03:55",
+      "ai_output": {
+        "short_title": "Deluxe 6.25亿美元收购支付处理器 Celero",
+        "one_line_signal": "传统支票公司通过收购支付处理器加速数字化转型，反映 B2B 支付整合加速",
+        "zh_summary": "美国传统支票公司 Deluxe 以 6.25 亿美元收购支付处理商 Celero，旨在提升非支票业务收入。Celero 为金融机构和商户提供支付技术基础设施，此次收购显示支票等传统支付介质的市场持续萎缩，支付基础设施整合趋势加强。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 105,
+      "title": "Lenders ramp up scam defenses",
+      "url": "https://www.paymentsdive.com/news/banks-scam-defenses-elder-fraud-fifth-third-star-one/823280/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-18T10:08:32",
+      "fetched_at": "2026-06-19T02:03:55",
+      "ai_output": {
+        "short_title": "银行强化诈骗防御应对支付欺诈",
+        "one_line_signal": "美国银行加速部署实时欺诈检测，反欺诈合规要求向支付生态链上游传导",
+        "zh_summary": "Fifth Third、Star One等美国银行推出早期诈骗检测机制，重点针对老年用户。银行正从被动拦截转向主动预警，支付欺诈防御门槛持续提高。对餐饮SaaS而言，支付环节的合规摩擦可能增加，需提前评估风控对商户体验的影响。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 4,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 106,
+      "title": "Tracking digital payments skids",
+      "url": "https://www.paymentsdive.com/news/tracking-digital-payments-skids/823194/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-17T15:47:00",
+      "fetched_at": "2026-06-19T02:03:55",
+      "ai_output": {
+        "short_title": "数字支付追踪与合规：信息追溯难题",
+        "one_line_signal": "行业律师指出数字支付的核心挑战不在于资金流转电子化，而在于交易信息的完整追溯与合规管控",
+        "zh_summary": "行业律师指出支付数字化的核心难题是交易信息的留存与合规管控，而非单纯的资金电子化转移。这对所有出海支付基础设施提出警示：合规审计能力与交易可追溯性需在架构设计阶段纳入优先级。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 7,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 107,
+      "title": "House Bill Would Give Banks Time to Investigate Suspicious Checks",
+      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/house-bill-would-give-banks-time-to-investigate-suspicious-checks/",
+      "source": "PYMNTS",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-19T01:15:04",
+      "fetched_at": "2026-06-19T02:03:57",
+      "ai_output": {
+        "short_title": "美众议员提案延长可疑支票调查冻结期",
+        "one_line_signal": "美国立法赋予银行更多时间调查可疑支票和电汇欺诈，旨在应对支票诈骗持续回升趋势",
+        "zh_summary": "美国众议员Young Kim提出STOP Payments Fraud Act 2026，允许金融机构对可疑支票和电汇实施延长冻结以调查欺诈。美联储调查显示63%金融机构曾遭遇支票欺诈尝试，31%报告实际损失。该法案聚焦美国传统支付欺诈，与FLIPOS东南亚及东亚餐饮SaaS市场无直接关联。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 2,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 108,
+      "title": "Deutsche Bank Points to Proven Returns on AI Investments",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deutsche-bank-points-to-proven-returns-on-ai-investments/",
+      "source": "PYMNTS",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-19T00:21:20",
+      "fetched_at": "2026-06-19T02:03:57",
+      "ai_output": {
+        "short_title": "德银AI项目周期从2年缩至3月",
+        "one_line_signal": "金融行业AI投资已验证可量化回报，企业级AI应用正从实验走向规模化落地",
+        "zh_summary": "德意志银行CIO表示AI可将部分项目完成时间从2年缩短至3个月。85%大型金融机构计划增加AI预算，65%已部署AI技术。对FLIPOS而言，需关注AI对餐饮SaaS后台效率工具的潜在需求，但本文聚焦金融行业后台运营，未涉及餐饮或支付基础设施。",
+        "category": "AI与自动化",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 109,
+      "title": "Banking Groups Push to Reduce Basel Proposal Capital Charges",
+      "url": "https://www.pymnts.com/legal/bank-regulation/2026/banking-groups-push-to-reduce-basel-proposal-capital-charges/",
+      "source": "PYMNTS",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-18T23:55:48",
+      "fetched_at": "2026-06-19T02:03:57",
+      "ai_output": {
+        "short_title": "美国银行业呼吁调整巴塞尔资本要求",
+        "one_line_signal": "美国五大银行协会联合提交意见书，要求修改3月发布的巴塞尔资本提案以消除过度资本计提",
+        "zh_summary": "五大银行协会在6月18日提交联署意见书，要求修改3月发布的巴塞尔资本提案。协会认为提案虽有改进，但部分重叠要求导致部分风险类别资本计提过高，建议推迟至2028年1月1日后实施。虽涉及美国银行业，但可能影响全球监管走向。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 2,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 110,
+      "title": "Wall Street Backs the Plumbing as Morpho Secures Historical Funding Round",
+      "url": "https://thefintechtimes.com/wall-street-backs-the-plumbing-as-morpho-secures-historical-funding-round/",
+      "source": "The Fintech Times",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-18T13:09:59",
+      "fetched_at": "2026-06-19T02:04:06",
+      "ai_output": {
+        "short_title": "DeFi信贷协议Morpho获1.75亿美元融资",
+        "one_line_signal": "主流机构加速布局链上信贷基础设施，但餐饮SaaS短期不受影响",
+        "zh_summary": "开源区块链信贷协议Morpho完成1.75亿美元融资，估值达20亿美元，获Apollo、VanEck、Circle等传统机构支持。这反映传统金融机构正加大对链上信贷基础设施的投资，但对餐饮SaaS的支付和外卖集成暂无直接关联。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 2,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 111,
+      "title": "Micronesia: Can Fintech Connect the Multi-Island Pacific Nation?",
+      "url": "https://thefintechtimes.com/micronesia-can-fintech-connect-the-multi-island-pacific-nation/",
+      "source": "The Fintech Times",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-18T09:28:42",
+      "fetched_at": "2026-06-19T02:04:06",
+      "ai_output": {
+        "short_title": "密克罗尼西亚： fintech 能连接群岛国家吗",
+        "one_line_signal": "微型岛国密克罗尼西亚探索 fintech 作为基础设施解决地理孤岛难题",
+        "zh_summary": "密克罗尼西亚由600余岛屿组成、人口仅约11.5万，地理分散导致金融覆盖困难。Fintech 在该国被定位为“基础设施”而非颠覆式创新，核心是突破物理距离限制。这对评估东南亚/太平洋小岛国市场的支付基础设施机会有参考价值，但非 FLIPOS 近期目标市场。",
+        "category": "支付与合规",
+        "importance_score": 2,
+        "relevance_score": 2,
+        "market_tags": "全球、太平洋岛国",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 112,
+      "title": "Tokinvest Welcomes Franklin Templeton and Synthesys to Expand Institutional RWA Pipeline in the Middle East",
+      "url": "https://thefintechtimes.com/tokinvest-welcomes-franklin-templeton-and-synthesys-to-expand-institutional-rwa-pipeline-in-the-middle-east/",
+      "source": "The Fintech Times",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-18T05:00:14",
+      "fetched_at": "2026-06-19T02:04:06",
+      "ai_output": {
+        "short_title": "Franklin Templeton代币化基金进入中东市场",
+        "one_line_signal": "RWA代币化从零售向机构级扩展，中东数字财富基础设施快速成熟",
+        "zh_summary": "迪拜Tokinvest与Franklin Templeton达成战略合作，将后者基于区块链的美元货币市场基金引入中东合格投资者。该基金注册于新加坡MAS授权的可变资本公司，使用Benji®代币化引擎。这是RWA代币化机构化进程的重要节点，但对餐饮SaaS和支付领域无直接关联。",
+        "category": "支付与合规",
+        "importance_score": 3,
+        "relevance_score": 1,
+        "market_tags": "中东、新加坡、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 113,
+      "title": "Deluxe agrees $625m acquisition of payment processor Celero",
+      "url": "https://www.finextra.com/newsarticle/47956/deluxe-agrees-625m-acquisition-of-payment-processor-celero?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-19T00:01:00",
+      "fetched_at": "2026-06-19T02:04:07",
+      "ai_output": {
+        "short_title": "Deluxe 6.25亿美元收购支付处理商Celero",
+        "one_line_signal": "美国老牌金融公司Deluxe收购支付处理器Celero，反映支付行业持续整合，中小型支付服务商被大型企业收并购趋势加速",
+        "zh_summary": "Deluxe以6.25亿美元现金收购支付处理器Celero Commerce。Deluxe以支票业务起家，现正转型数字支付服务。Celero为北美商户提供支付处理、POS集成及B2B支付解决方案。此次收购显示支付行业整合加速，中小支付服务商正成为大型金融科技公司的并购目标。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 114,
+      "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+      "url": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+      "source": "TechCrunch Fintech",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-16T15:35:39",
+      "fetched_at": "2026-06-19T02:04:08",
+      "ai_output": {
+        "short_title": "Flutterwave获32亿美元估值 Ripple投资非洲支付",
+        "one_line_signal": "非洲支付基础设施整合区块链技术，估值攀升显示跨境支付赛道持续火热",
+        "zh_summary": "非洲支付公司Flutterwave宣布估值达32亿美元，区块链公司Ripple成为其投资方和战略合作伙伴。Ripple的XRP账本技术预计将增强Flutterwave的跨境支付能力。此事件对专注亚太餐饮SaaS的FLIPOS无直接影响，但反映了全球支付基础设施加速整合区块链资源的趋势。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "非洲、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 115,
+      "title": "Hatco Connects Production, Merchandising and Fulfillment Across the Modern Restaurant Workflow",
+      "url": "https://restauranttechnologynews.com/2026/06/hatco-connects-production-merchandising-and-fulfillment-across-the-modern-restaurant-workflow/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-06-17T15:37:26",
+      "fetched_at": "2026-06-19T02:04:10",
+      "ai_output": {
+        "short_title": "美国商用厨房设备商Hatco拓展烹饪与保温集成方案",
+        "one_line_signal": "美国商用厨房设备商Hatco从保温展示向智能烹饪设备延伸，发布可编程感应灶等产品以应对劳动力短缺",
+        "zh_summary": "Hatco在2026年餐饮展会上展示覆盖烹饪、保温、展示到取餐全流程的产品组合，核心新品为获厨房创新奖的可编程6燃烧器感应灶，支持多阶段食谱编程以减少对熟练厨师的依赖。该公司还整合了Ovention、FWE等品牌。从餐饮SaaS出海视角看，该新闻反映厨房硬件智能化趋势，但对FLIPOS支付、POS、外卖等软件能力无直接关联。",
+        "category": "竞品动态",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 116,
+      "title": "Alto-Shaam Brings Connected Cooking, Ventless Flexibility and Kitchen Efficiency to the Forefront",
+      "url": "https://restauranttechnologynews.com/2026/06/alto-shaam-brings-connected-cooking-ventless-flexibility-and-kitchen-efficiency-to-the-forefront/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-06-17T14:35:50",
+      "fetched_at": "2026-06-19T02:04:10",
+      "ai_output": {
+        "short_title": "Alto-Shaam展示联网厨房设备提升后厨效率",
+        "one_line_signal": "商用厨房设备厂商聚焦联网控制与多功能烹饪，但这属于硬件层创新，与FLIPOS的餐饮SaaS/POS/支付业务相关性极低。",
+        "zh_summary": "Alto-Shaam在2026年美国餐饮展上展示其联网烹饪、免排油烟安装和多用途烤箱等产品线，强调在劳动力紧缺和厨房空间受限下提升出品一致性。其Vector/Converge/Origin系列烤箱采用Structured Air Technology实现多品类同步烹饪。这是一条餐饮后厨硬件设备新闻，与FLIPOS的POS、外卖、支付等前台数字化能力无直接关联。",
+        "category": "竞品动态",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 117,
+      "title": "Atosa Expands Its Commercial Kitchen Platform with Automation, Refrigeration and Operational Efficiency at the Center",
+      "url": "https://restauranttechnologynews.com/2026/06/atosa-expands-its-commercial-kitchen-platform-with-automation-refrigeration-and-operational-efficiency-at-the-center/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-06-17T12:22:01",
+      "fetched_at": "2026-06-19T02:04:10",
+      "ai_output": {
+        "short_title": "厨房设备商Atosa拓展自动化方案",
+        "one_line_signal": "商业厨房设备商从硬件供应商向智能化解决方案延伸，后厨自动化趋势加速",
+        "zh_summary": "美国厨房设备制造商Atosa在2026NRA展会上展示其从制冷、烹饪设备向自动化方案扩展的战略，包括机器人薯条解决方案。该公司正从单一设备供应商向后厨整体解决方案商转型，提供培训资源支持运营。对餐饮SaaS业者而言，需关注硬件厂商向软硬一体方案渗透的竞争态势。",
+        "category": "竞品动态",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 118,
+      "title": "Restaurant software was built by people who never worked a Friday night close",
+      "url": "https://www.restaurantdive.com/news/Opinion-temo-benidze-restaurant-software-pitfalls/823072/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-18T09:06:00",
+      "fetched_at": "2026-06-19T02:04:11",
+      "ai_output": {
+        "short_title": "餐厅软件设计被指脱离一线运营现实",
+        "one_line_signal": "餐饮SaaS行业反思软件功能堆砌问题，强调产品需真正节省运营时间而非增加仪表板负担",
+        "zh_summary": "Orbis AI高管撰文批评餐厅软件开发者缺乏一线运营经验，导致产品功能堆砌但无法解决真实痛点。指出软件应帮助餐厅节省时间，而非提供更多仪表板供查看。对餐饮SaaS产品设计敲响警钟，提醒厂商需深入理解餐厅周五晚高峰等实际运营场景。",
+        "category": "餐饮数字化",
+        "importance_score": 4,
+        "relevance_score": 7,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 119,
+      "title": "QSRs are gaining ground in dispensed beverages",
+      "url": "https://www.restaurantdive.com/news/qsrs-gaining-ground-in-dispensed-beverages-c-stores/822889/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-18T09:01:00",
+      "fetched_at": "2026-06-19T02:04:11",
+      "ai_output": {
+        "short_title": "美快餐连锁强化现调饮品竞争便利店的启示",
+        "one_line_signal": "美国快餐品牌加码现调饮品业务，折射出餐饮POS需强化饮品调制与自定义选项的趋势",
+        "zh_summary": "美国快餐连锁如麦当劳、Whataburger正加速推出现调饮品、鲜啤类饮品，与便利店争夺饮品市场份额。这反映出QSR业态正向饮品服务延伸，对POS系统的饮品调制管理、自定义选项及Kiosk点单功能提出更高要求。原文未说明该趋势是否蔓延至亚太市场。",
+        "category": "餐饮数字化",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 120,
+      "title": "Franchising requires strong finances, good real estate and a vibrant brand",
+      "url": "https://www.restaurantdive.com/news/franchising-requires-strong-finances-good-real-estate-and-a-vibrant-brand/822075/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-18T09:00:00",
+      "fetched_at": "2026-06-19T02:04:11",
+      "ai_output": {
+        "short_title": "美国餐饮加盟指南：财务选址品牌缺一不可",
+        "one_line_signal": "美国餐饮行业重申加盟模式需具备强财务、好选址、活力品牌三大要素，侧重经营决策层面，非技术产品动态",
+        "zh_summary": "美国餐饮行业媒体 Restaurant Dive 发布文章指出，餐厅在决定是否走加盟路线时，需综合评估概念类型、费用结构、运营流程和财务状况。行业专家强调加盟成功依赖于这三方面准备。该文属于美国餐饮行业通用经营洞察，非技术产品或支付合规类新闻。",
+        "category": "餐饮数字化",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "市场"
+      }
+    },
+    {
+      "id": 121,
+      "title": "Over a Quarter of Trust Bank Customers Are Aged 55 and Above",
+      "url": "https://fintechnews.sg/133243/digital-banking-news-singapore/trust-bank-customers/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-06-18T09:02:33",
+      "fetched_at": "2026-06-19T02:04:17",
+      "ai_output": {
+        "short_title": "新加坡Trust Bank用户破百万 55岁以上占25%",
+        "one_line_signal": "新加坡数字银行Trust Bank用户结构显示中老年群体数字化接受度高，为餐饮商户接入数字支付提供用户基础参考",
+        "zh_summary": "新加坡数字银行Trust Bank宣布用户突破100万，其中55岁以上客户占25%以上，25-45岁占40%以上。客户累计完成6000万笔海外交易，节省1.42亿新加坡元外汇费用，餐饮消费是主要消费类别之一。该行还推出生成式AI客服，减少50%人工咨询。该数据反映新加坡中老年用户数字金融接受度提升，对餐饮SaaS的支付集成和客群定位有参考价值。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 5,
+        "market_tags": "新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 122,
+      "title": "Sea Reportedly Brings Migoo AI Chatbot to the US Market",
+      "url": "https://fintechnews.sg/133239/ai/sea-migoo-ai-chatbot/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-06-18T08:31:12",
+      "fetched_at": "2026-06-19T02:04:17",
+      "ai_output": {
+        "short_title": "Sea 旗下 Migoo AI 聊天机器人进军美国",
+        "one_line_signal": "Sea 集团通过 AI 聊天机器人 Migoo 探索美国消费市场，彰显东南亚科技巨头加速 AI 商业化布局",
+        "zh_summary": "Sea 集团（Shopee 母公司）被曝正在美国测试 AI 聊天机器人 Migoo，通过加州注册的 Marvelous Technology Inc 运营。该产品利用用户偏好数据提供个性化对话，并已支持 iMessage 等渠道。Sea 同时扩展与 Google 的 AI 合作，将 AI 应用至 Shopee、Garena 和 SeaMoney。",
+        "category": "AI与自动化",
+        "importance_score": 6,
+        "relevance_score": 3,
+        "market_tags": "美国、新加坡",
+        "primary_market": "全球",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 123,
+      "title": "Fime Wants to FACT-Check Whether AI Buys What You Really Asked For",
+      "url": "https://fintechnews.sg/132883/ai/agentic-ai-commerce-trust-fime-fact-framework/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-06-18T07:38:06",
+      "fetched_at": "2026-06-19T02:04:17",
+      "ai_output": {
+        "short_title": "Fime推AI代理消费信任框架FACT",
+        "one_line_signal": "AI代理消费信任缺失引发关注，Fime提出交易全流程持续核验框架应对US$3-5万亿市场风险",
+        "zh_summary": "Fime提出FACT框架，旨在解决AI代理代替消费者购物时的意图忠实度问题。OpenAI、Google、Visa、Mastercard等已布局AI代理支付系统，但现有支付网络无法验证AI是否按用户原始指令行动。73%全球消费者接受AI代理购物（新加坡85%），市场预计2030年达US$3-5万亿，1%争议率即可造成数百亿美元纠纷。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 5,
+        "market_tags": "新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 124,
+      "title": "HKEX and HKMA Launch Pilot on e-HKD for After-Hours Margin Payments",
+      "url": "https://fintechnews.hk/39308/blockchain/hkex-hkma-e-hkd-after-hours-trading-pilot/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-06-18T10:06:57",
+      "fetched_at": "2026-06-19T02:04:24",
+      "ai_output": {
+        "short_title": "港交所金管局启动e-HKD期货保证金试点",
+        "one_line_signal": "香港批发型CBDC试点落地，聚焦金融市场24/7结算，与餐饮零售支付暂无关联",
+        "zh_summary": "HKEX与HKMA联合推出e-HKD批发型CBDC试点，用于期货市场收盘后的保证金提前支付结算。试点针对金融衍生品清算机构，暂不涉及零售消费场景。e-HKD在金融基础设施层面的探索，可能为未来更广泛的数字港元应用奠定基础，但短期内对餐饮SaaS支付链路无直接影响。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 2,
+        "market_tags": "香港",
+        "primary_market": "香港",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 125,
+      "title": "Can You Trust AI Agents to Stay Within Your Intent?",
+      "url": "https://fintechnews.hk/39304/ai/agentic-commerce-payments-fime-fact/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-06-18T08:16:20",
+      "fetched_at": "2026-06-19T02:04:24",
+      "ai_output": {
+        "short_title": "AI代理支付兴起带来的信任与合规挑战",
+        "one_line_signal": "AI代理正进入支付与消费决策场景，传统支付验证机制无法确保代理行为符合用户原始意图",
+        "zh_summary": "OpenAI、Google、Visa、Mastercard等巨头正在构建AI代理支付基础设施，Worldpay数据显示73%全球消费者愿意使用AI代理购物（新加坡85%、中国95%）。Fime提出FACT框架，指出传统支付认证只能确认交易发起人身份，无法验证AI代理是否忠实执行用户指令，预测2030年代理商务市场规模达3-5万亿美元。",
+        "category": "AI与自动化",
+        "importance_score": 8,
+        "relevance_score": 6,
+        "market_tags": "新加坡、中国、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 126,
+      "title": "China CITIC Bank Taps Tencent Cloud for Fintech 2.0 Banking Push in Hong Kong",
+      "url": "https://fintechnews.hk/39296/various/tencent-cloud-cncbi-fintech-2-hong-kong/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-06-18T05:38:49",
+      "fetched_at": "2026-06-19T02:04:24",
+      "ai_output": {
+        "short_title": "中信银行联手腾讯云推进香港金融科技2.0",
+        "one_line_signal": "中资银行在香港借助腾讯云进行核心系统现代化和AI合规建设",
+        "zh_summary": "中信银行国际与腾讯云达成战略合作，推进Fintech 2.0战略，聚焦深圳香港协同及AI驱动的智能风控。合作涉及下一代核心银行架构升级及本地技术栈评估，以满足香港监管合规要求。对FLIPOS而言，腾讯云在香港银行合规领域的能力增强值得关注，但暂不直接影响餐饮SaaS能力。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "香港、深圳",
+        "primary_market": "港澳",
+        "affected_capability": "云部署"
+      }
+    },
+    {
       "id": 127,
       "title": "Gary Yeoh Set to Step Down as Chief Marketing Officer at PayNet, Sources Say",
       "url": "https://fintechnews.my/59129/payments-remittance-malaysia/gary-yeoh-paynet/",
@@ -2310,6 +2793,48 @@
         "market_tags": "泰国、东南亚",
         "primary_market": null,
         "affected_capability": null
+      }
+    },
+    {
+      "id": 134,
+      "title": "Clicx debuts with special interest rates of up to 4%",
+      "url": "https://www.bangkokpost.com/business/general/3273011/clicx-debuts-with-special-interest-rates-of-up-to-4",
+      "source": "Bangkok Post Business",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-06-19T05:14:00",
+      "fetched_at": "2026-06-19T02:04:51",
+      "ai_output": {
+        "short_title": "泰国首家虚拟银行Clicx开业推4%利率",
+        "one_line_signal": "泰国虚拟银行赛道正式开跑，数字金融基础设施竞争加剧",
+        "zh_summary": "泰国首家虚拟银行Clicx于6月19日正式开业，首日提供高达4%的存款利率吸引客户。这是泰国数字金融发展的重要里程碑，但对FLIPOS当前餐饮SaaS业务暂无直接冲击。长期看，虚拟银行可能推出B端商户金融服务，需持续关注。",
+        "category": "出海市场动态",
+        "importance_score": 3,
+        "relevance_score": 4,
+        "market_tags": "泰国",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 135,
+      "title": "Summer Spending Will Be Shaped by What Households Refuse to Give Up",
+      "url": "https://www.pymnts.com/consumer-finance/2026/summer-spending-will-be-shaped-by-what-households-refuse-to-give-up/",
+      "source": "PYMNTS",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-19T13:00:31",
+      "fetched_at": "2026-06-19T15:27:21",
+      "ai_output": {
+        "short_title": "美国消费者夏季节流：必需品定义因人而异",
+        "one_line_signal": "美国消费者在经济压力下仍保护个人优先支出，支出决策从品类逻辑转向个人价值排序",
+        "zh_summary": "PYMNTS调研显示83%消费者认为日常物价上涨，但仅38%计划削减支出。消费者按个人优先级而非经济学家分类来决定开支——家庭相关费用、住房、子女教育被优先保护，而度假、就餐可能被视为可削减项。对餐饮等本地生活服务商而言，理解用户个人消费优先级比依赖传统品类标签更有价值。",
+        "category": "本地生活平台",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "市场"
       }
     },
     {
@@ -2460,6 +2985,27 @@
       }
     },
     {
+      "id": 143,
+      "title": "Thailand’s First Virtual Bank Clicx Launches With 4% Savings Offer",
+      "url": "https://fintechnews.sg/133267/digital-banking-news-singapore/clicx-bank-launch/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-06-19T05:34:14",
+      "fetched_at": "2026-06-19T15:30:54",
+      "ai_output": {
+        "short_title": "泰国首家虚拟银行Clicx开业推4%高息",
+        "one_line_signal": "泰国正式开放虚拟银行市场，本土金融巨头与电信能源联合抢滩零售存款竞争",
+        "zh_summary": "泰国首家虚拟银行Clicx由Krungthai Bank、AIS、PTT Oil三家合资成立，6月19日正式开业，推出4%储蓄利率揽客三个月。这是泰国首批获牌的虚拟银行之一，标志着泰国数字银行市场正式启航，对餐饮零售等高频消费场景的数字支付整合可能产生长远影响。",
+        "category": "出海市场动态",
+        "importance_score": 7,
+        "relevance_score": 3,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "支付"
+      }
+    },
+    {
       "id": 144,
       "title": "OCBC Rolls Out OCBC Pulse, A Free ESG Assessment Tool for SMEs and Supply Chains",
       "url": "https://fintechnews.sg/133265/green-fintech/ocbc-pulse-free-esg-tool-smes/",
@@ -2478,6 +3024,27 @@
         "market_tags": "新加坡、马来西亚、印度尼西亚、香港",
         "primary_market": null,
         "affected_capability": null
+      }
+    },
+    {
+      "id": 145,
+      "title": "SEC Maintains Discounted Fees For Philippine MSMEs Raising Capital Market Funds",
+      "url": "https://fintechnews.ph/71881/funding/sec-philippines-msmes-funds-capital-market/",
+      "source": "Fintech News Philippines",
+      "region": "Philippines",
+      "domain": "fintech",
+      "published_at": "2026-06-19T05:38:53",
+      "fetched_at": "2026-06-19T15:47:56",
+      "ai_output": {
+        "short_title": "菲律宾SEC延续中小企业融资费用减免至2026年底",
+        "one_line_signal": "菲律宾证券监管机构延续MSME资本市场融资费用优惠政策，利好当地企业规范化发展",
+        "zh_summary": "菲律宾SEC发布第19号备忘录，延续MSME证券登记费50%折扣至2026年12月31日，旨在降低中小企业进入资本市场的门槛。政策覆盖资产规模在300万至1亿披索的微中小型企业，需满足2500万披索实缴资本要求。该政策聚焦企业融资合规层面，与餐饮SaaS、POS或支付系统无直接关联。",
+        "category": "监管合规",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "菲律宾",
+        "primary_market": "全球",
+        "affected_capability": "合规"
       }
     },
     {
@@ -2520,6 +3087,27 @@
         "market_tags": "菲律宾",
         "primary_market": null,
         "affected_capability": null
+      }
+    },
+    {
+      "id": 148,
+      "title": "Online brokerage Longbridge opens Singapore office at Asia Square Tower 2",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/online-brokerage-longbridge-opens-singapore-office-asia-square-tower-2",
+      "source": "Business Times Startups Tech",
+      "region": null,
+      "domain": null,
+      "published_at": "2026-06-19T09:48:38",
+      "fetched_at": "2026-06-19T15:48:29",
+      "ai_output": {
+        "short_title": "互联网券商Longbridge进驻新加坡",
+        "one_line_signal": "非餐饮行业金融科技公司扩张，与餐饮SaaS无直接关联",
+        "zh_summary": "互联网券商Longbridge在新加坡 Asia Square Tower 2 开设办公室，计划 Q4 2026 开设 Longbridge Cafe。该公司为金融科技企业，非餐饮行业客户，其扩张与餐饮数字化赛道无直接业务关联，无需重点关注。",
+        "category": "出海市场动态",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "POS"
       }
     },
     {
@@ -2793,6 +3381,363 @@
         "market_tags": "马来西亚",
         "primary_market": null,
         "affected_capability": null
+      }
+    },
+    {
+      "id": 162,
+      "title": "Boston Fed forms payments council",
+      "url": "https://www.paymentsdive.com/news/boston-fed-forms-payments-council/823641/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-24T10:02:00",
+      "fetched_at": "2026-06-25T03:39:23",
+      "ai_output": {
+        "short_title": "波士顿联储组建支付政策顾问委员会",
+        "one_line_signal": "美国支付监管框架正与头部企业协作制定政策方向",
+        "zh_summary": "美联储波士顿分行成立支付委员会，邀请Toast、Wex等支付平台及银行参与，旨在收集行业意见以制定政策方针。此举反映美国支付监管趋向与市场参与者协作，对海外餐饮SaaS企业而言，关注美国支付合规标准演变有助于预判跨境支付监管趋势。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 3,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 163,
+      "title": "Judge rules against Fiserv",
+      "url": "https://www.paymentsdive.com/news/judge-rules-against-fiserv/823537/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-23T10:53:00",
+      "fetched_at": "2026-06-25T03:39:23",
+      "ai_output": {
+        "short_title": "Fiserv支付诉讼败诉",
+        "one_line_signal": "美国大型支付处理商Fiserv因合规问题面临多起金融机构诉讼，支付行业监管趋严",
+        "zh_summary": "美国联邦法院驳回Fiserv驳回加州信用合作社诉讼的动议，意味着一系列针对该支付处理商的诉讼将进入正式审理阶段。此案反映美国金融机构对支付处理商合规和服务的审查趋严，对其他支付服务商具有警示意义。",
+        "category": "风险预警",
+        "importance_score": 6,
+        "relevance_score": 3,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 164,
+      "title": "Klarna-Google Antitrust Verdict Set for July 1",
+      "url": "https://www.pymnts.com/legal/antitrust/2026/klarna-google-antitrust-verdict-set-for-july-1/",
+      "source": "PYMNTS",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-25T00:47:02",
+      "fetched_at": "2026-06-25T03:39:27",
+      "ai_output": {
+        "short_title": "Klarna对Google反垄断诉讼判决再次延期至7月1日",
+        "one_line_signal": "Klarna旗下PriceRunner诉Google反垄断案判决第三次推迟，瑞典法院称工作量过大需更多时间",
+        "zh_summary": "Klarna通知投资者，瑞典斯德哥尔摩法院第三次推迟PriceRunner诉Google反垄断案的判决，最新定于7月1日公布。该案涉及Google在搜索结果中偏袒自家购物服务，PriceRunner索赔83亿美元。法院仅称工作量过大，未透露案件走向。此案是Google全球反垄断挑战之一，与FLIPOS餐饮SaaS业务无直接关联。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "欧洲、瑞典、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 165,
+      "title": "CFPB Revises Complaint Portal After Credit Reporting Surge",
+      "url": "https://www.pymnts.com/legal/cfpb/2026/cfpb-overhauls-complaint-system-to-stop-credit-clinic-abuse/",
+      "source": "PYMNTS",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-24T23:44:07",
+      "fetched_at": "2026-06-25T03:39:27",
+      "ai_output": {
+        "short_title": "CFPB Revises Complaint Portal After Credit Reporting Surge",
+        "one_line_signal": "该事件可能反映海外餐饮数字化、支付或本地生活平台的变化信号。",
+        "zh_summary": "【Mock】CFPB Revises Complaint Portal After Credit Reporting Surge。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。",
+        "category": "餐饮数字化",
+        "importance_score": 7,
+        "relevance_score": 7,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 166,
+      "title": "AI Is Now the Threat Banks Must Plan Around",
+      "url": "https://www.pymnts.com/cybersecurity/2026/ai-is-now-the-threat-banks-must-plan-around/",
+      "source": "PYMNTS",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-24T23:04:15",
+      "fetched_at": "2026-06-25T03:39:27",
+      "ai_output": {
+        "short_title": "五眼联盟警告AI网络攻击威胁升级",
+        "one_line_signal": "AI使网络攻击成本降低、速度加快，金融机构需加速部署AI防御体系",
+        "zh_summary": "五眼联盟情报联盟（美英加澳新）联合警告AI正让网络攻击更快、更便宜、更难阻止。金融行业成重点目标，日本银行业协会甚至考虑主动关闭ATM等高风险服务。攻击者已利用AI生成更逼真的欺诈内容，移除传统识别特征。FinTech虽系统较新，但共享云基础设施和开源代码带来连锁风险。对餐饮SaaS而言，支付通道和用户数据安全将面临更高合规要求。",
+        "category": "风险预警",
+        "importance_score": 7,
+        "relevance_score": 6,
+        "market_tags": "全球、日本",
+        "primary_market": "日本",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 167,
+      "title": "Strategic Cashflow Over Last Resort: Brits Pivot to Credit as an Everyday Financial Tool",
+      "url": "https://thefintechtimes.com/strategic-cashflow-over-last-resort-brits-pivot-to-credit-as-an-everyday-financial-tool/",
+      "source": "The Fintech Times",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-24T13:01:09",
+      "fetched_at": "2026-06-25T03:39:36",
+      "ai_output": {
+        "short_title": "英国消费者将信用卡作为日常支付工具",
+        "one_line_signal": "英国消费者行为转变：信用卡从应急工具转为日常现金流管理手段，外出就餐和外卖占信用卡使用场景的29%",
+        "zh_summary": "YouGov调研显示，67%的英国信用卡用户因生活成本压力增加了信用卡使用，但仅19%是出于绝对必要，52%将短期融资视为获取交易价值的策略工具。外出就餐和外卖场景占信用卡使用场景的29%，表明信用卡已深度渗透餐饮高频消费领域。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "英国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 168,
+      "title": "Bank of England’s Stablecoin Framework Draws Praise and Criticism",
+      "url": "https://thefintechtimes.com/bank-of-englands-stablecoin-framework-draws-praise-and-criticism/",
+      "source": "The Fintech Times",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-24T10:45:56",
+      "fetched_at": "2026-06-25T03:39:36",
+      "ai_output": {
+        "short_title": "英央行稳定币框架草案出炉",
+        "one_line_signal": "英国发布系统性稳定币监管草案，明确2027年允许受监管稳定币运营，为全球稳定币合规化提供参考框架",
+        "zh_summary": "英格兰银行于6月22日发布系统性英镑稳定币发行方草案规则，取消了个人持有上限，改用40亿英镑总发行上限，并提升准备金中生息资产比例。该框架目标在2027年让受监管稳定币在英国运营。全球主要央行正加速稳定币合规化，餐饮SaaS商需关注支付基础设施演进方向。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 4,
+        "market_tags": "英国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 169,
+      "title": "On-Chain Convergence: How Regulated Rails are Redefining the Global Financial Core",
+      "url": "https://thefintechtimes.com/on-chain-convergence-how-regulated-rails-are-redefining-the-global-financial-core/",
+      "source": "The Fintech Times",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-24T08:53:29",
+      "fetched_at": "2026-06-25T03:39:36",
+      "ai_output": {
+        "short_title": "传统金融与链上支付融合加速",
+        "one_line_signal": "受监管的链上支付基础设施正从边缘走向主流，传统金融机构开始重构核心系统接纳数字资产",
+        "zh_summary": "Money20/20 Europe会议传出信号：传统金融机构已从观望区块链转向主动重构核心系统。欧洲因监管明确成为数字资产落地标杆，稳定币用例正快速进入企业级市场。这对餐饮SaaS的支付基础设施演进具有长期参考价值，但短期内不直接影响现有Solution Pack。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 3,
+        "market_tags": "欧洲、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 170,
+      "title": "Stablecore launches stablecoin and digital asset programme for credit unions",
+      "url": "https://www.finextra.com/newsarticle/47987/stablecore-launches-stablecoin-and-digital-asset-programme-for-credit-unions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-25T00:01:00",
+      "fetched_at": "2026-06-25T03:39:38",
+      "ai_output": {
+        "short_title": "稳定币进入美国信用社领域",
+        "one_line_signal": "美国信用合作社开始采用稳定币服务，标志着主流金融机构对加密资产的合规化探索",
+        "zh_summary": "Stablecore为美国信用合作社推出稳定币和数字资产早期访问项目。该项目专门针对信用合作社这一特定金融场景，标志着稳定币应用开始向传统金融细分领域扩展。对FLIPOS而言，美国并非当前出海重点市场，且信用合作社模式与餐饮商户支付场景关联度有限，但需关注合规框架的演变趋势。",
+        "category": "支付与合规",
+        "importance_score": 3,
+        "relevance_score": 4,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 171,
+      "title": "Worldpay suffers outage during England vs Ghana World Cup game",
+      "url": "https://www.finextra.com/newsarticle/47988/worldpay-suffers-outage-during-england-vs-ghana-world-cup-game?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-24T15:33:00",
+      "fetched_at": "2026-06-25T03:39:38",
+      "ai_output": {
+        "short_title": "Worldpay世界杯期间故障影响英国支付",
+        "one_line_signal": "支付处理商在高峰期发生故障，对餐饮等线下商户造成直接损失",
+        "zh_summary": "全球支付处理商Worldpay在英格兰对加纳世界杯比赛期间发生服务中断，导致英国酒吧和商店的持卡人无法完成支付。故障发生在高流量时段，凸显了支付基础设施稳定性的重要性。对FLIPOS而言，这意味着出海市场选择支付合作伙伴时需重点评估其SLA和峰值处理能力。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 8,
+        "market_tags": "英国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 172,
+      "title": "Apex Helps Restaurants Automate Order Pickup, Guest Handoff and Off-Premise Fulfillment",
+      "url": "https://restauranttechnologynews.com/2026/06/apex-helps-restaurants-automate-order-pickup-guest-handoff-and-off-premise-fulfillment/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-06-24T15:38:23",
+      "fetched_at": "2026-06-25T03:39:40",
+      "ai_output": {
+        "short_title": "Apex展示自动化取餐柜解决堂食履约痛点",
+        "one_line_signal": "美国餐饮自动化取餐柜方案受关注，反映海外市场对降低人力依赖型履约解决方案的需求趋势",
+        "zh_summary": "Apex Order Pickup Solutions在美国国家餐饮展展示模块化自动化取餐系统（OrderHQ Array Series）和室外智能取餐柜，支持自动取餐、顾客身份验证、温度控制存储等功能，旨在解决数字化订单增长下的前台拥堵和人力依赖问题。该方案体现了海外餐饮市场对「履约自动化」工具的强烈需求，与FLIPOS当前外卖回调、Kiosk点单的履约环节形成潜在能力补强机会。",
+        "category": "餐饮数字化",
+        "importance_score": 6,
+        "relevance_score": 5,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "Kiosk"
+      }
+    },
+    {
+      "id": 173,
+      "title": "Square Unifies Restaurant Operations, Commerce and Business Intelligence on a Single Platform",
+      "url": "https://restauranttechnologynews.com/2026/06/square-unifies-restaurant-operations-commerce-and-business-intelligence-on-a-single-platform/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-06-24T13:57:57",
+      "fetched_at": "2026-06-25T03:39:40",
+      "ai_output": {
+        "short_title": "Square 演进为餐饮统一运营平台",
+        "one_line_signal": "Square 从支付工具扩展为覆盖 POS、外卖、CRM、工资单、KDS 的餐饮综合 SaaS 平台，印证了行业向统一平台整合的趋势",
+        "zh_summary": "Square 在全美餐饮展会上展示其从支付向综合餐饮运营平台的转型，涵盖 POS、在线订餐、KDS、库存管理、工资单、忠诚度、营销等全链路能力。其策略核心是将原本仅大型连锁可用的企业级功能普惠化，契合独立餐厅和多门店运营商的需求。",
+        "category": "竞品动态",
+        "importance_score": 7,
+        "relevance_score": 6,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 174,
+      "title": "Paytronix Turns Guest Data Into Loyalty, Personalized Engagement and Restaurant Revenue Growth",
+      "url": "https://restauranttechnologynews.com/2026/06/paytronix-turns-guest-data-into-loyalty-personalized-engagement-and-restaurant-revenue-growth/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-06-24T09:55:48",
+      "fetched_at": "2026-06-25T03:39:40",
+      "ai_output": {
+        "short_title": "餐饮忠诚度自动化升级",
+        "one_line_signal": "餐饮 SaaS 竞争正在从基础 POS 延伸到运营效率、复购和数字化体验。",
+        "zh_summary": "【Mock】Paytronix Turns Guest Data Into Loyalty, Personalized Engagement and Restaurant Revenue Growth。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。",
+        "category": "支付与合规",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 175,
+      "title": "Freddy’s adds dirty sodas with custard cream",
+      "url": "https://www.restaurantdive.com/news/freddys-frozen-custard-and-steakburgers-adds-dirty-sodas-lemonades-teas/823562/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-24T09:46:00",
+      "fetched_at": "2026-06-25T03:39:43",
+      "ai_output": {
+        "short_title": "美快餐连锁Freddy's推出dirty sodas新品",
+        "one_line_signal": "美国快速休闲餐饮品牌通过饮品创新迎合消费升级趋势，反映产品差异化竞争持续加剧",
+        "zh_summary": "Freddy's在美国门店新增dirty sodas、柠檬水、茶饮产品线，抓住消费者对高端冷饮的需求。该趋势正在全美餐饮业蔓延，但对FLIPOS餐饮SaaS能力无直接关联。",
+        "category": "竞品动态",
+        "importance_score": 3,
+        "relevance_score": 1,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 176,
+      "title": "Full-service restaurants are winning the customer satisfaction battle",
+      "url": "https://www.restaurantdive.com/news/acsi-full-service-casual-dining-satisfaction/823413/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-24T09:02:54",
+      "fetched_at": "2026-06-25T03:39:43",
+      "ai_output": {
+        "short_title": "美国全服务餐厅客户满意度领先",
+        "one_line_signal": "美国餐饮客户满意度调研显示全服务餐厅/休闲餐厅得分更高，反映消费者对用餐体验质量要求提升",
+        "zh_summary": "美国客户满意度指数（ACSI）调研显示全服务餐厅和休闲连锁品牌满意度得分靠前，德州客栈与LongHorn牛排馆并列第一。该调研反映消费者在餐饮消费中对服务体验的重视程度上升，对FLIPOS面向的亚洲市场数字化POS和CRM能力建设具有参考价值。",
+        "category": "餐饮数字化",
+        "importance_score": 3,
+        "relevance_score": 4,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 177,
+      "title": "How to open a restaurant in a c-store",
+      "url": "https://www.restaurantdive.com/news/how-to-open-a-restaurant-in-a-c-store/822716/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-24T08:34:00",
+      "fetched_at": "2026-06-25T03:39:43",
+      "ai_output": {
+        "short_title": "美国便利店餐饮模式兴起",
+        "one_line_signal": "美国便利店借助内置流量和低成本优势成为餐饮新渠道，品牌适配和运营执行成为关键挑战",
+        "zh_summary": "美国便利店正成为餐饮品牌扩张的新渠道，因其具备现成客流量和低装修成本优势。专家指出品牌契合度与执行纪律是成败关键。该趋势对亚洲市场的便利店餐饮数字化具有参考价值。",
+        "category": "餐饮数字化",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 178,
+      "title": "The KFC Foundation awards $2M in scholarships to restaurant employees",
+      "url": "https://www.qsrweb.com/news/the-kfc-foundation-awards-2-million-in-scholarships-to-restaurant-employees/",
+      "source": "QSR Web",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-24T14:19:08",
+      "fetched_at": "2026-06-25T03:39:48",
+      "ai_output": {
+        "short_title": "肯德基基金会200万美元奖学金支持餐饮员工",
+        "one_line_signal": "大型餐饮连锁持续投入员工福利与培训，显示餐饮业对人力资本重视度提升",
+        "zh_summary": "KFC基金会宣布向餐厅员工提供200万美元奖学金，覆盖教育和职业发展项目。此举反映头部快餐品牌通过提升员工福利吸引和留存人才，但与餐饮SaaS、支付或出海市场拓展无直接关联，属于企业社会责任层面的投入。",
+        "category": "竞品动态",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "无直接关联"
       }
     },
     {
@@ -3300,6 +4245,1686 @@
       }
     },
     {
+      "id": 203,
+      "title": "Overview",
+      "url": "https://docs.adyen.com/release-notes",
+      "source": "Adyen Docs Release Notes",
+      "region": "Global/Singapore",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:33",
+      "ai_output": {
+        "short_title": "Adyen 文档发布说明页面",
+        "one_line_signal": "Adyen 文档元数据页面，无实际发布内容更新",
+        "zh_summary": "Adyen 官方文档发布说明入口页面的元数据记录，未包含具体功能更新、API 变更或发布内容。原文仅提供文档分类和优先级标签，无法用于评估支付能力变更。",
+        "category": "支付与合规",
+        "importance_score": 1,
+        "relevance_score": 5,
+        "market_tags": "新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 204,
+      "title": "View source",
+      "url": "https://docs.adyen.com/release-notes.md",
+      "source": "Adyen Docs Release Notes",
+      "region": "Global/Singapore",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:33",
+      "ai_output": {
+        "short_title": "Adyen文档发布说明页",
+        "one_line_signal": "Adyen发布说明文档页面加载，无法获取具体更新内容",
+        "zh_summary": "Adyen官方文档站点释放Notes页面，但正文内容仅为源码查看入口，未展示实际更新条目。需跳转至具体Release Notes文档核实支付接口或SDK变更内容。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 6,
+        "market_tags": "新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 205,
+      "title": "Online payments Release notes for Checkout API, and Drop-in/Components for web, iOS, and Android",
+      "url": "https://docs.adyen.com/online-payments/release-notes",
+      "source": "Adyen Docs Release Notes",
+      "region": "Global/Singapore",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:33",
+      "ai_output": {
+        "short_title": "Adyen Checkout API 发布说明更新",
+        "one_line_signal": "Adyen 支付网关发布 Web/iOS/Android Checkout API 及组件更新日志",
+        "zh_summary": "Adyen 发布其 Checkout API 和 Drop-in/Components 的多平台更新说明，覆盖 Web、iOS、Android。这是 Adyen 作为 FLIPOS 新加坡支付合作方的技术变更通知，需持续跟踪以确保支付集成兼容性。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 9,
+        "market_tags": "新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 206,
+      "title": "コンテンツにスキップ",
+      "url": "https://docs.stripe.com/changelog",
+      "source": "Stripe Changelog",
+      "region": "Global/Japan/Singapore",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:40",
+      "ai_output": {
+        "short_title": "Stripe 变更日志占位条目",
+        "one_line_signal": "Stripe 变更日志页面元数据被抓取，无实际内容更新",
+        "zh_summary": "该条目为 Stripe 官方变更日志页面的抓取结果，仅包含页面元数据而无实际变更内容。标题「コンテンツにスキップ」为日语版网页的辅助功能跳转链接文本，非实际更新说明。建议持续关注 Stripe 官方完整变更日志以获取真实更新信息。",
+        "category": "支付与合规",
+        "importance_score": 2,
+        "relevance_score": 6,
+        "market_tags": "日本、新加坡、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 207,
+      "title": "Stripe ドキュメントのロゴ",
+      "url": "https://docs.stripe.com/",
+      "source": "Stripe Changelog",
+      "region": "Global/Japan/Singapore",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:40",
+      "ai_output": {
+        "short_title": "Stripe 文档站 Logo 更新",
+        "one_line_signal": "Stripe 常规产品 UI 更新，不影响支付功能",
+        "zh_summary": "Stripe 更新了其官方文档网站的 Logo，属于常规产品界面迭代。原文信息极为有限，仅包含支付网关基础元数据，无具体变更说明。此更新不影响 Stripe API 或支付集成能力，对 FLIPOS 无直接业务影响。",
+        "category": "支付与合规",
+        "importance_score": 1,
+        "relevance_score": 2,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 208,
+      "title": "API バージョンのアップグレード",
+      "url": "https://docs.stripe.com/upgrades",
+      "source": "Stripe Changelog",
+      "region": "Global/Japan/Singapore",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:40",
+      "ai_output": {
+        "short_title": "Stripe API 版本升级通知",
+        "one_line_signal": "Stripe 更新 API 版本号，支付网关集成可能面临兼容性调整",
+        "zh_summary": "Stripe 发布 API 版本升级公告（优先级 p0），涉及 Global/Japan/Singapore 区域的支付网关。API 版本变更可能影响支付回调、订单状态同步等关键流程的稳定性，需评估是否影响现有集成。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 5,
+        "market_tags": "新加坡、日本、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 209,
+      "title": "Payments",
+      "url": "https://www.airwallex.com/global/payments",
+      "source": "Airwallex Blog",
+      "region": "Global/Hong Kong/Singapore",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:40",
+      "ai_output": {
+        "short_title": "Airwallex跨境支付基础设施服务概述",
+        "one_line_signal": "Airwallex作为跨境支付平台持续深耕香港、新加坡市场，为出海餐饮商家提供多币种收付解决方案",
+        "zh_summary": "Airwallex官网Payments页面展示了其跨境支付产品能力，覆盖香港与新加坡市场。该平台提供多币种账户、换汇及跨境结算服务，与FLIPOS支付解决方案存在潜在合作关系或竞争关系。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 6,
+        "market_tags": "全球、香港、新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 210,
+      "title": "Checkout Conversion-optimised prebuilt payment form",
+      "url": "https://www.airwallex.com/payments/checkout",
+      "source": "Airwallex Blog",
+      "region": "Global/Hong Kong/Singapore",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:40",
+      "ai_output": {
+        "short_title": "Checkout Conversion-optimised prebuilt payment form",
+        "one_line_signal": "海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。",
+        "zh_summary": "【Mock】Checkout Conversion-optimised prebuilt payment form。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。",
+        "category": "支付与合规",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "market_tags": "全球",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 211,
+      "title": "Payment Plugins Integrations with eCommerce platforms",
+      "url": "https://www.airwallex.com/payments/payment-plugins",
+      "source": "Airwallex Blog",
+      "region": "Global/Hong Kong/Singapore",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:40",
+      "ai_output": {
+        "short_title": "Airwallex扩展电商支付插件集成",
+        "one_line_signal": "支付基础设施商Airwallex深化电商插件生态建设，反映B2B支付平台加速向多场景集成扩展",
+        "zh_summary": "Airwallex发布电商平台支付插件集成方案，覆盖全球、香港及新加坡市场。作为B2B支付基础设施提供商，其插件生态扩展意味着餐饮等垂直行业的支付集成选项增加，对FLIPOS的支付合作伙伴生态形成潜在竞争或合作参考。",
+        "category": "竞品动态",
+        "importance_score": 5,
+        "relevance_score": 6,
+        "market_tags": "全球、香港、新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 212,
+      "title": "Application Guidelines",
+      "url": "https://pay.weixin.qq.com/index.php/public/wechatpay_en/guide_index",
+      "source": "WeChat Pay Global",
+      "region": "Global/Macau/Hong Kong",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:41",
+      "ai_output": {
+        "short_title": "微信支付全球收银台应用指南",
+        "one_line_signal": "微信支付更新全球收银台接入指南，涉及港澳商户入网流程",
+        "zh_summary": "微信支付全球收银台（WeChat Pay Global）发布应用指南，涉及Global/Macau/Hong Kong区域的商户接入流程。原文章正文内容有限，无法判断具体政策变更或新增要求，但对港澳市场接入微信支付的商户具有潜在合规影响。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 7,
+        "market_tags": "香港、澳门、全球",
+        "primary_market": "港澳",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 213,
+      "title": "Quick Pay Users present their WeChat Pay payment code to the merchant. Merchants scan the code to take the payment.",
+      "url": "https://pay.weixin.qq.com/index.php/public/wechatpay_en/product_intro?name=quick",
+      "source": "WeChat Pay Global",
+      "region": "Global/Macau/Hong Kong",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:41",
+      "ai_output": {
+        "short_title": "微信支付Quick Pay扫码收款功能",
+        "one_line_signal": "微信支付境外推出商户扫码收款模式，港澳商户可被动扫码收款",
+        "zh_summary": "微信支付官网介绍Quick Pay功能，允许商户扫描用户出示的付款码完成收款（被动扫码），区别于用户主动扫商户码的场景。港澳地区商户可采用此方案接入微信支付。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 7,
+        "market_tags": "全球、港澳",
+        "primary_market": "港澳",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 214,
+      "title": "QR Code Payment Users open WeChat to scan the code, confirm the amount, and make the payment after passing the security checks.",
+      "url": "https://pay.weixin.qq.com/index.php/public/wechatpay_en/product_intro?name=qrcode",
+      "source": "WeChat Pay Global",
+      "region": "Global/Macau/Hong Kong",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:41",
+      "ai_output": {
+        "short_title": "微信支付全球二维码支付流程说明",
+        "one_line_signal": "微信支付Global发布QR Code支付标准流程指引，覆盖港澳及全球市场",
+        "zh_summary": "微信支付全球收银台上线QR Code支付功能说明，展示用户扫码→确认金额→安全验证→支付的完整流程。该功能覆盖全球、澳门、香港市场，为商户提供标准化的二维码支付接入指引。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 6,
+        "market_tags": "全球、港澳",
+        "primary_market": "港澳",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 215,
+      "title": "GrabFood",
+      "url": "https://www.grab.com/sg/food/",
+      "source": "Grab Newsroom",
+      "region": "Singapore/Thailand",
+      "domain": "delivery",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:41",
+      "ai_output": {
+        "short_title": "GrabFood平台基础信息",
+        "one_line_signal": "GrabFood新加坡/泰国外卖平台持续运营",
+        "zh_summary": "本文为GrabFood官方页面元数据，未包含实质性新动态。GrabFood作为新加坡和泰国核心外卖平台，其API稳定性、费率调整或功能变更将直接影响FLIPOS Solution Pack在两地的外卖集成方案。",
+        "category": "本地生活平台",
+        "importance_score": 2,
+        "relevance_score": 6,
+        "market_tags": "新加坡、泰国",
+        "primary_market": "新加坡",
+        "affected_capability": "外卖"
+      }
+    },
+    {
+      "id": 216,
+      "title": "What's New",
+      "url": "https://www.grab.com/sg/merchant-blog/",
+      "source": "Grab Newsroom",
+      "region": "Singapore/Thailand",
+      "domain": "delivery",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:41",
+      "ai_output": {
+        "short_title": "Grab商户博客更新页面",
+        "one_line_signal": "Grab商户博客索引页，无具体内容可分析",
+        "zh_summary": "文章仅为Grab商户博客的索引页面“What's New”，未包含任何具体更新内容或政策变更信息，无法进行业务分析。需获取具体文章或产品更新公告后才能评估影响。",
+        "category": "竞品动态",
+        "importance_score": 1,
+        "relevance_score": 4,
+        "market_tags": "新加坡、泰国",
+        "primary_market": "新加坡",
+        "affected_capability": "外卖"
+      }
+    },
+    {
+      "id": 217,
+      "title": "Partner with us",
+      "url": "https://www.grab.com/sg/merchant/",
+      "source": "Grab Newsroom",
+      "region": "Singapore/Thailand",
+      "domain": "delivery",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:41",
+      "ai_output": {
+        "short_title": "Grab商户合作新加坡页面",
+        "one_line_signal": "Grab维持外卖商户招募入口，反映其在东南亚外卖市场的持续渗透策略",
+        "zh_summary": "Grab新加坡商户合作页面无新功能发布，仅为标准商户入驻引导页。原文未说明当前GrabFood商户政策、入驻门槛或近期激励计划变化，但可反映Grab在东南亚外卖市场持续拓展商户网络的意图。",
+        "category": "本地生活平台",
+        "importance_score": 2,
+        "relevance_score": 6,
+        "market_tags": "新加坡、泰国",
+        "primary_market": "新加坡",
+        "affected_capability": "外卖"
+      }
+    },
+    {
+      "id": 218,
+      "title": "LINE Official Account",
+      "url": "https://lineforbusiness.com/th/service/line-oa-features",
+      "source": "LINE for Business",
+      "region": "Japan/Thailand",
+      "domain": "crm",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:43",
+      "ai_output": {
+        "short_title": "LINE企业号CRM触达能力全解",
+        "one_line_signal": "LINE官方企业号在日本和泰国提供多触点客户运营能力，是餐饮商家数字营销的关键渠道",
+        "zh_summary": "LINE Official Account 是 LINE 商业生态中的核心 CRM 工具，支持商家向用户推送消息、优惠券、调查问卷等多形式内容，实现精准触达和会员运营。该能力在日本和泰国市场直接对应 FLIPOS Solution Pack 中 LINE 集成的 CRM 触达模块，是餐饮商家数字化运营的重要基础设施。",
+        "category": "餐饮数字化",
+        "importance_score": 7,
+        "relevance_score": 9,
+        "market_tags": "日本、泰国",
+        "primary_market": "日本",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 219,
+      "title": "LINE Ads",
+      "url": "https://lineforbusiness.com/th/service/line-ads",
+      "source": "LINE for Business",
+      "region": "Japan/Thailand",
+      "domain": "crm",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:43",
+      "ai_output": {
+        "short_title": "LINE Ads 广告触达解决方案",
+        "one_line_signal": "LINE 在日泰市场扩展广告触达能力，补全 CRM 营销闭环",
+        "zh_summary": "LINE Ads 是 LINE 商业生态中的广告投放平台，覆盖日本和泰国用户，支持企业通过 LINE 渠道进行精准营销和客户触达。这表明 LINE 在日泰市场持续完善 B2B CRM 工具矩阵，对当地运营的餐饮品牌具有营销整合价值。",
+        "category": "本地生活平台",
+        "importance_score": 5,
+        "relevance_score": 6,
+        "market_tags": "日本、泰国",
+        "primary_market": "泰国",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 220,
+      "title": "LINE POINTS",
+      "url": "https://lineforbusiness.com/th/service/line-points",
+      "source": "LINE for Business",
+      "region": "Japan/Thailand",
+      "domain": "crm",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:43",
+      "ai_output": {
+        "short_title": "LINE Points 商业积分服务落地日本泰国",
+        "one_line_signal": "LINE 在日本和泰国市场深化 CRM 积分能力，商业触达工具持续完善",
+        "zh_summary": "LINE for Business 面向日本和泰国市场推出 LINE Points 商业积分服务，提供商户 CRM 触达能力。该服务允许商户通过 LINE 生态内积分机制增强用户粘性。由于 LINE 是 FLIPOS 日本和泰国 Solution Pack 的核心触达渠道，此功能补强了现有 CRM 能力边界。",
+        "category": "CRM",
+        "importance_score": 7,
+        "relevance_score": 8,
+        "market_tags": "日本、泰国",
+        "primary_market": "日本",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 221,
+      "title": "オンプレミスAPIの廃止",
+      "url": "https://developers.facebook.com/docs/whatsapp/on-premises/sunset",
+      "source": "WhatsApp Business Platform Updates",
+      "region": "Hong Kong/Singapore",
+      "domain": "crm",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:52",
+      "ai_output": {
+        "short_title": "WhatsApp 废弃本地部署 API",
+        "one_line_signal": "WhatsApp 强制推进云端 API 迁移，使用本地部署的 CRM 集成需重新评估技术架构",
+        "zh_summary": "WhatsApp Business Platform 宣布废弃 On-Premises API，强制企业迁移至 Cloud API。这对依赖本地部署架构的 WhatsApp 消息处理系统有直接影响。WhatsApp 在港澳新市场是重要的 CRM 触达渠道，其 API 架构变更需及时响应。",
+        "category": "AI与自动化",
+        "importance_score": 7,
+        "relevance_score": 8,
+        "market_tags": "香港、新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 222,
+      "title": "WhatsApp Businessプラットフォーム",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/overview",
+      "source": "WhatsApp Business Platform Updates",
+      "region": "Hong Kong/Singapore",
+      "domain": "crm",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:52",
+      "ai_output": {
+        "short_title": "WhatsApp Business平台港澳新CRM能力更新",
+        "one_line_signal": "WhatsApp Business在香港/新加坡的CRM能力持续迭代，直接影响餐饮品牌触达效率",
+        "zh_summary": "WhatsApp Business平台针对香港/新加坡市场更新了CRM相关能力。WhatsApp在香港最普及，其Business API的更新直接影响餐饮品牌与消费者的沟通触达效率。FLIPOS港澳Solution Pack中WhatsApp是核心CRM触达渠道，需关注新能力对现有集成的影响。",
+        "category": "竞品动态",
+        "importance_score": 6,
+        "relevance_score": 8,
+        "market_tags": "香港、新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 223,
+      "title": "ローカルストレージ",
+      "url": "https://developers.facebook.com/docs/whatsapp/cloud-api/overview/local-storage/",
+      "source": "WhatsApp Business Platform Updates",
+      "region": "Hong Kong/Singapore",
+      "domain": "crm",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:52",
+      "ai_output": {
+        "short_title": "WhatsApp Cloud API本地存储功能更新",
+        "one_line_signal": "WhatsApp Cloud API新增本地存储能力，可能影响基于云端的消息持久化架构设计",
+        "zh_summary": "WhatsApp Business Cloud API新增本地存储（Local Storage）功能文档页面。该功能位于CRM能力域，面向香港和新加坡市场优先级为p0。由于WhatsApp是FLIPOS港澳和新加坡Solution Pack的CRM触达渠道，此更新需评估对现有消息存储逻辑的兼容性影响。",
+        "category": "AI与自动化",
+        "importance_score": 6,
+        "relevance_score": 8,
+        "market_tags": "香港、新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 224,
+      "title": "Human Interface Guidelines",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/",
+      "source": "Apple Wallet News",
+      "region": "Global/Japan/Singapore",
+      "domain": "crm",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:52",
+      "ai_output": {
+        "short_title": "Apple 钱包凭证设计规范更新",
+        "one_line_signal": "Apple 发布 Wallet Pass 人机交互设计规范，对港澳新泰 Wallet Card 落地有合规参考价值",
+        "zh_summary": "Apple 官方 Human Interface Guidelines 包含 Wallet Pass 设计规范，涵盖凭证视觉呈现、交互流程和用户体验标准。Wallet Card 作为 FLIPOS 港澳新泰 Solution Pack 的通用能力，需确保电子凭证符合 Apple 最新设计要求，避免因不符合规范导致用户信任度下降或审核问题。",
+        "category": "CRM",
+        "importance_score": 6,
+        "relevance_score": 7,
+        "market_tags": "日本、新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "Wallet Card"
+      }
+    },
+    {
+      "id": 225,
+      "title": "Icon Composer",
+      "url": "https://developer.apple.com/icon-composer/",
+      "source": "Apple Wallet News",
+      "region": "Global/Japan/Singapore",
+      "domain": "crm",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:52",
+      "ai_output": {
+        "short_title": "Apple发布Icon Composer工具",
+        "one_line_signal": "Apple推出开发者工具简化Wallet Pass图标制作流程",
+        "zh_summary": "Apple发布Icon Composer开发者工具，帮助第三方开发者创建Apple Wallet Pass所需的图标资源。对于已集成Wallet Card功能的餐饮SaaS平台，可简化Wallet Pass界面图标的设计与导出流程，降低技术接入门槛。",
+        "category": "AI与自动化",
+        "importance_score": 4,
+        "relevance_score": 7,
+        "market_tags": "全球、日本、新加坡",
+        "primary_market": "全球",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 226,
+      "title": "App Review Guidelines",
+      "url": "https://developer.apple.com/app-store/review/guidelines/",
+      "source": "Apple Wallet News",
+      "region": "Global/Japan/Singapore",
+      "domain": "crm",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:52",
+      "ai_output": {
+        "short_title": "苹果审核指南更新影响Wallet Card合规",
+        "one_line_signal": "苹果P0级App Store审核指南更新，对Wallet Card和CRM应用的合规要求产生潜在影响",
+        "zh_summary": "苹果官方发布P0级别App Store审核指南更新，覆盖全球/日本/新加坡市场，聚焦Wallet Card和CRM能力域。审核指南变更可能影响FLIPOS在港澳、泰国等市场Wallet Card集成的合规通过，建议法务和产品团队优先评估影响范围。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 6,
+        "market_tags": "新加坡、日本、全球",
+        "primary_market": "全球",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 227,
+      "title": "AWS Marketplace",
+      "url": "https://aws.amazon.com/marketplace?nc2=h_utmp",
+      "source": "AWS What's New",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:53",
+      "ai_output": {
+        "short_title": "AWS Marketplace 区域覆盖更新",
+        "one_line_signal": "AWS Marketplace 扩展至新加坡、日本、泰国市场，为云服务采购提供新渠道",
+        "zh_summary": "AWS Marketplace 是 AWS 的软件和服务发现采购平台，覆盖新加坡、日本、泰国区域。AWS Marketplace 可简化第三方软件采购流程，餐饮 SaaS 可通过该平台快速部署 POS、支付、CRM 等所需组件。这对 FLIPOS 在东南亚和日本的云部署架构选型有参考价值。原文未说明具体功能更新或与餐饮 SaaS 的集成变化。",
+        "category": "云部署",
+        "importance_score": 6,
+        "relevance_score": 7,
+        "market_tags": "新加坡、日本、泰国",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 228,
+      "title": "Subscribe via RSS feed",
+      "url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "source": "AWS What's New",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:53",
+      "ai_output": {
+        "short_title": "AWS 新增 RSS 订阅功能",
+        "one_line_signal": "AWS 提供 What's New 内容订阅入口，通知机制变更",
+        "zh_summary": "AWS 在新加坡、日本、泰国区域的 What's New 页面新增 RSS 订阅入口，允许用户通过 RSS 方式接收 AWS 新功能更新通知。这是 AWS 常规内容分发渠道的补充，不涉及产品能力或定价变更。",
+        "category": "云部署",
+        "importance_score": 1,
+        "relevance_score": 2,
+        "market_tags": "新加坡、日本、泰国",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 229,
+      "title": "What Is AWS?",
+      "url": "https://aws.amazon.com/what-is-aws/?nc1=f_cc",
+      "source": "AWS What's New",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:53",
+      "ai_output": {
+        "short_title": "AWS基础概念定义页面",
+        "one_line_signal": "AWS官方发布了云计算基础概念说明文档，属于产品定义而非业务动态",
+        "zh_summary": "AWS官方发布What Is AWS页面，提供云计算基础概念定义。这是一篇通用知识介绍文档，非新闻事件。值得关注的原因是其被标记为p0优先级，但实际内容为基础设施定义，对业务决策无直接指导意义。",
+        "category": "云部署",
+        "importance_score": 2,
+        "relevance_score": 5,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 230,
+      "title": "Skip to Main Content",
+      "url": "https://aws.amazon.com/blogs/security/",
+      "source": "AWS Security Blog",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:54",
+      "ai_output": {
+        "short_title": "AWS安全博客文章内容为空",
+        "one_line_signal": "文章内容为空或未正确抓取，无法提取有效安全信息",
+        "zh_summary": "文章来源为AWS Security Blog，但标题为无效导航文本，正文仅含元数据描述，无任何实质安全公告或更新内容。建议核查数据源抓取状态。",
+        "category": "合规",
+        "importance_score": 1,
+        "relevance_score": 2,
+        "market_tags": "新加坡、日本、泰国",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 231,
+      "title": "AWS Marketplace",
+      "url": "https://aws.amazon.com/marketplace/?nc2=h_utmp",
+      "source": "AWS Security Blog",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:54",
+      "ai_output": {
+        "short_title": "AWS Marketplace 概述页",
+        "one_line_signal": "AWS 第三方软件 marketplace 可能为餐饮 SaaS 提供合规认证的基础设施组件",
+        "zh_summary": "AWS Marketplace 是 AWS 官方第三方软件和服务市场，覆盖新加坡、日本、泰国等区域。原文仅提供概述页链接，未说明具体产品或餐饮行业相关功能。对 FLIPOS 而言，marketplace 可能是采购合规、安全工具的渠道之一。",
+        "category": "基建",
+        "importance_score": 4,
+        "relevance_score": 5,
+        "market_tags": "新加坡、日本、泰国",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 232,
+      "title": "Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
+      "url": "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps/",
+      "source": "AWS Security Blog",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:54",
+      "ai_output": {
+        "short_title": "AWS 管理控制台网络访问安全限制",
+        "one_line_signal": "AWS 推出基于资源策略的登录访问控制功能，要求管理控制台仅能从预期网络访问",
+        "zh_summary": "AWS 在亚太区（新加坡、日本、泰国）发布管理控制台访问限制功能，通过资源控制策略（RCP）和基于资源的登录策略，将 Console 访问限制在指定网络范围内。该功能有助于出海企业满足多区域数据合规和安全审计要求，对 FLIPOS 在 AWS 上部署的云基础设施安全具有参考价值。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 7,
+        "market_tags": "新加坡、日本、泰国",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 233,
+      "title": "The Constraint Infrastructure Growing on Alibaba Cloud Agent Infra",
+      "url": "https://www.alibabacloud.com/blog/the-constraint-infrastructure-growing-on-alibaba-cloud-agent-infra_603305",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:56",
+      "ai_output": {
+        "short_title": "阿里云港澳Agent基础设施技术解析",
+        "one_line_signal": "阿里云国际发布Agent基础设施技术文章，展示其在港澳云服务市场的技术布局",
+        "zh_summary": "阿里云国际发布关于其Agent基础设施的技术博客文章，讨论约束基础设施的发展方向。文章来自阿里云国际港澳区域，反映其云服务技术能力更新。由于文章为技术向内容，未明确提及具体产品功能或商业化计划，对餐饮SaaS的直接业务影响有限。",
+        "category": "AI与自动化",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "香港、澳门、全球",
+        "primary_market": "港澳",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 234,
+      "title": "AgenticDB: Born from Alibaba Cloud AnalyticDB, Built for AI-Native Enterprises",
+      "url": "https://www.alibabacloud.com/blog/agenticdb-born-from-alibaba-cloud-analyticdb-built-for-ai-native-enterprises_603302",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:56",
+      "ai_output": {
+        "short_title": "阿里云发布AI原生数据库AgenticDB",
+        "one_line_signal": "阿里云推出面向AI原生企业的分析型数据库产品，对FLIPOS云基础设施选型有参考价值",
+        "zh_summary": "阿里云发布基于AnalyticDB的AI原生数据库AgenticDB，定位服务AI原生企业。原文未说明具体功能差异、定价或与餐饮SaaS的关联，仅为阿里云产品更新动态。",
+        "category": "竞品动态",
+        "importance_score": 3,
+        "relevance_score": 4,
+        "market_tags": "全球、港澳",
+        "primary_market": "港澳",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 235,
+      "title": "Active Learning Feedback Loops for Production Machine Learning Systems on Alibaba Cloud",
+      "url": "https://www.alibabacloud.com/blog/active-learning-feedback-loops-for-production-machine-learning-systems-on-alibaba-cloud_603300",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:56",
+      "ai_output": {
+        "short_title": "阿里云ML主动学习反馈机制技术解析",
+        "one_line_signal": "阿里云发布生产级ML系统主动学习技术文档，但属于通用AI基础设施，与餐饮SaaS业务场景无直接关联",
+        "zh_summary": "阿里云发布关于生产环境中机器学习系统主动学习反馈循环的技术博客，介绍如何通过持续标注和模型再训练提升ML系统准确率。该文章属于基础设施层面的AI技术文档，不涉及具体业务场景或餐饮数字化应用，与FLIPOS当前出海Solution Pack的产品能力无直接交集。",
+        "category": "AI与自动化",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "香港、澳门、全球",
+        "primary_market": "港澳",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 236,
+      "title": "Subscribe to Updates Get notified whenever news and updates are posted on this website.",
+      "url": "https://www.mas.gov.sg/subscription-services",
+      "source": "MAS News",
+      "region": "Singapore",
+      "domain": "compliance",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:58",
+      "ai_output": {
+        "short_title": "MAS官网订阅页面",
+        "one_line_signal": "无实质内容，仅为新加坡金管局网站新闻订阅入口",
+        "zh_summary": "此链接为新加坡金融管理局（MAS）官网的新闻订阅服务页面，无任何实质性监管政策或新闻内容。需等待MAS后续发布具体政策更新。",
+        "category": "支付与合规",
+        "importance_score": 1,
+        "relevance_score": 2,
+        "market_tags": "新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 237,
+      "title": "Skip to main content",
+      "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
+      "source": "HKMA Press Releases",
+      "region": "Hong Kong",
+      "domain": "compliance",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:59",
+      "ai_output": {
+        "short_title": "香港金管局新闻稿抓取异常",
+        "one_line_signal": "页面内容为空，无法提取任何监管动态",
+        "zh_summary": "文章来源标注为香港金融管理局（HKMA）新闻稿，但实际抓取内容为空，仅包含网页导航元素\"Skip to main content\"，无任何实质监管政策或行业动态信息，无法进行业务影响评估。",
+        "category": "合规",
+        "importance_score": 1,
+        "relevance_score": 5,
+        "market_tags": "香港",
+        "primary_market": "港澳",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 238,
+      "title": "Hong Kong Monetary Authority 香港金融管理局",
+      "url": "https://www.hkma.gov.hk/eng",
+      "source": "HKMA Press Releases",
+      "region": "Hong Kong",
+      "domain": "compliance",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:59",
+      "ai_output": {
+        "short_title": "香港金融管理局官网发布合规监管信息",
+        "one_line_signal": "原文内容缺失，仅显示 HKMA 网站元数据，无实质监管政策信息",
+        "zh_summary": "该文章来源为 HKMA 香港金融管理局官网，正文内容严重缺失，仅包含元数据描述为“香港金融监管 Hong Kong compliance”。无法从中提取任何具体监管政策、合规要求或行业指引，需获取完整公告原文进行评估。",
+        "category": "合规",
+        "importance_score": 1,
+        "relevance_score": 3,
+        "market_tags": "香港",
+        "primary_market": "香港",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 239,
+      "title": "R & M Column",
+      "url": "https://www.hkma.gov.hk/eng/news-and-media/r-and-m-column/",
+      "source": "HKMA Press Releases",
+      "region": "Hong Kong",
+      "domain": "compliance",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:07:59",
+      "ai_output": {
+        "short_title": "香港金管局R&M专栏发布合规指引",
+        "one_line_signal": "香港金融监管机构更新合规要求，可能影响支付服务商及餐饮SaaS运营商",
+        "zh_summary": "香港金融管理局发布R&M专栏，就合规监管议题提供指导。原文章信息有限，但金管局作为香港支付及货币服务的主要监管机构，其合规指引对在当地运营的餐饮POS及支付服务商具有直接约束力。FLIPOS若在香港提供Wallet Card等支付服务，需关注相关合规要求变化。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 7,
+        "market_tags": "香港、港澳",
+        "primary_market": "港澳",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 240,
+      "title": "Financial Sector Master Plan",
+      "url": "https://www.bot.or.th/en/our-roles/financial-institutions/financial-sector-master-plan.html",
+      "source": "Bank of Thailand News",
+      "region": "Thailand",
+      "domain": "compliance",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:08:00",
+      "ai_output": {
+        "short_title": "泰国金融业总体规划发布",
+        "one_line_signal": "泰国央行推进金融业改革规划，可能影响支付合规和数字金融服务监管方向",
+        "zh_summary": "泰国中央银行发布金融业总体规划（Financial Sector Master Plan），这是泰国金融监管的重要政策框架文件。由于原文信息有限，具体规划内容未披露，但其作为泰国金融监管顶层设计，将对泰国市场的支付合规、数字金融等业务产生长期影响，需持续跟踪后续细则。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 7,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 241,
+      "title": "Financial Markets Maintaining the level of short-term interest rate to be in line with policy interest rate",
+      "url": "https://www.bot.or.th/en/our-roles/financial-markets.html",
+      "source": "Bank of Thailand News",
+      "region": "Thailand",
+      "domain": "compliance",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:08:00",
+      "ai_output": {
+        "short_title": "泰国央行维持短期利率与政策利率一致",
+        "one_line_signal": "泰国央行发布货币政策公告，维持利率水平不变，属于常规金融监管动态",
+        "zh_summary": "泰国央行发布公告维持短期利率与政策利率一致，属于常规货币政策公告。原文未说明具体利率数值或对特定行业的监管要求。该信息对餐饮 SaaS 合规有一般性参考价值，但未涉及支付、钱包或外卖平台的专项监管变化。",
+        "category": "支付与合规",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 242,
+      "title": "Payment Systems Promoting safe, efficient and smooth operation of the country's payment system which supports the high level of trade and financial transactions",
+      "url": "https://www.bot.or.th/en/our-roles/payment-systems.html",
+      "source": "Bank of Thailand News",
+      "region": "Thailand",
+      "domain": "compliance",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:08:00",
+      "ai_output": {
+        "short_title": "泰国央行支付系统概述页（无具体新规）",
+        "one_line_signal": "泰国央行发布支付系统角色介绍页面，无具体监管政策变化",
+        "zh_summary": "泰国央行发布支付系统职能概述页面，强调安全高效运行目标。原文仅提供泛泛介绍，无任何具体监管变化、合规要求更新或新支付规定出台。",
+        "category": "合规",
+        "importance_score": 2,
+        "relevance_score": 3,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 243,
+      "title": "Airwallex Raises US$320M Series H at US$11B Valuation for AI Expansion",
+      "url": "https://fintechnews.sg/133619/funding/airwallex-series-h-funding-valuation/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-06-25T11:21:27",
+      "fetched_at": "2026-06-25T13:08:02",
+      "ai_output": {
+        "short_title": "Airwallex融资11亿美元押注AI财务平台",
+        "one_line_signal": "支付独角兽Airwallex获大额融资加码AI，发布T:0财务平台和Airi钱包，标志其从支付工具向金融操作系统演进",
+        "zh_summary": "Airwallex完成3.2亿美元H轮融资，估值达110亿美元，将推T:0 AI财务管理平台和Airi消费者钱包。作为FLIPOS潜在支付合作伙伴，其AI能力升级将影响东南亚支付竞争格局，需关注其对餐饮、商户场景的渗透意图。",
+        "category": "竞品动态",
+        "importance_score": 7,
+        "relevance_score": 6,
+        "market_tags": "新加坡、澳大利亚、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 244,
+      "title": "DBS Backs Asia Energy Transition With US$210M Financing for ETAFCo",
+      "url": "https://fintechnews.sg/133608/funding/dbs-etafco-energy-transition-finance-singapore/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-06-25T07:32:30",
+      "fetched_at": "2026-06-25T13:08:02",
+      "ai_output": {
+        "short_title": "星展银行2100万美元支持亚洲能源转型",
+        "one_line_signal": "新加坡星展银行通过绿色金融支持亚洲能源转型，但此新闻与餐饮SaaS/POS/支付领域无直接关联",
+        "zh_summary": "星展银行为ETAFCo提供2100万美元融资，支持亚洲能源转型基础设施项目，包括可再生能源、电网现代化和储能。这是星展银行在新加坡金管局FAST-P倡议下支持的第二个合作项目。该新闻属于新加坡金融业ESG趋势，但对FLIPOS餐饮SaaS、POS或支付业务无直接业务影响。",
+        "category": "出海市场动态",
+        "importance_score": 2,
+        "relevance_score": 2,
+        "market_tags": "新加坡、亚洲",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 245,
+      "title": "NTT Data Deploys Cursor AI Platform to Speed Up Legacy System Modernisation",
+      "url": "https://fintechnews.sg/133601/ai/ntt-data-cursor-ai-platform-modernisation/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-06-25T06:53:30",
+      "fetched_at": "2026-06-25T13:08:02",
+      "ai_output": {
+        "short_title": "NTT Data采用Cursor加速遗留系统现代化",
+        "one_line_signal": "大型IT服务商通过AI编程工具提升软件开发效率，验证企业级AI开发平台治理能力的重要性",
+        "zh_summary": "NTT Data在其全球软件工程运营中部署Cursor AI编程平台，旨在加速遗留企业系统的现代化改造。该方案强调企业级治理控制，包括隐私模式、集中管理和策略执行。NTT Data计划先内部使用，再向联合客户扩展，并建立Cursor卓越中心标准化平台使用。",
+        "category": "AI与自动化",
+        "importance_score": 5,
+        "relevance_score": 2,
+        "market_tags": "新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 246,
+      "title": "4 Ways Hong Kong Banks Fight Financial Crime Using AI, According to HKMA",
+      "url": "https://fintechnews.hk/39383/ai/ai-financial-crime-hkma-banks/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-06-25T05:41:39",
+      "fetched_at": "2026-06-25T13:08:07",
+      "ai_output": {
+        "short_title": "香港金管局推动银行AI反洗钱合规",
+        "one_line_signal": "香港金管局明确要求银行用AI替代传统规则监控，监管合规标准升级",
+        "zh_summary": "HKMA发布报告要求香港银行采用AI进行金融犯罪监控和客户KYC。传统基于静态规则的反洗钱系统产生大量误报，已无法应对AI驱动的诈骗和身份欺诈。FLIPOS在港澳的支付和Wallet Card业务需关注这一监管趋势，支付合规架构可能面临更高要求。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 6,
+        "market_tags": "香港、全球",
+        "primary_market": "香港",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 247,
+      "title": "Ripple Launches RLUSD Stablecoin in Japan Through SBI Group",
+      "url": "https://fintechnews.hk/39423/fintechjapan/ripple-launches-rlusd-stablecoin-japan/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-06-25T04:06:53",
+      "fetched_at": "2026-06-25T13:08:07",
+      "ai_output": {
+        "short_title": "Ripple在日本推出RLUSD稳定币",
+        "one_line_signal": "日本金融厅批准外币稳定币作为新型电子支付工具，标志主流稳定币在日本合规落地加速",
+        "zh_summary": "Ripple通过SBI Group在日本推出RLUSD稳定币，获日本金融厅根据《支付服务法》监管批准，被归类为新型电子支付工具。该稳定币已积累17亿美元市值，主要面向机构和零售用户，用于跨境支付和可编程贸易结算。目前对餐饮SaaS影响有限，但需关注稳定币在日本支付生态中的长期发展。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 3,
+        "market_tags": "日本",
+        "primary_market": "日本",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 248,
+      "title": "Which Digital Bank in Malaysia Has the Best Savings Rate in 2026?",
+      "url": "https://fintechnews.my/59187/digital-banking-news-malaysia/digital-bank-malaysia-savings-interest-rate/",
+      "source": "Fintech News Malaysia",
+      "region": "Malaysia",
+      "domain": "fintech",
+      "published_at": "2026-06-25T05:40:11",
+      "fetched_at": "2026-06-25T13:08:09",
+      "ai_output": {
+        "short_title": "马来西亚数字银行储蓄利率对比2026",
+        "one_line_signal": "马来西亚5家持牌数字银行进入盈利驱动阶段，存款利率竞争从拉新转向留存",
+        "zh_summary": "马来西亚数字银行（GXBank、Boost Bank等5家）存款规模已达RM42亿、客户240万，现阶段利率从早期拉新阶段下调，GXBank基础利率从3%降至2%。这对FLIPOS直接影响有限，但反映东南亚数字金融基础设施持续成熟，对未来餐饮场景嵌入式支付有参考价值。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "马来西亚",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 249,
+      "title": "BSP Orders Philippines Financial Firms to Drop SMS Based OTP by 25 June",
+      "url": "https://fintechnews.ph/71973/security/bsp-philippines-sms-otp-phaseout/",
+      "source": "Fintech News Philippines",
+      "region": "Philippines",
+      "domain": "fintech",
+      "published_at": "2026-06-25T09:38:25",
+      "fetched_at": "2026-06-25T13:08:10",
+      "ai_output": {
+        "short_title": "菲律宾央行下令6月底停用短信OTP",
+        "one_line_signal": "菲律宾强制要求金融机构用生物识别等强认证替代短信OTP，影响支付合规架构",
+        "zh_summary": "菲律宾央行BSP要求月交易超7500万PHP的金融机构在2026年6月25日前将短信OTP替换为生物识别、行为分析或无密码认证。高风险转账必须强制升级，低风险交易可保留短信验证码。该政策将推动当地数字钱包和银行支付基础设施全面升级。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 6,
+        "market_tags": "菲律宾",
+        "primary_market": "菲律宾",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 250,
+      "title": "Singapore to upgrade PayNow, launch new finance institute to drive innovation",
+      "url": "https://www.businesstimes.com.sg/companies-markets/singapore-upgrade-paynow-launch-new-finance-institute-drive-innovation",
+      "source": "Business Times Banking Finance",
+      "region": "Singapore",
+      "domain": "local_business",
+      "published_at": "2026-06-25T12:32:54",
+      "fetched_at": "2026-06-25T13:08:14",
+      "ai_output": {
+        "short_title": "新加坡升级PayNow推进金融AI创新",
+        "one_line_signal": "新加坡国家支付系统PayNow将迎来升级，政府同时成立金融学院并启动10万人AI培训计划，加速支付基础设施现代化",
+        "zh_summary": "新加坡宣布升级PayNow即时支付系统并成立新金融学院推动创新，同步启动10万金融从业者AI培训。政府此举旨在强化新加坡作为亚太金融科技中心的地位，并为CBDC、稳定币等新兴支付技术做合规准备。这将影响在新加坡运营的餐饮POS系统对本地支付渠道的集成策略。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 8,
+        "market_tags": "新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 251,
+      "title": "China's 'law enforcement' in waters east of Taiwan draws pushback",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-s-law-enforcement-in-waters-east-of-taiwan-draws-pushback",
+      "source": "Nikkei Asia",
+      "region": "Japan/APAC",
+      "domain": "local_business",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:08:14",
+      "ai_output": {
+        "short_title": "中方台岛东部海域执法引国际反弹",
+        "one_line_signal": "地缘政治紧张升级，台海局势引发国际关切",
+        "zh_summary": "中方在台岛东部海域开展所谓“执法”活动，引发日美等国际社会反弹。该事件反映中美台海博弈加剧，虽暂不直接影响餐饮SaaS业务，但地缘风险上升可能对亚太商业环境造成间接影响。",
+        "category": "风险预警",
+        "importance_score": 6,
+        "relevance_score": 2,
+        "market_tags": "台湾、日本、全球",
+        "primary_market": "日本",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 252,
+      "title": "US stablecoin giant Circle to start settlement business with Nomura",
+      "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/us-stablecoin-giant-circle-to-start-settlement-business-with-nomura",
+      "source": "Nikkei Asia",
+      "region": "Japan/APAC",
+      "domain": "local_business",
+      "published_at": null,
+      "fetched_at": "2026-06-25T13:08:14",
+      "ai_output": {
+        "short_title": "Circle与野村合作推出稳定币结算业务",
+        "one_line_signal": "美国稳定币巨头Circle联手日本最大券商野村，正式进入亚太区合规稳定币结算市场。",
+        "zh_summary": "Circle与野村宣布开展稳定币结算合作，Circle作为全球第二大稳定币USDC发行方，将借助野村在日本金融市场的深厚资源拓展B端跨境结算服务。此举标志着主流金融机构正式接纳稳定币作为跨境支付基础设施，对FLIPOS在日本市场布局支付层能力具有参考意义。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 6,
+        "market_tags": "日本、美国、全球",
+        "primary_market": "日本",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 253,
+      "title": "Miso Robotics Acquires Zume Pizza Technology and IP to Expand Restaurant Automation Platform",
+      "url": "https://restauranttechnologynews.com/2026/06/miso-robotics-acquires-zume-pizza-technology-and-ip-to-expand-restaurant-automation-platform/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-06-25T09:35:38",
+      "fetched_at": "2026-06-25T13:08:17",
+      "ai_output": {
+        "short_title": "Miso Robotics收购Zume披萨机器人资产",
+        "one_line_signal": "美国餐饮自动化赛道整合加速，机器人单点突破比全流程自动化更容易商业化",
+        "zh_summary": "美国机器人公司Miso Robotics收购了已倒闭的Zume Pizza全部技术和专利资产。Zume曾获软银数亿美元投资，其移动烤箱披萨配送概念过于复杂最终失败。Miso此举意在将Zume的机器人食品准备技术整合到其现有的炸站自动化产品线中，验证了餐饮自动化需从单点流程切入而非全流程覆盖的商业逻辑。",
+        "category": "竞品动态",
+        "importance_score": 5,
+        "relevance_score": 2,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 254,
+      "title": "How Church’s Texas Chicken uses real estate discipline to drive franchise growth",
+      "url": "https://www.qsrweb.com/articles/how-churchs-texas-chicken-uses-real-estate-discipline-to-drive-franchise-growth/",
+      "source": "QSR Web",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-25T12:00:00",
+      "fetched_at": "2026-06-25T13:08:20",
+      "ai_output": {
+        "short_title": "快餐品牌转向小型高效门店模式",
+        "one_line_signal": "快餐连锁通过缩小门店面积降低成本，反映出餐饮业对高效运营和城市渗透的重视",
+        "zh_summary": "Church's Texas Chicken 采用「简化并放大」策略，转向小型高效的门店模式，建设成本降低一半。该策略帮助品牌进入新城市市场并提升加盟扩张效率。这反映了快餐行业对成本控制和运营精益化的趋势，对门店数字化和自助点单方案有间接影响。",
+        "category": "竞品动态",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "Kiosk"
+      }
+    },
+    {
+      "id": 255,
+      "title": "Alibaba Cloud Named a Leader in \"Omdia Market Radar: Agentic AI Cloud Titans in Asia & Oceania, 2026\"",
+      "url": "https://www.alibabacloud.com/blog/alibaba-cloud-named-a-leader-in-omdia-market-radar-agentic-ai-cloud-titans-in-asia-%26-oceania-2026_603309",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-26T07:52:50",
+      "ai_output": {
+        "short_title": "阿里云获Omdia AI云领导者认可",
+        "one_line_signal": "阿里云在亚太AI云市场获权威认可，反映主流云服务商竞争加剧",
+        "zh_summary": "阿里云在Omdia报告中被评为亚太及大洋洲Agentic AI云领域领导者，彰显其在东南亚及亚太市场的AI云服务能力。对于使用阿里云部署的港澳Solution Pack而言，主云基础设施伙伴的技术实力获第三方验证，有助于增强客户对部署方案的信心。",
+        "category": "基建",
+        "importance_score": 5,
+        "relevance_score": 4,
+        "market_tags": "亚太、港澳、东南亚",
+        "primary_market": "港澳",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 256,
+      "title": "Alibaba Cloud IDaaS Earns First EAL3+ Certification in Identity Security in Mainland China",
+      "url": "https://www.alibabacloud.com/blog/alibaba-cloud-idaas-earns-first-eal3%2B-certification-in-identity-security-in-mainland-china_603308",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-06-26T07:52:50",
+      "ai_output": {
+        "short_title": "阿里云身份安全服务获大陆EAL3+认证",
+        "one_line_signal": "阿里云 IDaaS 在中国大陆获得首个 EAL3+ 身份安全认证，体现云服务商对数据安全和合规能力的持续投入",
+        "zh_summary": "阿里云 IDaaS（身份即服务）产品在中国大陆获得 EAL3+ 安全认证，这是国内首个获得该等级认证的身份安全产品。EAL3+ 是国际通行的安全评估等级，表明产品通过了独立机构的安全测试。对 FLIPOS 而言，如在港澳或其他市场使用阿里云服务，了解其 IDaaS 能力成熟度有助于评估整体云架构安全性。",
+        "category": "云部署",
+        "importance_score": 5,
+        "relevance_score": 4,
+        "market_tags": "中国大陆、港澳、全球",
+        "primary_market": "港澳",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 257,
+      "title": "Infrastructure fund to help finance rail buyback plan",
+      "url": "https://www.bangkokpost.com/business/general/3276702/infrastructure-fund-to-help-finance-rail-buyback-plan",
+      "source": "Bangkok Post Business",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-06-26T06:15:00",
+      "fetched_at": "2026-06-26T07:53:02",
+      "ai_output": {
+        "short_title": "泰国政府2000亿铢回收曼谷捷运特许权",
+        "one_line_signal": "泰国政府筹划基础设施基金回收曼谷轨道交通特许经营权，体现政府对公共交通资产的控制意图",
+        "zh_summary": "泰国政府计划斥资2000亿泰铢回收大曼谷地区所有电动列车线路的特许经营权，资金来源为泰国大众捷运局及通过基础设施基金融资。此举反映泰国政府对城市公共交通基础设施的强势整合，对餐饮等本地生活服务无直接关联。",
+        "category": "出海市场动态",
+        "importance_score": 4,
+        "relevance_score": 1,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "市场"
+      }
+    },
+    {
+      "id": 258,
+      "title": "GCash owner seeks up to 92.3 billion pesos in record Philippine IPO",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/gcash-owner-seeks-92-3-billion-pesos-record-philippine-ipo",
+      "source": "Business Times Banking Finance",
+      "region": "Singapore",
+      "domain": "local_business",
+      "published_at": "2026-06-26T05:20:57",
+      "fetched_at": "2026-06-26T07:53:07",
+      "ai_output": {
+        "short_title": "GCash 母公司启动菲律宾最大 IPO",
+        "one_line_signal": "菲律宾最大电子钱包 GCash 启动破纪录 IPO，90 亿用户基础凸显东南亚本土支付生态崛起",
+        "zh_summary": "GCash 母公司 G-Xchange 寻求通过 IPO 融资高达 92.3 亿比索，若成功将成为菲律宾史上最大 IPO。GCash 拥有 90 万注册用户，是菲律宾最大移动钱包。此举反映菲律宾数字支付市场进入成熟期，本土支付生态正在资本化，对考虑进入菲律宾市场的 SaaS 和 POS 厂商具有参考意义。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 4,
+        "market_tags": "菲律宾、新加坡",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 259,
+      "title": "Chinese banks move to rein in retail gold trading on volatility",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/chinese-banks-move-rein-retail-gold-trading-volatility",
+      "source": "Business Times Banking Finance",
+      "region": "Singapore",
+      "domain": "local_business",
+      "published_at": "2026-06-25T13:11:24",
+      "fetched_at": "2026-06-26T07:53:07",
+      "ai_output": {
+        "short_title": "中资银行收紧零售黄金交易管控",
+        "one_line_signal": "中资银行为管理市场波动风险，限制零售客户黄金交易操作",
+        "zh_summary": "多家中资银行以风险管控为由，限制零售客户黄金交易，涉及现货与递延交割合约。此举反映金融机构对近期贵金属市场波动的审慎态度，与餐饮 SaaS 行业无直接关联，但释放金融合规趋严信号。",
+        "category": "风险预警",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "新加坡、中国",
+        "primary_market": "新加坡",
+        "affected_capability": "市场"
+      }
+    },
+    {
+      "id": 260,
+      "title": "SBI Holdings to Acquire Bitbank in US$289M Crypto Expansion",
+      "url": "https://fintechnews.hk/39463/fintechjapan/sbi-holdings-bitbank-crypto-acquisition-japan/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-06-26T04:14:29",
+      "fetched_at": "2026-06-26T07:53:09",
+      "ai_output": {
+        "short_title": "SBI 2.89亿美元收购日本加密交易所Bitbank",
+        "one_line_signal": "日本头部金融集团加速整合加密资产，预示数字资产合规框架即将落地",
+        "zh_summary": "SBI Holdings将以2.89亿美元收购日本加密货币交易所Bitbank，目标10月完成交割。此举紧随SBI推出日本首个信托银行背书的日元稳定币JPYSC，反映日本金融巨头正加速布局数字资产。原文未说明此次收购对餐饮或零售支付场景的直接影响。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "日本、全球",
+        "primary_market": "日本",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 261,
+      "title": "How Alibaba Cloud Is Powering Digital Investing Growth at M+Global",
+      "url": "https://fintechnews.my/59006/cloud/alibaba-cloud-mglobal/",
+      "source": "Fintech News Malaysia",
+      "region": "Malaysia",
+      "domain": "fintech",
+      "published_at": "2026-06-26T03:00:17",
+      "fetched_at": "2026-06-26T07:53:11",
+      "ai_output": {
+        "short_title": "阿里云助力马来西亚在线投资平台M+Global",
+        "one_line_signal": "马来西亚金融科技平台加速云端迁移，但本文聚焦证券交易场景，与餐饮SaaS关联有限",
+        "zh_summary": "阿里云与马来西亚券商Malacca Securities旗下投资平台M+Global达成合作，通过云原生架构支持超40万用户交易马来西亚、港美市场股票。该案例反映东南亚金融业加速云采用的普遍趋势，但属证券交易领域，非餐饮支付场景。",
+        "category": "出海市场动态",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "马来西亚",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 262,
+      "title": "BPI to Deactivate Robinsons Bank Digital Channel Access by July",
+      "url": "https://fintechnews.ph/71985/digital-banking-news-philippines/robinsons-bank-digital-channel-bpi-integration/",
+      "source": "Fintech News Philippines",
+      "region": "Philippines",
+      "domain": "fintech",
+      "published_at": "2026-06-26T04:09:54",
+      "fetched_at": "2026-06-26T07:53:12",
+      "ai_output": {
+        "short_title": "菲律宾BPI银行合并整合数字渠道",
+        "one_line_signal": "菲律宾银行并购后数字渠道整合，影响当地银行支付生态但非餐饮SaaS直接相关",
+        "zh_summary": "菲律宾BPI银行将于2026年7月1日正式停用收购的Robinsons Bank所有独立数字渠道（网银和APP），完成2024年1月合并的最终整合步骤。此事件反映菲律宾银行业数字化整合趋势，但属于银行间并购整合新闻，对餐饮SaaS和支付基础设施无直接影响。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "菲律宾",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 263,
+      "title": "Sterling Bank of Asia Moves Core Systems to Cloud via Infosys Finacle SaaS",
+      "url": "https://fintechnews.ph/71981/cloud/sterling-bank-asia-infosys-finacle-core-banking/",
+      "source": "Fintech News Philippines",
+      "region": "Philippines",
+      "domain": "fintech",
+      "published_at": "2026-06-26T04:03:42",
+      "fetched_at": "2026-06-26T07:53:12",
+      "ai_output": {
+        "short_title": "菲律宾Sterling银行迁移核心系统上云",
+        "one_line_signal": "菲律宾本土银行通过Finacle SaaS加速核心系统云化，反映东南亚传统银行数字化转型加速",
+        "zh_summary": "菲律宾Sterling Bank of Asia选择Infosys Finacle SaaS平台，将核心银行系统迁移至云端，部署包括核心银行、客户数据中枢、贸易金融等模块。银行旨在降低基础设施投资、简化运维，并获得自动化的安全补丁和功能升级。此举反映菲律宾传统银行业正加速云端化，但对餐饮SaaS支付基础设施无直接关联。",
+        "category": "出海市场动态",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "菲律宾",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 264,
+      "title": "Former Security Bank Veteran John Cary L. Ong Named PBCOM CEO",
+      "url": "https://fintechnews.ph/71979/banking/pbcom-ceo-security-bank-john-cary-ong/",
+      "source": "Fintech News Philippines",
+      "region": "Philippines",
+      "domain": "fintech",
+      "published_at": "2026-06-26T03:42:51",
+      "fetched_at": "2026-06-26T07:53:12",
+      "ai_output": {
+        "short_title": "PBCOM任命新CEO 银行领导层换届",
+        "one_line_signal": "菲律宾本土银行PBCOM完成领导层交接，短期对支付基础设施无直接影响",
+        "zh_summary": "菲律宾PBCOM银行任命Security Bank前高管John Cary L. Ong为新任CEO，将于3个月过渡期后正式接任。该行近期刚重新获得全能银行牌照，正处于业务扩张阶段。此人事变动属于银行内部治理调整，对支付产品或监管政策暂无影响。",
+        "category": "支付与合规",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "菲律宾",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 265,
+      "title": "MAS Sets Up Future of Finance Institute to Move AI, Tokenisation Beyond Pilots",
+      "url": "https://fintechnews.sg/133708/ai/mas-future-of-finance-institute/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-06-26T07:49:29",
+      "fetched_at": "2026-06-26T07:53:13",
+      "ai_output": {
+        "short_title": "新加坡金管局成立金融未来研究所推进AI和代币化",
+        "one_line_signal": "新加坡央行通过建立行业协调机构加速AI与代币化从试点走向规模化部署",
+        "zh_summary": "新加坡金管局（MAS）宣布成立 Future of Finance Institute，旨在帮助金融机构将 AI 和代币化项目从试点阶段推向大规模落地。研究所聚焦 AI 风险管理和可编程合规工具，并提供沙盒环境供企业测试代币化资产和 AI 工作流。对餐饮 SaaS 而言，这意味着新加坡支付基础设施正快速向数字化和可编程方向演进，相关合规框架和行业标准将逐步成形。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 5,
+        "market_tags": "新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 266,
+      "title": "Singapore Banks Plan Clearer Legacy, Bereavement Processes in Asia-First Effort",
+      "url": "https://fintechnews.sg/133691/financial-inclusion/senior-banking-singapore/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-06-26T04:16:55",
+      "fetched_at": "2026-06-26T07:53:13",
+      "ai_output": {
+        "short_title": "新加坡银行简化遗产与丧亲流程",
+        "one_line_signal": "新加坡银行联合推动老年人金融服务合规流程标准化，与餐饮 SaaS 支付业务无直接关联",
+        "zh_summary": "新加坡银行业协会（ABS）发布《Banking a Longevity Society》手册，推出 20 项举措应对老龄化社会，重点解决遗产规划、丧亲处理及认知衰退支持问题。DBS、OCBC、UOB 将在 2027 年 Q1 前统一账户关闭、委托代理等流程标准，5000 新元以下小额余额可无需遗嘱认证提取。该政策面向消费者银行服务，与餐饮商户支付无直接关联，但反映了新加坡金融合规监管持续细化。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 267,
+      "title": "Jumio Adds Digital ID Support Across 60+ Countries via Trinsic Integration",
+      "url": "https://fintechnews.sg/133677/regtech/jumio-digital-id-acceptance-trinsic/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-06-26T03:12:40",
+      "fetched_at": "2026-06-26T07:53:13",
+      "ai_output": {
+        "short_title": "Jumio整合Trinsic支持60+国数字身份认证",
+        "one_line_signal": "数字身份认证网络扩展至60+国家，支持Singpass等政府凭证，KYC合规流程进一步简化",
+        "zh_summary": "Jumio通过Trinsic整合将其数字身份验证网络扩展至60+国家，新增支持新加坡Singpass及欧洲eID等政府颁发的数字凭证。该方案针对金融机构和金融科技公司的客户入驻KYC需求，提供生物特征认证和活性检测，并支持Apple/Google钱包存储凭证。原文未说明此方案是否已面向餐饮或零售SaaS场景。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 4,
+        "market_tags": "新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 268,
+      "title": "Southeast Asia’s Fintech Surge: Innovation Engine or Fragmentation Trap?",
+      "url": "https://www.thailand-business-news.com/banking/314522-southeast-asias-fintech-surge-innovation-engine-or-fragmentation-trap",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-06-25T21:30:00",
+      "fetched_at": "2026-06-26T07:53:14",
+      "ai_output": {
+        "short_title": "东南亚金融科技增速领先 监管碎片化成扩张隐忧",
+        "one_line_signal": "东南亚金融科技增长全球领先，但各国监管标准不统一正成为出海企业的隐性壁垒",
+        "zh_summary": "东南亚金融科技增长领跑全球，企业扩张意愿强烈。然而各国监管框架分化，可能限制跨境业务效率。对已在东南亚布局支付产品的 SaaS 企业，合规成本和本地化难度需重新评估，尤其涉及 PromptPay、GrabPay 等本地支付整合时，多市场监管适配成本将显著上升。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 8,
+        "market_tags": "泰国、新加坡、东南亚",
+        "primary_market": "全球",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 269,
+      "title": "Thailand Latest Updates: Major Highlights in Economics Growth and Trade and Tourism",
+      "url": "https://www.thailand-business-news.com/news/316781-thailand-latest-updates-major-highlights-in-economics-growth-and-trade-and-tourism",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-06-25T20:55:00",
+      "fetched_at": "2026-06-26T07:53:14",
+      "ai_output": {
+        "short_title": "泰国今年出口预计创纪录达3660亿美元",
+        "one_line_signal": "泰国宏观经济增长强劲，AI电子需求成出口新引擎，与餐饮数字化关联有限",
+        "zh_summary": "泰国预计今年出口达3660亿美元创纪录，主因AI相关电子产品需求激增。这是纯宏观经济新闻，未涉及餐饮、支付或本地生活领域，对 FLIPOS 泰国 Solution Pack 无直接业务影响。",
+        "category": "出海市场动态",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "市场"
+      }
+    },
+    {
+      "id": 270,
+      "title": "Haven Hot Chicken expands in Massachusetts with 3-unit agreement",
+      "url": "https://www.fastcasual.com/news/haven-hot-chicken-expands-in-massachusetts-with-3-unit-agreement/",
+      "source": "Fast Casual",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-25T10:00:00",
+      "fetched_at": "2026-06-26T07:53:16",
+      "ai_output": {
+        "short_title": "美式炸鸡品牌Haven扩张马萨诸塞三店协议",
+        "one_line_signal": "美国快餐连锁品牌持续在东北部地区扩张，反映该区域快餐消费市场活跃",
+        "zh_summary": "Haven Hot Chicken与马萨诸塞州签署三店扩张协议，品牌继续在东北部市场加密布局。该事件属于美国本土餐饮扩张新闻，与FLIPOS当前出海的港澳、东南亚、日本市场无直接关联，对Solution Pack落地暂无影响。",
+        "category": "竞品动态",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 271,
+      "title": "Freddy's joins premium beverage trend with new drink lineup",
+      "url": "https://www.fastcasual.com/news/freddys-joins-premium-beverage-trend-with-new-drink-lineup/",
+      "source": "Fast Casual",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-25T10:00:00",
+      "fetched_at": "2026-06-26T07:53:16",
+      "ai_output": {
+        "short_title": "美国Freddy's加入高端饮品趋势推出新饮品线",
+        "one_line_signal": "美国快餐品牌Freddy's以新品饮品线切入高端饮品赛道，反映快餐品牌寻求饮品溢价化的运营策略",
+        "zh_summary": "美国快餐连锁Freddy's宣布推出全新高端饮品系列，响应美国餐饮市场持续增长的高端饮品消费趋势。该新品发布体现了快餐品牌通过饮品创新提升客单价和品牌差异化的常见策略。",
+        "category": "竞品动态",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "市场"
+      }
+    },
+    {
+      "id": 272,
+      "title": "BIS warns of stablecoin 'structural flaws'",
+      "url": "https://www.finextra.com/newsarticle/47993/bis-warns-of-stablecoin-structural-flaws?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-06-26T00:01:00",
+      "fetched_at": "2026-06-26T07:53:17",
+      "ai_output": {
+        "short_title": "BIS警告稳定币结构性缺陷",
+        "one_line_signal": "国际清算银行发出稳定币监管风险预警，可能影响加密支付出海合规路径",
+        "zh_summary": "BIS发布报告警告当前稳定币设计存在结构性缺陷，大规模采用可能冲击宏观经济稳定。这一监管信号意味着依赖稳定币结算的跨境支付场景面临更高合规门槛，餐饮SaaS若涉及加密货币收款需提前评估政策风险。",
+        "category": "风险预警",
+        "importance_score": 6,
+        "relevance_score": 3,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 273,
+      "title": "Lawmakers spar over payment rails",
+      "url": "https://www.paymentsdive.com/news/lawmakers-spar-over-payment-rails/823773/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-06-25T10:43:00",
+      "fetched_at": "2026-06-26T07:53:17",
+      "ai_output": {
+        "short_title": "美国PACE法案引发支付铁路争议",
+        "one_line_signal": "美国国会就非银行机构接入联邦储备支付服务展开辩论，反映支付基础设施监管格局可能重塑。",
+        "zh_summary": "美国众议院议员正在就是否通过Payments Access and Consumer Efficiency Act展开辩论，该法案旨在允许非银行机构直接接入联邦储备支付服务。这对全球支付基础设施监管具有风向标意义，可能影响未来跨境支付清算规则走向。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 3,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 274,
+      "title": "Why Whataburger is betting on c-stores for growth",
+      "url": "https://www.restaurantdive.com/news/why-whataburger-is-betting-on-c-stores-for-growth/823488/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-25T11:27:00",
+      "fetched_at": "2026-06-26T07:53:20",
+      "ai_output": {
+        "short_title": "Whataburger 押注便利店渠道扩张",
+        "one_line_signal": "美国 QSR 品牌通过便利店多场景渗透，反映餐饮品牌寻求新增长渠道的趋势",
+        "zh_summary": "Whataburger 在便利店运营 26 年后加速扩张，反映餐饮品牌追求多场景覆盖的增长策略。文章未提及具体数字化工具或 SaaS 需求，对 FLIPOS 产品影响有限，但对理解海外 QSR 品牌渠道策略有参考价值。",
+        "category": "竞品动态",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "市场"
+      }
+    },
+    {
+      "id": 275,
+      "title": "Shallow restaurant labor pool could drive up summer wages",
+      "url": "https://www.restaurantdive.com/news/nra-restaurants-summer-hiring-surge-low-labor-supply-wage-growth/823673/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-25T11:16:04",
+      "fetched_at": "2026-06-26T07:53:20",
+      "ai_output": {
+        "short_title": "美国餐饮夏季用工荒或将推高工资",
+        "one_line_signal": "美国年轻劳动力减少30万，餐饮业夏季招聘竞争加剧，用工成本上升",
+        "zh_summary": "美国餐饮市场面临夏季用工短缺，2026年年轻劳动力较2025年减少30万人。National Restaurant Association警告季节性市场餐厅将面临招聘困难。劳动力成本上升可能压缩餐饮商户利润空间，促使其加速寻求数字化降本工具。",
+        "category": "出海市场动态",
+        "importance_score": 5,
+        "relevance_score": 2,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "市场"
+      }
+    },
+    {
+      "id": 276,
+      "title": "BJ’s fuels menu revamp with chicken sandwiches",
+      "url": "https://www.restaurantdive.com/news/bjs-restaurants-chicken-sandwiches-original-saucy-crispy-korean/823667/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-06-25T10:51:00",
+      "fetched_at": "2026-06-26T07:53:20",
+      "ai_output": {
+        "short_title": "BJ's餐厅推鸡肉三明治抢市场份额",
+        "one_line_signal": "美国休闲连锁 BJ's 以新口味鸡肉三明治系列进攻 QSR 鸡肉品类",
+        "zh_summary": "美国休闲餐饮连锁 BJ's Restaurants 推出 Original、Saucy、Crispy、Korean 四款鸡肉三明治，意图从快速服务连锁（QSR）鸡肉品类夺取市场份额。新品提供多样化口味选择，是品牌产品线扩展动作。该事件反映美国餐饮市场对鸡肉品类的持续热度，但对 FLIPOS 出海市场直接影响有限。",
+        "category": "竞品动态",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 277,
+      "title": "[竞品监控] Lightspeed Restaurant",
+      "url": "https://www.lightspeedhq.com/pos/restaurant/",
+      "source": "Competitor - Lightspeed",
+      "region": null,
+      "domain": null,
+      "published_at": "2026-06-26T07:53:40",
+      "fetched_at": "2026-06-26T07:53:40",
+      "ai_output": {
+        "short_title": "Lightspeed餐饮POS全球布局与全渠道能力概览",
+        "one_line_signal": "竞品Lightspeed展示全球餐饮POS全渠道能力，包含QR码点单、桌边支付、KDS等功能，强调多场景覆盖",
+        "zh_summary": "Lightspeed Restaurant官网展示了其餐饮POS全产品线，覆盖100+国家、144K+位置、200+米其林餐厅。核心功能包括Order Anywhere（在线/桌边/QR码点单）、Tableside Payments、Kitchen Display System、AI Insights等全渠道能力。对FLIPOS而言，其QR码点单与H5/Kiosk点单存在直接功能对标，需关注竞品在东南亚及东亚市场的拓展节奏。",
+        "category": "竞品动态",
+        "importance_score": 6,
+        "relevance_score": 7,
+        "market_tags": "全球、北美、东南亚",
+        "primary_market": "全球",
+        "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 278,
+      "title": "[竞品监控] Qashier",
+      "url": "https://qashier.com/",
+      "source": "Competitor - Qashier",
+      "region": null,
+      "domain": null,
+      "published_at": "2026-06-26T07:53:41",
+      "fetched_at": "2026-06-26T07:53:41",
+      "ai_output": {
+        "short_title": "Qashier新加坡推预约功能补齐闭环",
+        "one_line_signal": "新加坡本地POS竞品Qashier新增预约模块，POS+支付+忠诚度+预约完整闭环成型",
+        "zh_summary": "Qashier在其POS生态中新增预约功能（Bookings），支持预约和套餐管理，瞄准服务业复购。其Kiosk、QR点单、在线订餐（Eats）、忠诚度Treats等能力已覆盖餐饮全场景，支付侧集成PayNow、GrabPay、NETS等主流方式。作为新加坡本地最强竞品，其一站式闭环打法值得FLIPOS关注。",
+        "category": "竞品动态",
+        "importance_score": 7,
+        "relevance_score": 8,
+        "market_tags": "新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 279,
+      "title": "Giving Your AI Agent a Disposable Workspace with Alibaba Cloud AgentRun",
+      "url": "https://www.alibabacloud.com/blog/giving-your-ai-agent-a-disposable-workspace-with-alibaba-cloud-agentrun_603324",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-07T04:25:57",
+      "ai_output": {
+        "short_title": "阿里云AgentRun一次性工作区功能",
+        "one_line_signal": "阿里云发布AI Agent运行时隔离技术，与餐饮SaaS业务暂无直接关联",
+        "zh_summary": "阿里云国际发布 AgentRun 功能，为 AI Agent 提供容器级别的临时工作区隔离环境。该功能主要面向 AI 应用开发者，用于解决 Agent 执行任务时的环境隔离和资源管理问题。由于是底层基础设施能力，对 FLIPOS 当前餐饮 SaaS、POS、支付模块暂无直接产品影响。",
+        "category": "云部署",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 280,
+      "title": "Alibaba Cloud Pushes Open-Source Apache Flink Toward Agentic Streaming for AI",
+      "url": "https://www.alibabacloud.com/blog/alibaba-cloud-pushes-open-source-apache-flink-toward-agentic-streaming-for-ai_603313",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-07T04:25:57",
+      "ai_output": {
+        "short_title": "阿里云推进Apache Flink向AI流处理演进",
+        "one_line_signal": "开源流处理框架Flink融合Agentic AI能力，标志实时数据处理进入智能编排时代",
+        "zh_summary": "阿里云发布Apache Flink新版本，引入Agentic Streaming能力，支持AI Agent在数据流中自主决策与动态调整。这是流处理技术从被动计算向主动智能的范式转变。对FLIPOS而言，虽非直接落地影响，但预示未来云部署架构需考虑流式AI能力集成。",
+        "category": "AI与自动化",
+        "importance_score": 6,
+        "relevance_score": 3,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 281,
+      "title": "Alibaba Cloud EMR Serverless Spark AI Function Multimodal & Autonomous Driving Practice",
+      "url": "https://www.alibabacloud.com/blog/alibaba-cloud-emr-serverless-spark-ai-function-multimodal-%26-autonomous-driving-practice_603334",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-07T04:25:57",
+      "ai_output": {
+        "short_title": "阿里云EMR Serverless Spark AI功能技术博客",
+        "one_line_signal": "阿里云发布EMR Serverless Spark多模态AI和大数据处理能力，与餐饮SaaS业务无直接关联",
+        "zh_summary": "阿里云发布EMR Serverless Spark的AI功能技术博客，主要介绍多模态处理和自动驾驶场景的大数据计算能力。该内容属于底层大数据基础设施技术实践，与餐饮SaaS的点单、支付、外卖等业务场景无直接关联，对FLIPOS当前Solution Pack落地无实质影响。",
+        "category": "AI与自动化",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 282,
+      "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
+      "url": "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar/",
+      "source": "AWS Security Blog",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-07T04:26:02",
+      "ai_output": {
+        "short_title": "AWS Cedar 多代理AI最小权限授权",
+        "one_line_signal": "AWS 发布基于 Cedar 策略语言的 AI 代理授权安全方案，强调最小权限原则在 AI 系统中的应用",
+        "zh_summary": "AWS Security Blog 发布文章介绍如何使用 Cedar 策略语言在多代理 AI 系统中强制执行最小权限授权。该方案允许企业为 AI 代理定义细粒度的权限边界，防止越权操作。AWS 明确标注此内容适用于 Singapore/Japan/Thailand 区域，建议基建团队评估该能力对云架构安全的影响。",
+        "category": "AI与自动化",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "新加坡、日本、泰国",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
       "id": 283,
       "title": "China slowdown, fraud crackdown weigh on Myanmar jade prices",
       "url": "https://www.bangkokpost.com/business/general/3282269/china-slowdown-fraud-crackdown-weigh-on-myanmar-jade-prices",
@@ -3363,6 +5988,48 @@
       }
     },
     {
+      "id": 286,
+      "title": "Hong Kong Seniors to Receive Cash Assistance via Cross-Border Remittance",
+      "url": "https://fintechnews.hk/39559/various/hk-cross-border-remittance-portable-cash-assistance/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-07-06T08:37:58",
+      "fetched_at": "2026-07-07T04:26:48",
+      "ai_output": {
+        "short_title": "香港推社保跨境汇款服务",
+        "one_line_signal": "香港政府为内地养老的港人开通跨境港元汇款渠道，与餐饮SaaS行业无直接关联",
+        "zh_summary": "香港社会福利署推出跨境汇款服务，允许在广东、福建领取社保的老人直接收款至港元账户。这是纯政府福利政策，涉及特定银行渠道，与餐饮数字化、POS或商业支付基础设施无关。",
+        "category": "支付与合规",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "香港、中国大陆",
+        "primary_market": "港澳",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 287,
+      "title": "JCB and MUFG Bank Plan ASEAN Alliance to Tap Affluent Payments Growth",
+      "url": "https://fintechnews.hk/39554/fintechjapan/jcb-mufg-asean-payment-alliance/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-07-06T05:27:43",
+      "fetched_at": "2026-07-07T04:26:48",
+      "ai_output": {
+        "short_title": "JCB与MUFG组成东盟支付联盟",
+        "one_line_signal": "日本两大金融机构JCB与MUFG组成东盟战略联盟，目标抢占东南亚富裕客群数字支付市场",
+        "zh_summary": "JCB与MUFG银行签署谅解备忘录，计划在东盟地区建立战略支付联盟，整合双方支付基础设施与合作伙伴网络。首个合作项目为2026财年在印尼推出高端信用卡，并将探索跨境支付与移动服务解决方案。该联盟由日本主导，目标是连接东南亚金融机构与日本企业，创造旅游与金融服务新机会。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 5,
+        "market_tags": "东南亚、日本、印尼",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
       "id": 288,
       "title": "Malaysia Pilots MediAsas for Affordable Medical Insurance Up to Age 85",
       "url": "https://fintechnews.my/59458/insurtech-malaysia/mediasas-mof-pilot/",
@@ -3378,6 +6045,48 @@
         "category": "支付与合规",
         "importance_score": 2,
         "relevance_score": 1,
+        "market_tags": "马来西亚",
+        "primary_market": "全球",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 289,
+      "title": "Boost Expands Boba AI From Customer Support to Task Execution",
+      "url": "https://fintechnews.my/59451/ai/boba-ai-boost-bank-agentic-upgrade/",
+      "source": "Fintech News Malaysia",
+      "region": "Malaysia",
+      "domain": "fintech",
+      "published_at": "2026-07-06T08:08:17",
+      "fetched_at": "2026-07-07T04:26:52",
+      "ai_output": {
+        "short_title": "Boost升级Boba AI实现任务执行",
+        "one_line_signal": "马来西亚电子钱包Boost将AI从客服问答扩展至账户开户、账单支付等任务执行，80%交互无需人工介入",
+        "zh_summary": "马来西亚金融科技公司Boost将Boba AI从客服问答升级为可执行任务（账户开户、eKYC验证、账单支付）。Boba Voice自2026年5月上线以来处理90%来电咨询，80%无需人工介入，等候时间降至3秒。超过3万用户使用AI任务功能。这代表东南亚电子钱包正将生成式AI从FAQ机器人升级为可执行业务流程的Agent形态，对餐饮SaaS的AI产品设计有参考价值。",
+        "category": "AI与自动化",
+        "importance_score": 6,
+        "relevance_score": 4,
+        "market_tags": "马来西亚",
+        "primary_market": "全球",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 290,
+      "title": "SC Seeks Feedback on AI Oversight for Malaysian Listed Companies",
+      "url": "https://fintechnews.my/59446/regtech-fintech-regulation-malaysia/sc-corporate-governance-proposal/",
+      "source": "Fintech News Malaysia",
+      "region": "Malaysia",
+      "domain": "fintech",
+      "published_at": "2026-07-06T04:25:53",
+      "fetched_at": "2026-07-07T04:26:52",
+      "ai_output": {
+        "short_title": "马来西亚证监会征询AI监管意见",
+        "one_line_signal": "马来西亚监管机构开始对上市公司AI治理提出披露要求，资本市场的AI合规框架逐步成形",
+        "zh_summary": "马来西亚证监会发布咨询文件，计划要求上市公司董事会对技术及AI使用进行披露和治理。这标志着东南亚市场AI监管从科技行业向资本市场蔓延，FLIPOS若服务马来西亚上市餐饮企业或大型连锁客户，未来可能面临类似的合规要求。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 3,
         "market_tags": "马来西亚",
         "primary_market": "全球",
         "affected_capability": "合规"
@@ -3489,6 +6198,69 @@
       }
     },
     {
+      "id": 296,
+      "title": "dtcpay Taps TP to Scale 24/7 Customer Support Across APAC",
+      "url": "https://fintechnews.sg/134027/digitalassets/dtcpay-tp/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-07-06T07:34:03",
+      "fetched_at": "2026-07-07T04:26:59",
+      "ai_output": {
+        "short_title": "新加坡dtcpay联手TP扩大亚太稳定币支付客服",
+        "one_line_signal": "新加坡持牌支付机构dtcpay通过外包客服扩张稳定币支付服务运营支撑",
+        "zh_summary": "新加坡受监管数字支付机构dtcpay与TP达成合作，由TP提供24/7多语言（英语/普通话）客户支持服务，以支撑其亚太地区稳定币支付业务的规模化扩张。该合作表明稳定币支付在新加坡获得运营基础设施投资，但未直接涉及餐饮SaaS或POS集成层面。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "新加坡、亚太",
+        "primary_market": "新加坡",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 297,
+      "title": "Deal between Danish NATO port and Chinese peer draws criticism",
+      "url": "https://asia.nikkei.com/politics/defense/deal-between-danish-nato-port-and-chinese-peer-draws-criticism",
+      "source": "Nikkei Asia",
+      "region": "Japan/APAC",
+      "domain": "local_business",
+      "published_at": null,
+      "fetched_at": "2026-07-07T04:27:01",
+      "ai_output": {
+        "short_title": "丹麦北约港口与中企合作引发安全争议",
+        "one_line_signal": "地缘政治风险向商业基础设施延伸，北约成员国港口合作审查趋严",
+        "zh_summary": "丹麦哥本哈根马士基港口与中国合作方签署协议，引发北约成员国安全关切。此类港口基础设施投资争议反映出地缘政治紧张正在向商业领域蔓延，对跨国商业合作审查趋严。原文未说明此事件是否直接影响餐饮零售行业。",
+        "category": "风险预警",
+        "importance_score": 4,
+        "relevance_score": 1,
+        "market_tags": "欧洲、全球",
+        "primary_market": "全球",
+        "affected_capability": "合规"
+      }
+    },
+    {
+      "id": 298,
+      "title": "The top 3 priorities for Founder success in 2026",
+      "url": "https://www.fastcasual.com/blogs/the-top-3-priorities-for-success-in-2026/",
+      "source": "Fast Casual",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-07-06T12:00:00",
+      "fetched_at": "2026-07-07T04:27:08",
+      "ai_output": {
+        "short_title": "2026餐饮创始人三大成功优先项",
+        "one_line_signal": "餐饮行业趋势报告显示全渠道客户体验、交易数据追踪和团队领导力将成为餐饮品牌竞争的核心要素",
+        "zh_summary": "Fast Casual 发布 2026 餐饮行业展望，指出创始人需聚焦三大优先项：全渠道卓越客户体验、以交易数据作为核心健康指标、以及强化领导力驱动增长与忠诚度。该文为泛行业趋势观察，未涉及具体产品或技术细节，对 FLIPOS 产品路线暂无直接参考价值。",
+        "category": "餐饮数字化",
+        "importance_score": 4,
+        "relevance_score": 5,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "CRM"
+      }
+    },
+    {
       "id": 299,
       "title": "Klarna applies for US banking license",
       "url": "https://www.finextra.com/newsarticle/48045/klarna-applies-for-us-banking-license?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -3507,6 +6279,111 @@
         "market_tags": "美国、全球",
         "primary_market": "全球",
         "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 300,
+      "title": "Ex-Bolt executive lands new post",
+      "url": "https://www.paymentsdive.com/news/ex-bolt-executive-lands-new-post/824479/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-07-06T10:56:12",
+      "fetched_at": "2026-07-07T04:27:14",
+      "ai_output": {
+        "short_title": "前Bolt高管加入澳大利亚商户服务商",
+        "one_line_signal": "支付行业人才流动，反映Checkout技术服务商在亚太地区的扩张意图",
+        "zh_summary": "前Bolt（Checkout公司）CEO加入澳大利亚商户服务公司Hello Clever担任总裁。Bolt曾在2022年估值达85亿美元后收缩业务，此人事变动显示澳大利亚支付服务商正在整合行业资深人才。",
+        "category": "竞品动态",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "澳大利亚、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 301,
+      "title": "Digital ID and payments turn to your face",
+      "url": "https://www.paymentsdive.com/news/digital-id-and-payments-turn-to-your-face/824041/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-07-06T08:26:00",
+      "fetched_at": "2026-07-07T04:27:14",
+      "ai_output": {
+        "short_title": "面部识别从身份验证走向支付场景",
+        "one_line_signal": "生物识别支付正从高端场景向日常消费渗透，POS系统需评估集成人脸支付能力",
+        "zh_summary": "移动设备和各国监管机构正在加速采用面部识别技术，使其从单纯的身份验证扩展到支付场景。这意味着生物识别可能成为继NFC、二维码之后的下一代支付入口。餐饮零售POS系统需要提前评估是否支持人脸支付通道，以应对支付基础设施的演进趋势。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 7,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 302,
+      "title": "The B2B payments infrastructure gap: Most platforms weren’t built for agentic AI",
+      "url": "https://www.paymentsdive.com/spons/the-b2b-payments-infrastructure-gap-most-platforms-werent-built-for-agent/824370/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-07-06T05:00:00",
+      "fetched_at": "2026-07-07T04:27:14",
+      "ai_output": {
+        "short_title": "B2B支付基础设施与AI代理的适配缺口",
+        "one_line_signal": "传统B2B支付技术栈无法满足代理式AI自动化交互需求",
+        "zh_summary": "文章指出传统B2B支付技术栈设计时仅考虑了自动化，而未预判代理式AI（agentic AI）的需求。当前平台缺乏AI可直接调用的标准化支付接口，导致AI agent在处理支付任务时存在兼容性问题。这是支付基础设施层面的技术演进信号，但与餐饮SaaS的直接关联度待观察。",
+        "category": "AI与自动化",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 303,
+      "title": "Restaurants have never known more about their guests. So why are they losing them?",
+      "url": "https://www.restaurantdive.com/news/opinion-ryan-volberg-restaurant-loyalty-dine-in-experience/824459/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-07-06T11:02:00",
+      "fetched_at": "2026-07-07T04:27:22",
+      "ai_output": {
+        "short_title": "餐饮顾客数据利用不足导致流失",
+        "one_line_signal": "美国餐饮业观点文章指出，仅靠忠诚度计划无法留住顾客，需用数据驱动个性化体验",
+        "zh_summary": "美国观点文章称，餐厅虽掌握大量顾客数据，但仍持续流失客户。问题在于过度依赖忠诚度计划而非数据驱动的个性化服务。建议餐厅应部署guest data来增强体验、记住偏好，而非单纯增加积分层级。此观点对理解餐饮CRM能力建设有参考价值，但属于行业观察，非具体产品或监管动态。",
+        "category": "餐饮数字化",
+        "importance_score": 5,
+        "relevance_score": 6,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "CRM"
+      }
+    },
+    {
+      "id": 304,
+      "title": "QSR traffic fell 4.4% in May",
+      "url": "https://www.restaurantdive.com/news/qsr-traffic-down-4-percent-may-placerai/824346/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-07-06T08:43:00",
+      "fetched_at": "2026-07-07T04:27:22",
+      "ai_output": {
+        "short_title": "美国QSR客流5月跌4.4%全服务餐反升",
+        "one_line_signal": "美国快餐连锁客流创年内最差表现，与全服务餐厅客流小幅增长形成分化",
+        "zh_summary": "Placer.ai数据显示，美国快餐连锁5月客流同比下降4.4%，短时访问下降6.8%，为今年以来最差月份。全服务餐厅客流则有小幅上升。反映了美国消费者在快餐消费上的支出意愿收缩，可能影响餐饮数字化投入决策。",
+        "category": "出海市场动态",
+        "importance_score": 6,
+        "relevance_score": 4,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "市场"
       }
     },
     {
@@ -3633,6 +6510,69 @@
         "market_tags": "新加坡",
         "primary_market": null,
         "affected_capability": null
+      }
+    },
+    {
+      "id": 311,
+      "title": "Alibaba Positions for Accelerated AI Growth in Second Half of 2026",
+      "url": "https://www.alibabacloud.com/blog/alibaba-positions-for-accelerated-ai-growth-in-second-half-of-2026_603316",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-08T09:00:02",
+      "ai_output": {
+        "short_title": "阿里云布局2026下半年AI加速增长",
+        "one_line_signal": "阿里云发布AI战略规划，但未披露针对SaaS或餐饮行业的具体产品路线图",
+        "zh_summary": "阿里云发布2026年下半年AI加速增长战略定位，重点布局AI基础设施和云服务能力。该文章源自阿里云国际港澳团队发布的官方博客，但未说明对餐饮SaaS或POS系统的具体影响，仅为集团层面战略宣示。",
+        "category": "AI与自动化",
+        "importance_score": 6,
+        "relevance_score": 4,
+        "market_tags": "香港、澳门、全球",
+        "primary_market": "香港/澳门",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 312,
+      "title": "Enforce zero data retention on Amazon Bedrock with Bedrock Projects and service control policies",
+      "url": "https://aws.amazon.com/blogs/security/enforce-zero-data-retention-on-amazon-bedrock-with-bedrock-projects-and-service-control-policies/",
+      "source": "AWS Security Blog",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-08T09:00:03",
+      "ai_output": {
+        "short_title": "AWS Bedrock零数据保留策略配置",
+        "one_line_signal": "AWS强化AI服务数据合规要求，出海云部署需关注数据驻留配置",
+        "zh_summary": "AWS发布Bedrock零数据保留强制执行指南，涉及Bedrock Projects与Service Control Policies配置。虽FLIPOS当前未直接使用Bedrock AI服务，但随着餐饮SaaS出海引入AI能力（如智能客服、菜单识别），数据跨境合规将成为必要考量，新加坡、日本、泰国等市场均需评估。",
+        "category": "合规",
+        "importance_score": 5,
+        "relevance_score": 4,
+        "market_tags": "新加坡、日本、泰国",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 313,
+      "title": "Payments",
+      "url": "https://docs.stripe.com/payments",
+      "source": "Stripe Changelog",
+      "region": "Global/Japan/Singapore",
+      "domain": "payment",
+      "published_at": null,
+      "fetched_at": "2026-07-08T09:00:09",
+      "ai_output": {
+        "short_title": "Stripe 支付文档索引页无实际更新",
+        "one_line_signal": "Stripe 支付网关文档索引页面，无具体产品更新内容",
+        "zh_summary": "本文档为 Stripe 支付网关的文档索引页面，未包含任何具体产品更新或变更说明。由于缺乏实际功能变更信息，对 FLIPOS 的支付集成和合规评估暂无影响，建议关注 Stripe 官方 Changelog 获取后续实际更新。",
+        "category": "支付与合规",
+        "importance_score": 1,
+        "relevance_score": 5,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付"
       }
     },
     {
@@ -3909,6 +6849,27 @@
       }
     },
     {
+      "id": 327,
+      "title": "Singapore's Temasek to raise AI exposure 2.5-fold over 5 years",
+      "url": "https://asia.nikkei.com/business/finance/singapore-s-temasek-to-raise-ai-exposure-2.5-fold-over-5-years",
+      "source": "Nikkei Asia",
+      "region": "Japan/APAC",
+      "domain": "local_business",
+      "published_at": null,
+      "fetched_at": "2026-07-08T09:00:23",
+      "ai_output": {
+        "short_title": "淡马锡5年内AI敞口拟增2.5倍",
+        "one_line_signal": "新加坡主权基金加码AI投资，反映亚太头部资本押注AI基础设施的长期趋势",
+        "zh_summary": "淡马锡宣布未来五年将AI敞口扩大2.5倍，重点布局AI基础设施和应用。作为新加坡最大投资机构，其战略转向反映亚太头部资本对AI长期增长的信心。这对餐饮SaaS等本地生活服务商意味着更丰富的AI能力供给和潜在合作机会，但也需关注AI替代传统POS系统的竞争压力。",
+        "category": "AI与自动化",
+        "importance_score": 6,
+        "relevance_score": 4,
+        "market_tags": "新加坡、东南亚",
+        "primary_market": "新加坡",
+        "affected_capability": "AI与自动化"
+      }
+    },
+    {
       "id": 328,
       "title": "Why more women are turning to restaurant franchising",
       "url": "https://www.fastcasual.com/blogs/why-more-women-are-turning-to-restaurant-franchising/",
@@ -4116,6 +7077,48 @@
         "market_tags": "美国、英国、加拿大、澳大利亚、全球",
         "primary_market": "新加坡",
         "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 338,
+      "title": "Alibaba Cloud EMR Serverless StarRocks Lakehouse Multimodal Retrieval: One SQL for Full-Text, Scalar, and Vector Hybrid Search",
+      "url": "https://www.alibabacloud.com/blog/alibaba-cloud-emr-serverless-starrocks-lakehouse-multimodal-retrieval-one-sql-for-full-text-scalar-and-vector-hybrid-search_603345",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-09T09:00:03",
+      "ai_output": {
+        "short_title": "阿里云EMR Serverless StarRocks多模态检索能力",
+        "one_line_signal": "阿里云发布湖仓一体多模态检索技术，支持SQL统一查询全文/标量/向量数据",
+        "zh_summary": "阿里云国际发布EMR Serverless StarRocks Lakehouse多模态检索能力，可通过单一SQL同时查询全文、标量和向量数据，适用于AI增强的搜索和推荐场景。该技术属于基础设施层面的数据处理能力，不直接涉及餐饮SaaS应用层，但对未来构建智能推荐或语义搜索功能有潜在支撑价值。",
+        "category": "竞品动态",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "香港、澳门、全球",
+        "primary_market": "香港",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 339,
+      "title": "Designing for the inevitable: System prompt leakage and mitigations in generative AI applications",
+      "url": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/",
+      "source": "AWS Security Blog",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-09T09:00:04",
+      "ai_output": {
+        "short_title": "AWS警示AI系统提示词泄露风险",
+        "one_line_signal": "AWS发布生成式AI应用安全指南，提示系统提示词泄露是不可避免的技术风险",
+        "zh_summary": "AWS安全博客发布技术文章，讨论生成式AI应用中系统提示词泄露的必然性及缓解措施。提示词注入攻击可导致Prompt内容被提取、指令被篡改或敏感信息泄露。建议通过多层防护、输入验证和监控机制应对。",
+        "category": "AI与自动化",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "新加坡、日本、泰国",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
       }
     },
     {
@@ -4473,6 +7476,27 @@
         "market_tags": "美国、全球",
         "primary_market": "全球",
         "affected_capability": "POS"
+      }
+    },
+    {
+      "id": 357,
+      "title": "Introducing OAuth Support for AWS MCP Server",
+      "url": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server/",
+      "source": "AWS Security Blog",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-10T09:00:02",
+      "ai_output": {
+        "short_title": "AWS MCP Server 新增 OAuth 支持",
+        "one_line_signal": "AWS MCP Server 安全认证能力升级，云部署可考虑集成 AI 能力",
+        "zh_summary": "AWS 在其 MCP Server（Model Context Protocol Server）上新增 OAuth 认证支持，强化了与 AI Agent 交互时的安全管控。该功能对在 AWS 上部署餐饮 SaaS 的企业有参考价值，尤其当需要接入 AI 能力时，可降低安全风险。短期内对 FLIPOS 当前 Solution Pack 无直接影响。",
+        "category": "云部署",
+        "importance_score": 4,
+        "relevance_score": 5,
+        "market_tags": "新加坡、日本、泰国、全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
       }
     },
     {
@@ -4896,6 +7920,27 @@
       }
     },
     {
+      "id": 378,
+      "title": "AWS designated as a critical third party to the UK financial sector",
+      "url": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-to-the-uk-financial-sector/",
+      "source": "AWS Security Blog",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-11T09:00:02",
+      "ai_output": {
+        "short_title": "AWS被英国金融业列为关键第三方供应商",
+        "one_line_signal": "英国金融监管机构正式认定AWS为关键第三方，意味着云服务商在金融合规体系中承担更大责任",
+        "zh_summary": "英国金融监管机构将AWS指定为金融业关键第三方供应商，意味着AWS需满足更严格的合规要求和监管审查。此举反映了全球金融监管机构对云服务提供商风险管理的重视程度提升。对使用AWS的金融相关企业而言，其上游供应商合规压力可能传导至下游客户。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 5,
+        "market_tags": "英国、全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
       "id": 379,
       "title": "Wahed Offers Fractional Property Investing to Malaysians From RM500",
       "url": "https://fintechnews.my/59564/islamic-fintech/wahed-fractional-real-estate/",
@@ -4914,6 +7959,27 @@
         "market_tags": "全球",
         "primary_market": "日本",
         "affected_capability": "支付"
+      }
+    },
+    {
+      "id": 380,
+      "title": "Superpower US still too young to take path toward decline",
+      "url": "https://asia.nikkei.com/spotlight/comment/superpower-us-still-too-young-to-take-path-toward-decline",
+      "source": "Nikkei Asia",
+      "region": "Japan/APAC",
+      "domain": "local_business",
+      "published_at": null,
+      "fetched_at": "2026-07-11T09:00:15",
+      "ai_output": {
+        "short_title": "美国超级大国地位地缘政治分析",
+        "one_line_signal": "地缘政治评论文章分析美国超级大国地位，非餐饮科技或支付行业新闻",
+        "zh_summary": "本文为Nikkei Asia地缘政治评论，分析美国作为超级大国的发展阶段。由于正文未提供，无法确认具体观点。该文章属于宏观经济与政治分析范畴，与餐饮SaaS、POS系统、支付基础设施或FLIPOS出海市场业务无直接关联。",
+        "category": "出海市场动态",
+        "importance_score": 3,
+        "relevance_score": 1,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "市场"
       }
     },
     {
@@ -5316,6 +8382,48 @@
       }
     },
     {
+      "id": 400,
+      "title": "The Evolution of Qoder NEXT: From Inline Completion to Intelligent Code Editing",
+      "url": "https://www.alibabacloud.com/blog/the-evolution-of-qoder-next-from-inline-completion-to-intelligent-code-editing_603352",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-14T01:00:03",
+      "ai_output": {
+        "short_title": "阿里云Qoder代码编辑工具演进",
+        "one_line_signal": "阿里云发布代码补全工具Qoder NEXT升级，属于基础设施层面的开发者工具更新",
+        "zh_summary": "阿里云发布代码编辑工具 Qoder NEXT 从内联补全升级到智能代码编辑功能。该产品属于阿里云基础设施层面的开发者工具，与餐饮 SaaS 业务无直接关联，对 FLIPOS 出海 Solution Pack 的支付、外卖、POS 等核心能力无影响。",
+        "category": "AI与自动化",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 401,
+      "title": "New compliance guidance available: HITRUST i1 on AWS",
+      "url": "https://aws.amazon.com/blogs/security/new-compliance-guidance-available-hitrust-i1-on-aws/",
+      "source": "AWS Security Blog",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-14T01:00:04",
+      "ai_output": {
+        "short_title": "AWS新增HITRUST i1合规指导",
+        "one_line_signal": "AWS云基础设施扩展医疗健康数据合规认证，覆盖东南亚及日本市场",
+        "zh_summary": "AWS在新加坡、日本、泰国区域推出HITRUST i1合规认证指导框架，为云上医疗健康数据处理提供标准化安全基线。此举扩展了AWS合规矩阵，对使用AWS部署、需要满足医疗或敏感数据合规要求的SaaS应用具有参考价值。",
+        "category": "合规",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "新加坡、日本、泰国、全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
       "id": 402,
       "title": "Call for more law enforcement after Thai pub fire kills dozens",
       "url": "https://www.bangkokpost.com/business/general/3285545/call-for-more-law-enforcement-after-thai-pub-fire-kills-dozens",
@@ -5325,11 +8433,11 @@
       "published_at": "2026-07-14T05:41:00",
       "fetched_at": "2026-07-14T01:00:20",
       "ai_output": {
-        "short_title": "泰国酒吧火灾促安全监管收紧",
-        "one_line_signal": "曼谷酒吧火灾致多人死亡，泰国餐饮协会呼吁加强执法",
-        "zh_summary": "曼谷 Chatuchak 区一家酒吧发生火灾造成多人死亡，两个餐饮协会随即呼吁加强执法。这起事件预示泰国将对餐饮及娱乐场所的安全合规进行更严格审查，可能收紧消防、建筑和营业许可等方面的要求。",
-        "category": "监管合规",
-        "importance_score": 7,
+        "short_title": "泰国酒吧火灾促餐饮监管收紧",
+        "one_line_signal": "泰国餐饮场所安全事件推动监管执法加严，餐饮经营者合规成本可能上升",
+        "zh_summary": "曼谷恰图恰区发生致命酒吧火灾后，两个泰国餐厅协会呼吁政府加强执法监管。此事件可能推动泰国餐饮业安全标准升级，对在泰经营的餐饮企业意味着需关注合规要求变化，评估现有运营是否满足潜在更严格的安全和经营规范。",
+        "category": "风险预警",
+        "importance_score": 6,
         "relevance_score": 3,
         "market_tags": "泰国",
         "primary_market": "泰国",
@@ -5620,12 +8728,12 @@
       "fetched_at": "2026-07-14T01:00:26",
       "ai_output": {
         "short_title": "Nubank获墨西哥银行牌照",
-        "one_line_signal": "拉美金融科技头部玩家Nubank正式进入墨西哥，对当地数字支付格局产生影响",
-        "zh_summary": "巴西最大数字银行Nubank获得墨西哥银行运营授权，将在当地开展存款、信贷等银行业务。墨西哥是中美洲最大消费市场之一，移动支付渗透率持续提升，但该市场暂非FLIPOS当前Solution Pack覆盖范围。",
+        "one_line_signal": "巴西金融科技巨头Nubank获得墨西哥银行运营授权，继续其全球化扩张步伐",
+        "zh_summary": "巴西最大金融科技公司Nubank获墨西哥监管机构最终授权，可在当地开展银行业务。这标志着Nubank从数字银行进一步拓展至传统金融领域，也反映拉美金融科技公司向北美市场渗透的趋势。",
         "category": "支付与合规",
         "importance_score": 5,
-        "relevance_score": 3,
-        "market_tags": "墨西哥、拉美、全球",
+        "relevance_score": 2,
+        "market_tags": "墨西哥、巴西、全球",
         "primary_market": "全球",
         "affected_capability": "支付"
       }
@@ -5640,13 +8748,13 @@
       "published_at": "2026-07-14T00:01:00",
       "fetched_at": "2026-07-14T01:00:26",
       "ai_output": {
-        "short_title": "Klarna荷兰遭集体诉讼",
-        "one_line_signal": "BNPL监管收紧，支付合规风险从理论变为实际诉讼案例",
-        "zh_summary": "Klarna在荷兰面临集体诉讼，荷兰非营利基金会指控其先买后付服务存在不当行为。此案反映BNPL模式在全球面临日益严格的监管审查，支付提供商合规成本上升。餐饮等本地生活场景若集成BNPL功能，需提前评估消费者保护法规风险。",
+        "short_title": "Klarna荷兰集体诉讼折射BNPL合规风险",
+        "one_line_signal": "BNPL监管趋严，Klarna在荷兰被提起集体诉讼，对行业合规性敲响警钟",
+        "zh_summary": "荷兰非营利基金会针对Klarna提起集体诉讼，反映BNPL先买后付服务在欧洲面临日益严格的监管审查。Klarna作为BNPL行业头部玩家，其合规风险对整个先买后付行业具有警示意义，也提醒出海支付服务商需重视本地合规要求。",
         "category": "支付与合规",
         "importance_score": 7,
-        "relevance_score": 4,
-        "market_tags": "荷兰、欧洲、全球",
+        "relevance_score": 5,
+        "market_tags": "欧洲、荷兰、全球",
         "primary_market": "全球",
         "affected_capability": "支付"
       }
@@ -5715,6 +8823,48 @@
       }
     },
     {
+      "id": 421,
+      "title": "Beri Agen AI Anda Ruang Kerja Sekali Pakai dengan Alibaba Cloud AgentRun",
+      "url": "https://www.alibabacloud.com/blog/beri-agen-ai-anda-ruang-kerja-sekali-pakai-dengan-alibaba-cloud-agentrun_603356",
+      "source": "Alibaba Cloud International Blog",
+      "region": "Hong Kong/Macau",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-15T01:00:02",
+      "ai_output": {
+        "short_title": "阿里云AgentRun推AI临时工作空间",
+        "one_line_signal": "阿里云发布AgentRun服务，为AI Agent提供隔离的一次性工作环境",
+        "zh_summary": "阿里云推出AgentRun服务，允许AI Agent在隔离的一次性环境中执行任务。元数据标记关联港澳区域，但实际内容为印尼语市场推广。AgentRun属于通用云基础设施服务，非餐饮行业专属，与FLIPOS Solution Pack的直接关联有限，但阿里云是港澳方案的云底座组件，需关注其AI能力演进。",
+        "category": "AI与自动化",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "印尼、全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
+      "id": 422,
+      "title": "ICYMI: June 2026 @AWS Security",
+      "url": "https://aws.amazon.com/blogs/security/icymi-june-2026-aws-security/",
+      "source": "AWS Security Blog",
+      "region": "Singapore/Japan/Thailand",
+      "domain": "cloud",
+      "published_at": null,
+      "fetched_at": "2026-07-15T01:00:03",
+      "ai_output": {
+        "short_title": "AWS六月份安全更新覆盖星日泰区域",
+        "one_line_signal": "AWS云安全公告提醒新加坡、日本、泰国区域的合规配置需定期审查",
+        "zh_summary": "AWS发布2026年6月安全与合规公告，涵盖新加坡、日本、泰国区域的安全更新。FLIPOS在东南亚和日本使用AWS部署，该公告提醒需定期检查云安全配置更新，确保数据合规状态。",
+        "category": "合规",
+        "importance_score": 6,
+        "relevance_score": 7,
+        "market_tags": "新加坡、日本、泰国",
+        "primary_market": "全球",
+        "affected_capability": "云部署"
+      }
+    },
+    {
       "id": 423,
       "title": "SBI XDC Partners With DSRV to Explore Enterprise Solutions in Japan, South Korea",
       "url": "https://fintechnews.hk/39711/fintechjapan/sbi-xdc-dsrv-blockchain-trade-finance/",
@@ -5724,14 +8874,14 @@
       "published_at": "2026-07-14T04:26:13",
       "fetched_at": "2026-07-15T01:00:13",
       "ai_output": {
-        "short_title": "SBI与韩国DSRV合作探索日韩区块链贸易金融",
-        "one_line_signal": "日韩企业区块链合作聚焦贸易金融代币化，与餐饮支付暂无直接关联",
-        "zh_summary": "SBI XDC Network与韩国区块链基础设施公司DSRV达成合作，共同在日本和韩国市场探索企业级区块链解决方案，聚焦跨境贸易金融和供应链管理领域。DSRV将以验证者身份参与XDC Network运营。该合作反映了日韩地区企业区块链技术的探索趋势，但与餐饮SaaS/POS/支付场景无直接关联。",
+        "short_title": "SBI XDC与DSRV合作探索日韩区块链企业方案",
+        "one_line_signal": "日韩市场企业区块链合作聚焦贸易融资，与餐饮支付SaaS无直接关联但代表数字化基础设施演进方向",
+        "zh_summary": "SBI XDC与韩国区块链公司DSRV合作探索XDC链上企业解决方案，聚焦日本韩国跨境贸易融资和供应链代币化。该合作属于B2B区块链基础设施层面，与餐饮SaaS/POS/外卖平台支付无直接关联，但反映日韩市场企业数字化合作加速。",
         "category": "AI与自动化",
-        "importance_score": 3,
-        "relevance_score": 2,
-        "market_tags": "日本、韩国、全球",
-        "primary_market": "全球",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "日本、韩国",
+        "primary_market": "日本",
         "affected_capability": "支付"
       }
     },
@@ -5745,13 +8895,13 @@
       "published_at": "2026-07-14T03:24:43",
       "fetched_at": "2026-07-15T01:00:13",
       "ai_output": {
-        "short_title": "Fintech抢占亚太1.2万亿电商融资缺口",
-        "one_line_signal": "金融科技通过实时数据优势填补银行在电商商家融资领域的空白，餐饮商户数字化授信或成新机会",
-        "zh_summary": "报告显示传统银行因缺乏实时数据和运营可见性，正系统性退出电商商家融资市场，亚太地区电商信贷缺口高达1.2万亿美元。Fintech凭借平台数据和快速审批能力占据优势。对FLIPOS而言，餐饮商户融资或授信需求可能成为增值服务机会，但需评估与核心POS/支付业务的相关性。",
+        "short_title": "亚太电商融资缺口1.2万亿美元 银行被Fintech抢占",
+        "one_line_signal": "银行传统信贷模式无法服务电商商家，Fintech借实时数据优势抢占亚太1.2万亿美元融资市场",
+        "zh_summary": "报告显示银行因缺乏实时交易数据和运营数据，在电商商家信贷评估中处于劣势，导致亚太区电商融资缺口达1.2万亿美元。这反映了金融科技正在重塑商家金融服务格局，餐饮SaaS平台若叠加商家融资能力可能形成差异化竞争力。",
         "category": "支付与合规",
         "importance_score": 5,
         "relevance_score": 3,
-        "market_tags": "东南亚、日本、全球",
+        "market_tags": "全球",
         "primary_market": "全球",
         "affected_capability": "支付"
       }
@@ -5766,14 +8916,14 @@
       "published_at": "2026-07-14T03:13:19",
       "fetched_at": "2026-07-15T01:00:13",
       "ai_output": {
-        "short_title": "Gobi-NTT联手桥接东南亚日本创业生态",
-        "one_line_signal": "亚洲风投与日本电信巨头合作，促进东南亚-日本跨境创业技术对接",
-        "zh_summary": "Gobi Partners与日本NTT达成非约束性合作，旨在连接东南亚和日本创业生态，聚焦业务验证和POC项目。合作方包括东日本旅客铁道、东交所、JETRO等机构，主攻马来西亚等市场跨境商业活动。这是区域级生态合作，非针对餐饮行业，对FLIPOS无直接业务影响，但可作为市场情报观察。",
+        "short_title": "Gobi Partners与NTT合作桥接日本东南亚科创生态",
+        "one_line_signal": "亚洲科创投资机构与日本电信巨头联手，跨境生态连接加速但对餐饮SaaS无直接产品影响",
+        "zh_summary": "Gobi Partners与NTT签署非约束性合作协议，旨在连接东南亚和日本创业公司与企业技术机会，聚焦业务验证和概念验证。该合作将利用Gobi的区域投资网络与NTT的数字基础设施能力，促进跨境商业对接。",
         "category": "出海市场动态",
-        "importance_score": 4,
+        "importance_score": 3,
         "relevance_score": 2,
-        "market_tags": "日本、马来西亚、东南亚",
-        "primary_market": "日本",
+        "market_tags": "日本、东南亚、全球",
+        "primary_market": "全球",
         "affected_capability": "市场"
       }
     },
@@ -5787,15 +8937,15 @@
       "published_at": "2026-07-14T02:00:12",
       "fetched_at": "2026-07-15T01:00:14",
       "ai_output": {
-        "short_title": "马来西亚最大保险科技融资达2600万美元",
-        "one_line_signal": "东南亚嵌入式保险科技获大额融资，聚焦中小企业和零工群体保障",
-        "zh_summary": "PolicyStreet完成马来西亚最大保险科技C轮融资，BlueOrchard追加500万美元投资，总额达2600万美元。公司通过嵌入式保险模式服务超1000万客户，覆盖5万+中小企业，目标2030年服务150万零工经济工作者。反映东南亚金融科技向嵌入式、场景化保险渗透的趋势。",
-        "category": "支付与合规",
-        "importance_score": 5,
-        "relevance_score": 3,
-        "market_tags": "马来西亚、东南亚、亚洲",
-        "primary_market": "马来西亚",
-        "affected_capability": "支付"
+        "short_title": "马来西亚保险科技PolicyStreet融资2600万美元",
+        "one_line_signal": "马来西亚最大保险科技融资反映嵌入式保险在东南亚快速扩展",
+        "zh_summary": "马来西亚保险科技PolicyStreet完成2600万美元C轮融资，由BlueOrchard投资500万美元参与。该公司服务超1000万客户，近10%为灵活用工者，聚焦嵌入式保险模式。FLIPOS当前Solution Pack未涉及保险模块，此融资对餐饮SaaS核心业务影响有限，但需关注嵌入式保险趋势对商户需求的变化。",
+        "category": "竞品动态",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "马来西亚、东南亚",
+        "primary_market": "全球",
+        "affected_capability": "合规"
       }
     },
     {
@@ -5808,13 +8958,13 @@
       "published_at": "2026-07-14T07:42:16",
       "fetched_at": "2026-07-15T01:00:15",
       "ai_output": {
-        "short_title": "菲律宾BNPL平台Billease收入增80%拟进军银行业",
-        "one_line_signal": "菲律宾BNPL平台实现盈利性高增长并通过收购农村银行转型数字银行",
-        "zh_summary": "菲律宾BNPL平台Billease FY2025收入增长80%至1.51亿美元，净利润1360万美元，贷款余额增长77%。公司已收购Rural Bank of Sta. Maria并注入5亿比索，准备转型数字银行。平台月新增客户超10万，在大多数数字贷方仍亏损的市场中连续多年盈利。",
-        "category": "支付与合规",
+        "short_title": "菲律宾BNPL平台Billease营收增80%",
+        "one_line_signal": "菲律宾BNPL赛道持续盈利，平台型支付玩家向银行牌照延伸",
+        "zh_summary": "菲律宾BNPL平台Billease 2025年营收增长80%达1.512亿美元，净利润1360万美元，已实现多年连续盈利。其正通过收购农村银行向数字银行转型，展示BNPL商业模式在东南亚的可持续性。对FLIPOS而言，菲律宾本地支付生态正在成熟，但Billease聚焦消费分期而非餐饮场景，短期直接竞争有限。",
+        "category": "竞品动态",
         "importance_score": 5,
-        "relevance_score": 3,
-        "market_tags": "菲律宾",
+        "relevance_score": 4,
+        "market_tags": "菲律宾、东南亚",
         "primary_market": "全球",
         "affected_capability": "支付"
       }
@@ -5829,14 +8979,14 @@
       "published_at": "2026-07-14T07:02:38",
       "fetched_at": "2026-07-15T01:00:15",
       "ai_output": {
-        "short_title": "Botim与BDO合作抢占OFW跨境金融服务",
-        "one_line_signal": "阿联酋数字钱包Botim联合菲律宾BDO银行，在OFW出发前阶段布局跨境金融服务入口",
-        "zh_summary": "Botim是阿联酋电信G42旗下的数字钱包应用，提供支付、汇款、信贷等服务。通过与菲律宾BDO Unibank合作，将服务整合进针对赴阿联酋菲律宾劳工的PDOS出发前培训项目。原文未说明该合作是否影响餐饮行业，但OFW汇款市场与餐饮SaaS无直接交集。",
+        "short_title": "Botim与BDO合作为阿联酋菲律宾劳工提供数字钱包",
+        "one_line_signal": "数字钱包平台通过行前培训渠道触达海外劳工群体，降低跨境金融服务获取门槛",
+        "zh_summary": "Botim与菲律宾BDO Unibank合作，在海外劳工行前orientation研讨会（PDOS）中推广数字钱包服务，覆盖约70万在阿联酋工作的菲律宾人。该合作将客户获取前置到出发前阶段，帮助OFW提前建立金融习惯并获得受监管支付、汇款、信贷服务。",
         "category": "支付与合规",
         "importance_score": 4,
-        "relevance_score": 2,
-        "market_tags": "菲律宾、阿联酋、东南亚",
-        "primary_market": "菲律宾",
+        "relevance_score": 3,
+        "market_tags": "菲律宾、阿联酋",
+        "primary_market": "全球",
         "affected_capability": "支付"
       }
     },
@@ -5850,9 +9000,9 @@
       "published_at": "2026-07-14T06:45:54",
       "fetched_at": "2026-07-15T01:00:15",
       "ai_output": {
-        "short_title": "菲律宾银行加速推进转账免费化",
-        "one_line_signal": "菲律宾央行解除转账费用管制，多家主要银行跟进取消 InstaPay/PESONet 手续费",
-        "zh_summary": "菲律宾央行（BSP）解除 InstaPay 和 PESONet 转账费用暂停令，多家主要银行在2026年7月上旬陆续取消跨行转账手续费。目前17家机构提供无条件免费 InstaPay，31家提供无条件免费 PESONet。此举降低了消费者交易成本，推动电子转账普及，但对 FLIPOS 当前出海目标市场（港澳新日泰）无直接影响。",
+        "short_title": "菲律宾17家银行取消InstaPay转账费",
+        "one_line_signal": "菲律宾央行解除转账费用暂停令，主流银行纷纷取消InstaPay/Pesonet手续费，利好餐饮商户降低支付通道成本",
+        "zh_summary": "菲律宾央行BSP发布M-2026-025号备忘录及第1238号通函，解除InstaPay和Pesonet转账费用暂停令并规范定价原则。目前17家机构提供免费无条件的InstaPay转账，31家提供免费无条件的Pesonet转账。对餐饮SaaS而言，银行转账免费化可能压缩第三方支付通道的议价空间，但同时也降低了商户端集成成本。",
         "category": "支付与合规",
         "importance_score": 5,
         "relevance_score": 4,
@@ -5871,12 +9021,12 @@
       "published_at": "2026-07-14T06:52:21",
       "fetched_at": "2026-07-15T01:00:15",
       "ai_output": {
-        "short_title": "Payoneer印度AI中心强化跨境支付能力",
-        "one_line_signal": "跨境支付巨头Payoneer借印度AI人才建立全球平台，支付聚合商资质获印度监管原则性批准",
-        "zh_summary": "Payoneer在印度Gurugram开设创新中心，聚焦AI和工程能力建设，同时获得印度储备银行支付聚合商原则性授权。这反映了跨境支付公司加速AI原生转型、印度成为全球金融科技人才高地的趋势。对餐饮SaaS而言，跨境收付款选项可能更丰富，但非直接竞品动态。",
-        "category": "竞品动态",
+        "short_title": "Payoneer印度AI中心启用",
+        "one_line_signal": "跨境支付巨头押注印度AI人才，加速企业支付和劳动力管理能力建设",
+        "zh_summary": "Payoneer在印度Gurugram设立AI创新中心，整合工程、产品、AI等团队，致力于成为AI原生公司。该中心将支持企业市场、支付和劳动力管理服务，并已获印度储备银行支付聚合商初步授权。",
+        "category": "支付与合规",
         "importance_score": 5,
-        "relevance_score": 3,
+        "relevance_score": 2,
         "market_tags": "印度、全球",
         "primary_market": "全球",
         "affected_capability": "支付"
@@ -5892,13 +9042,13 @@
       "published_at": "2026-07-14T06:30:35",
       "fetched_at": "2026-07-15T01:00:15",
       "ai_output": {
-        "short_title": "新加坡企业AI扩展受阻：数据基础设施与治理成瓶颈",
-        "one_line_signal": "新加坡75%企业已部署AI，但基础设施不足、数据治理缺失导致73%项目停滞，AI扩展受制于技术基础而非意愿",
-        "zh_summary": "新加坡企业正积极推进AI部署，但Confluent研究显示78%企业受困于实时数据基础设施不足，95%面临遗留系统集成挑战，73%因数据碎片化导致AI项目停滞或放弃。更关键的是，仅半数企业建立了AI使用政策，员工频繁向AI工具分享敏感数据（登录凭证16.3%、个人ID 20.3%），安全与合规风险凸显。这对餐饮SaaS的AI能力集成与数据合规架构提出警示。",
+        "short_title": "新加坡AI落地受基础设施瓶颈拖累",
+        "one_line_signal": "新加坡企业AI部署意愿强但数据基础设施不足导致73%项目停滞，企业级AI合规治理成为新痛点",
+        "zh_summary": "新加坡75%企业已部署或试点AI，但因实时数据基础设施不足、数据碎片化、AI人才短缺，73%项目停滞。治理层面仅半数企业建立AI使用政策，员工向AI工具泄露敏感信息的风险高企，仅48%企业对员工AI使用有完整可视度。这对餐饮SaaS的AI功能落地和数据合规设计具有警示意义。",
         "category": "AI与自动化",
         "importance_score": 6,
-        "relevance_score": 4,
-        "market_tags": "新加坡、全球",
+        "relevance_score": 5,
+        "market_tags": "新加坡",
         "primary_market": "新加坡",
         "affected_capability": "云部署"
       }
@@ -5913,9 +9063,9 @@
       "published_at": "2026-07-14T05:31:14",
       "fetched_at": "2026-07-15T01:00:15",
       "ai_output": {
-        "short_title": "MSIG亚洲任命新区域CEO",
-        "one_line_signal": "保险业高层人事变动，与餐饮SaaS和支付领域无直接关联",
-        "zh_summary": "MSIG Asia宣布任命Ronak Shah为新任亚太区首席执行官，将于2026年10月生效。此为保险行业常规人事变动，覆盖东南亚、香港、印度及大洋洲市场，与餐饮数字化、POS或支付基础设施无直接业务交集。",
+        "short_title": "MSIG Asia 任命新亚太区 CEO",
+        "one_line_signal": "保险业高管变动，不涉及餐饮科技或支付基础设施，对 FLIPOS 业务无直接影响。",
+        "zh_summary": "MSIG Asia 宣布任命 Ronak Shah 为亚太区 CEO，将于 2026 年 10 月生效。Shah 来自 QBE Asia，拥有 20 年保险业经验，将负责东南亚、香港、印度及大洋洲等市场。该新闻属于保险行业人事变动，与餐饮 SaaS、POS 或支付系统无业务关联。",
         "category": "出海市场动态",
         "importance_score": 2,
         "relevance_score": 1,
@@ -5934,11 +9084,11 @@
       "published_at": "2026-07-14T10:00:00",
       "fetched_at": "2026-07-15T01:00:18",
       "ai_output": {
-        "short_title": "美国咖啡连锁投资4000万美元建分销中心",
-        "one_line_signal": "美国咖啡品牌加大供应链基础设施投入，反映头部连锁强化后勤壁垒的趋势",
-        "zh_summary": "Scooter's Coffee 在内布拉斯加州破土动工建设 4000 万美元的分销中心。该投资反映了快速扩张的咖啡连锁品牌在供应链环节加大基础设施投入，以支撑门店增长计划。这与美国餐饮连锁普遍追求运营效率和成本控制的趋势一致。",
+        "short_title": "美国咖啡连锁投建分销中心",
+        "one_line_signal": "美国咖啡品牌 Scooter's Coffee 投资供应链基建，反映餐饮连锁深化本土运营布局的趋势",
+        "zh_summary": "美国咖啡连锁 Scooter's Coffee 在内布拉斯加开建 4000 万美元分销中心。该投资与数字化、POS 或支付系统无直接关联，属餐饮品牌供应链基建新闻，对 FLIPOS 出海 SaaS 产品能力无直接影响，可作为行业扩张趋势背景参考。",
         "category": "餐饮数字化",
-        "importance_score": 3,
+        "importance_score": 2,
         "relevance_score": 2,
         "market_tags": "美国",
         "primary_market": "全球",
@@ -5955,13 +9105,13 @@
       "published_at": "2026-07-15T00:01:00",
       "fetched_at": "2026-07-15T01:00:19",
       "ai_output": {
-        "short_title": "Nopan获720万欧元构建A2A支付性能层",
-        "one_line_signal": "前Netflix支付团队成员创立支付性能中间件初创并获融资，反映账户间支付基础设施优化层正成为新投资热点",
-        "zh_summary": "荷兰支付初创Nopan获720万欧元种子轮融资，由前Netflix支付团队成员创立。Nopan专注于为账户间支付（A2A）和钱包支付构建性能层，提升支付成功率与速度。随着东南亚市场PromptPay、PayNow等A2A支付普及，支付性能优化正成为差异化竞争点，对支付SaaS平台的基础设施能力提出更高要求。",
+        "short_title": "Netflix前支付团队成员创立Nopan获720万欧元融资",
+        "one_line_signal": "前Netflix支付团队成员押注A2A和钱包支付性能层基础设施获资本青睐，反映支付基础设施层创新持续受关注",
+        "zh_summary": "荷兰支付基础设施初创公司Nopan获720万欧元种子轮融资，由前Netflix支付团队成员创立，旨在构建账户间支付和钱包支付的“性能层”。该融资表明市场持续看好支付基础设施层的创新机会，A2A支付和数字钱包的性能优化正在成为新风口，但对FLIPOS当前产品路线图暂无直接影响。",
         "category": "支付与合规",
-        "importance_score": 6,
-        "relevance_score": 7,
-        "market_tags": "欧洲、东南亚、全球",
+        "importance_score": 5,
+        "relevance_score": 4,
+        "market_tags": "全球、东南亚、欧洲",
         "primary_market": "全球",
         "affected_capability": "支付"
       }
@@ -5976,12 +9126,12 @@
       "published_at": "2026-07-14T11:35:35",
       "fetched_at": "2026-07-15T01:00:19",
       "ai_output": {
-        "short_title": "美国Visa-Mastercard刷卡费和解进展",
-        "one_line_signal": "美国法院处理商户刷卡费索赔超四万件，和解进程缓慢推进中",
-        "zh_summary": "美国法院任命的刷卡费和解官员正在处理约四万商户索赔问题。该和解协议原定于7月生效但被推迟，反映出大规模集体诉讼的执行复杂度。对出海餐饮SaaS而言，美国市场刷卡费监管动向可能影响全球支付成本定价趋势。",
+        "short_title": "美国信用卡刷卡费和解进入商户索赔阶段",
+        "one_line_signal": "美国Visa-Mastercard刷卡费集体诉讼和解进入实质执行阶段，4万商户索赔待处理",
+        "zh_summary": "美国法院指定的刷卡费和解官员正在处理约4万起商户索赔，这是Visa与Mastercard和解协议的实际执行阶段。虽是美国本土案件，但和解结果将影响全球支付卡手续费定价结构，跨境支付服务商需关注后续影响。",
         "category": "支付与合规",
-        "importance_score": 5,
-        "relevance_score": 4,
+        "importance_score": 6,
+        "relevance_score": 3,
         "market_tags": "美国、全球",
         "primary_market": "全球",
         "affected_capability": "支付"
@@ -5997,12 +9147,12 @@
       "published_at": "2026-07-14T10:41:00",
       "fetched_at": "2026-07-15T01:00:19",
       "ai_output": {
-        "short_title": "美国运通达美联名卡消费飙升",
-        "one_line_signal": "美国高端信用卡消费持续增长，反映高净值用户消费韧性",
-        "zh_summary": "美国运通与达美航空联名信用卡消费持续攀升，持卡人支出增长显著。该趋势反映美国高收入群体消费韧性较强，对高端消费场景的支付服务商是利好信号，但对FLIPOS东南亚餐饮SaaS业务无直接关联。",
+        "short_title": "美运达美联名卡消费增长",
+        "one_line_signal": "美国高端旅行信用卡消费持续攀升，反映高端客群消费韧性",
+        "zh_summary": "美国运通与达美航空联名信用卡消费大幅增长，受益于持卡人消费能力持续走强。该新闻虽为美国市场个案，但反映出信用卡公司通过航空等高频消费场景提升用户粘性的策略，对支付生态具有参考价值。",
         "category": "支付与合规",
-        "importance_score": 3,
-        "relevance_score": 2,
+        "importance_score": 4,
+        "relevance_score": 3,
         "market_tags": "美国、全球",
         "primary_market": "全球",
         "affected_capability": "支付"
@@ -6018,11 +9168,11 @@
       "published_at": "2026-07-14T13:54:39",
       "fetched_at": "2026-07-15T01:00:22",
       "ai_output": {
-        "short_title": "Hungry Howie's 联手 DoorDash 重塑数字点餐与忠诚度",
-        "one_line_signal": "美国披萨连锁通过 DoorDash 整合数字点餐与会员忠诚度系统，头部外卖平台持续向餐饮全链路数字化渗透",
-        "zh_summary": "美国披萨连锁 Hungry Howie's 与 DoorDash 达成战略合作，将数字点餐和会员忠诚度计划全面接入 DoorDash 平台。此举反映头部外卖聚合商正从单纯配送向餐饮数字化运营延伸，对独立 POS 厂商的生态整合能力提出更高要求。",
-        "category": "竞品动态",
-        "importance_score": 5,
+        "short_title": "Hungry Howie's 联手 DoorDash 改革数字化点餐",
+        "one_line_signal": "美国披萨连锁品牌通过外卖平台合作升级数字化订餐和会员体系，反映连锁餐饮对外卖平台依赖加深",
+        "zh_summary": "美国披萨连锁品牌 Hungry Howie's 宣布与 DoorDash 合作，全面改革其数字化点餐和忠诚度计划。此举旨在通过外卖平台的流量和数字化能力提升线上订单转化。对于 FLIPOS 出海市场而言，需关注类似模式是否会在亚洲市场复制，尤其是 Foodpanda 等平台可能加速与连锁品牌的深度绑定。",
+        "category": "本地生活平台",
+        "importance_score": 4,
         "relevance_score": 3,
         "market_tags": "美国",
         "primary_market": "全球",
@@ -6039,9 +9189,9 @@
       "published_at": "2026-07-14T15:42:00",
       "fetched_at": "2026-07-15T01:00:23",
       "ai_output": {
-        "short_title": "Pizza Hut推怀旧主题会员奖励计划",
-        "one_line_signal": "国际快餐品牌持续加码会员忠诚度计划，强化移动端体验与情感营销",
-        "zh_summary": "Pizza Hut推出'Hut Originals'奖励计划，包含经典价值菜单、街头服饰系列和移动端体验。这反映餐饮品牌越发重视数字化会员运营与情感营销，但该新闻为美国市场品牌策略层面，未涉及支付、POS或东南亚市场技术整合，对FLIPOS出海Solution Pack无直接指导意义。",
+        "short_title": "必胜客推怀旧主题会员计划",
+        "one_line_signal": "大型连锁餐饮品牌通过情感营销和数字化体验强化会员忠诚度",
+        "zh_summary": "必胜客推出「Hut Originals」会员计划，融合怀旧元素、街头服饰周边和移动端体验。反映连锁餐饮品牌正通过情感共鸣和全渠道体验深化会员运营，对 FLIPOS CRM 触达和会员管理能力设计有参考价值。",
         "category": "竞品动态",
         "importance_score": 3,
         "relevance_score": 4,
