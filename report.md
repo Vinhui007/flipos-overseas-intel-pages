@@ -1,7 +1,7 @@
 # FLIPOS 出海行业情报日报
 
-- 生成时间：2026-07-14 16:37
-- 48 小时重点：1 个
+- 生成时间：2026-07-15 09:08
+- 48 小时重点：2 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,7 +9,7 @@
 
 ## 今日摘要
 
-- 今日重点：1 条
+- 今日重点：2 条
 - 高重要性：0 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
@@ -34,6 +34,26 @@
 **FLIPOS 判断**：Square正在加速支付与餐饮场景的整合，这验证了FLIPOS Solution Pack中支付+餐饮闭环策略的前瞻性。在海外市场，FLIPOS需要突出iPad POS与支付回调的无缝集成能力，以应对大厂垂直整合的竞争压力。
 
 **建议动作**：产品团队应关注Block的具体产品路径和商户拓展策略，同时在Solution Pack宣传中强化支付-餐饮-数据的闭环价值主张，避免在大厂发力时被功能同质化。
+
+### 2. Nopan获720万欧元构建A2A支付性能层
+
+- 来源：Finextra
+- 发布时间：2026-07-15
+- 分类：支付与合规
+- 重要性：6/10
+- 相关性：7/10
+- 市场标签：欧洲、东南亚、全球
+- 事件 Key：a2a-payment-performance-layer
+- 来源类型：新闻/RSS
+- 原文/页面：[https://www.finextra.com/newsarticle/48086/founded-by-netflix-payments-duo-dutch-startup-nopan-bags-72-million?utm_medium=rssfinextra&utm_source=finextrafeed](https://www.finextra.com/newsarticle/48086/founded-by-netflix-payments-duo-dutch-startup-nopan-bags-72-million?utm_medium=rssfinextra&utm_source=finextrafeed)
+
+**信号**：前Netflix支付团队成员创立支付性能中间件初创并获融资，反映账户间支付基础设施优化层正成为新投资热点
+
+**原文事实（需核对）**：Nopan由前Netflix支付团队成员创立，专注于账户间支付和钱包支付的性能层（performance layer）构建，获得720万欧元融资。
+
+**FLIPOS 判断**：判断：Nopan专注于支付性能优化层的模式，为支付SaaS平台提供了新的能力建设思路，东南亚市场的A2A支付（如PromptPay）快速增长时，支付成功率优化将成为客户选择POS系统的重要考量因素。
+
+**建议动作**：建议支付团队关注Nopan等支付性能中间件的技术路径，评估是否可借鉴其成功率优化能力来增强FLIPOS的支付回调稳定性；同时跟踪东南亚A2A支付场景下的性能痛点，作为产品差异化的潜在方向。
 
 ## 14 天趋势
 
