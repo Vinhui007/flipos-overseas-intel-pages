@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T01:06:55",
-  "count": 508,
+  "generated_at": "2026-07-19T01:00:46",
+  "count": 509,
   "articles": [
     {
       "id": 1,
@@ -12192,6 +12192,30 @@
         "action_level": "可观察",
         "recommended_action": "法务团队可建立海外主要市场（新加坡、泰国、日本）的雇主责任与职场骚扰法规库，供未来合规功能规划参考；产品团队暂无需针对此事件调整Solution Pack路线图。",
         "flipos_impact": "判断：此案为美国本土案例，对FLIPOS当前东南亚和港澳Solution Pack无直接影响，但随着海外餐饮客户规模扩大，建议关注目的地市场的雇主责任合规要求，可能成为未来CRM或运营合规功能的潜在需求。"
+      }
+    },
+    {
+      "id": 509,
+      "title": "Thailand News Roundup: Safety Concerns, Diplomatic Tensions, and Visa Policy Reversals",
+      "url": "https://www.thailand-business-news.com/news/320404-thailand-news-roundup-safety-concerns-diplomatic-tensions-and-visa-policy-reversals",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-07-18T10:43:12",
+      "fetched_at": "2026-07-19T01:00:17",
+      "ai_output": {
+        "short_title": "泰国暂缓收紧印度游客签证政策",
+        "one_line_signal": "泰国旅游业政策反复，反映入境游市场波动和营商环境不确定性",
+        "zh_summary": "泰国政府撤销了取消印度游客免签的计划，重新开放印度旅客入境。政策反复折射出泰国旅游业对入境需求的依赖，对餐饮、零售等本地服务业态的客流预期存在影响。",
+        "category": "出海市场动态",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队持续跟踪泰国政策稳定性，评估对本地餐饮商户活跃度可能产生的间接影响。",
+        "flipos_impact": "判断：泰国旅游政策波动属于宏观营商环境变化，当前未涉及餐饮SaaS、支付或POS技术需求，暂不影响Solution Pack落地节奏。"
       }
     }
   ]
