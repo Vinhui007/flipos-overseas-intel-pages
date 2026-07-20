@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T01:00:46",
-  "count": 509,
+  "generated_at": "2026-07-20T03:12:45",
+  "count": 510,
   "articles": [
     {
       "id": 1,
@@ -12216,6 +12216,30 @@
         "action_level": "可观察",
         "recommended_action": "建议市场团队持续跟踪泰国政策稳定性，评估对本地餐饮商户活跃度可能产生的间接影响。",
         "flipos_impact": "判断：泰国旅游政策波动属于宏观营商环境变化，当前未涉及餐饮SaaS、支付或POS技术需求，暂不影响Solution Pack落地节奏。"
+      }
+    },
+    {
+      "id": 510,
+      "title": "AI Could Touch 80 Million ASEAN Jobs, But the ILO Says Disruption Isn’t Here Yet",
+      "url": "https://www.thailand-business-news.com/corporate/319019-ai-could-touch-80-million-asean-jobs-but-the-ilo-says-disruption-isnt-here-yet",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-07-19T11:02:09",
+      "fetched_at": "2026-07-20T01:00:15",
+      "ai_output": {
+        "short_title": "ILO报告：AI将影响东南亚8000万就业",
+        "one_line_signal": "ILO研究显示生成式AI对东南亚就业有潜在冲击，但尚未构成实质性破坏，餐饮等劳动密集型行业风险值得关注",
+        "zh_summary": "ILO 2025年政策简报估算，东南亚地区约8000万工人（占就业总人口23%）的工作面临生成式AI显著冲击。不过报告同时指出，这种冲击尚未大规模发生。对餐饮SaaS行业而言，若AI替代效应加速，可能影响餐厅人力成本结构和数字化需求。",
+        "category": "AI与自动化",
+        "importance_score": 5,
+        "relevance_score": 2,
+        "market_tags": "东南亚、全球",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "市场团队可将该趋势纳入东南亚市场环境背景，持续关注ILO后续报告；产品团队可探索AI辅助餐厅运营功能（如智能排班、语音点单）作为差异化竞争力储备。",
+        "flipos_impact": "判断：此研究本身不直接影响FLIPOS现有SaaS、POS或支付能力，但如果AI替代餐饮基层人力加速，长期可能改变餐厅运营模式和数字化投入意愿。"
       }
     }
   ]
