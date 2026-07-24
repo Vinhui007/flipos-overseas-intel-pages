@@ -1,7 +1,7 @@
 # FLIPOS 出海行业情报团队报告
 
-- 生成时间：2026-07-23 09:05
-- 48 小时重点：3 个
+- 生成时间：2026-07-24 09:07
+- 48 小时重点：2 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,71 +9,51 @@
 
 ## 今日摘要
 
-- 今日重点：3 条
+- 今日重点：2 条
 - 高重要性：0 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
 
-### 1. Toast Kiosk 功能详解：自助点餐与忠诚度集成
+### 1. Qashier 全渠道 POS 方案在东南亚扩张
 
-- 来源：Competitor - Toast
-- 发布时间：抓取于 2026-07-22
+- 来源：Competitor - Qashier
+- 发布时间：抓取于 2026-07-24
 - 分类：竞品动态
 - 重要性：7/10
-- 相关性：8/10
-- 市场标签：美国、新加坡、泰国
-- 事件 Key：toast-kiosk-loyalty-integration
+- 相关性：9/10
+- 市场标签：新加坡、马来西亚、泰国、菲律宾
+- 事件 Key：qashier-omni-channel-pos-southeast-asia
 - 来源类型：竞品官网/产品页
-- 原文/页面：[https://support.toasttab.com/en/article/Kiosk-Mode-Overview-1493053499500](https://support.toasttab.com/en/article/Kiosk-Mode-Overview-1493053499500)
+- 原文/页面：[https://qashier.com/](https://qashier.com/)
 
-**摘要**：Toast 发布 Kiosk Mode 完整功能文档，支持将 POS 终端切换为自助点餐机。核心亮点是 Kiosk 与 Toast Loyalty 深度集成，客人可在 Kiosk 完成注册、积分累积和奖励兑换，并支持第三方忠诚度系统接入。对 FLIPOS 的 Kiosk Solution Pack 而言，竞品已验证"点单+会员"一体化路径，需评估是否将忠诚度功能纳入新加坡/泰国 Kiosk 标配能力。
+**摘要**：Qashier 官网展示其一体化 POS 方案，整合 POS、外卖平台（GrabFood/foodpanda）、在线商城、支付（PayNow/银行卡/e-wallet）、忠诚度计划和预订功能。支持新加坡、马来西亚、泰国、菲律宾市场，已服务 25,000+ 商户，处理超过 US$1B 交易。强调"每笔销售都成为你认识的客户"，定位全渠道数字化管理。
 
-**信号**：美国餐饮 SaaS 竞品 Toast 深化 Kiosk 自助点餐与忠诚度打通能力，Kiosk 已从单纯点单工具升级为完整的会员运营入口
+**信号**：Qashier 在新加坡/东南亚推出 POS+外卖聚合+忠诚度+预订一体化方案，直接对标 FLIPOS 出海 Solution Pack
 
-**FLIPOS 判断**：判断：Toast 已将 Kiosk 定位为会员获取入口而非单纯点单工具，这为 FLIPOS 新加坡/泰国 Kiosk Solution Pack 提供了产品能力参照，需评估是否在 Kiosk 中增加忠诚度注册/兑换入口以提升差异化竞争力。
+**FLIPOS 判断**：判断：Qashier 在东南亚的 GrabFood/foodpanda 订单聚合和 PayNow 支付能力直接对标 FLIPOS 新加坡 Solution Pack 的核心功能，需评估其定价策略和商户覆盖情况，以调整产品差异化策略。
 
-**建议动作**：建议产品团队对比 Toast Kiosk 忠诚度集成方案与 FLIPOS 现有 CRM 能力差距，明确新加坡/泰国 Kiosk Solution Pack 中是否纳入忠诚度模块作为差异化卖点。
+**建议动作**：建议产品团队深入研究 Qashier 的订单聚合逻辑和 MDR 定价，识别 FLIPOS Solution Pack 的差异化机会，如 API 开放性、多语言支持或更灵活的套餐组合。
 
-### 2. 蚂蚁国际融资12亿美元加码全球支付
+### 2. Qu推出嵌入式支付平台整合交易智能
 
-- 来源：Fintech News Singapore
-- 发布时间：2026-07-21
+- 来源：Restaurant Technology News
+- 发布时间：2026-07-23
 - 分类：支付与合规
 - 重要性：7/10
 - 相关性：6/10
-- 市场标签：新加坡、东南亚、全球
-- 事件 Key：ant-international-funding-expansion
+- 市场标签：美国、全球
+- 事件 Key：embedded-payment-intelligence-platform
 - 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.sg/134581/funding/ant-international-funding/](https://fintechnews.sg/134581/funding/ant-international-funding/)
+- 原文/页面：[https://restauranttechnologynews.com/2026/07/qu-introduces-embedded-payments-platform-that-turns-transactions-into-restaurant-intelligence/](https://restauranttechnologynews.com/2026/07/qu-introduces-embedded-payments-platform-that-turns-transactions-into-restaurant-intelligence/)
 
-**摘要**：蚂蚁国际完成12亿美元A轮融资，计划拓展Alipay+跨境支付、Antom商户收款、WorldFirst跨境账户和Bettr信贷等业务。覆盖超1.5亿商户和20亿用户账户，业务遍及亚欧美及中东。对FLIPOS而言，蚂蚁加码商户支付可能影响新加坡等地与Adyen等现有支付伙伴的竞争格局。
+**摘要**：Qu为企业级QSR品牌推出嵌入式支付平台Qu Pay，将支付处理、客人身份、订单智能、资本获取整合为统一层。文章指出传统支付65%交易无法关联客人身份，Qu Pay通过交易数据驱动资本服务和即时结算，直接影响餐饮SaaS支付模块的设计思路。
 
-**信号**：蚂蚁国际获大额融资强化Alipay+和Antom，全球支付网络竞争加剧
+**信号**：餐饮支付正从成本中心转型为数据智能和资本获取的核心入口
 
-**FLIPOS 判断**：判断：蚂蚁国际加码商户支付（Antom）可能增强与Adyen在新加坡及东南亚市场的竞争，FLIPOS需评估Alipay+在商户端的覆盖潜力，监测市场格局变化。
+**FLIPOS 判断**：判断：Qu Pay展示的"交易即数据"理念值得FLIPOS参考——将支付回调与CRM客人身份关联可能提升出海市场的数据变现能力；但Qu定位企业级大客户，与FLIPOS的SMB定位存在差异。
 
-**建议动作**：支付团队应关注Alipay+在东南亚商户渗透进展，评估是否需与蚂蚁支付网络建立合作或调整竞争策略。原文未说明
-
-### 3. AWS WAF 动态标签插值功能更新
-
-- 来源：AWS Security Blog
-- 发布时间：未知
-- 分类：云部署
-- 重要性：4/10
-- 相关性：6/10
-- 市场标签：新加坡、日本、泰国、全球
-- 事件 Key：aws-waf-label-interpolation
-- 来源类型：网页新闻
-- 原文/页面：[https://aws.amazon.com/blogs/security/do-more-with-aws-waf-labels-using-dynamic-label-interpolation/](https://aws.amazon.com/blogs/security/do-more-with-aws-waf-labels-using-dynamic-label-interpolation/)
-
-**摘要**：AWS 发布 WAF 动态标签插值功能，增强 Web 应用防火墙的标签灵活性。这对使用 AWS 部署的餐饮 SaaS 提供商有意义，可简化安全规则管理，但属于 AWS 产品能力演进而非监管合规要求变化。
-
-**信号**：AWS 强化 WAF 标签管理能力，简化应用层安全规则配置
-
-**FLIPOS 判断**：判断：FLIPOS 在新加坡、日本、泰国均使用 AWS 作为云基础设施，AWS WAF 能力增强可作为可选的安全配置选项，但非紧急需求。短期内不影响 Solution Pack 交付。
-
-**建议动作**：建议基建团队关注 AWS WAF 新功能文档，评估是否可利用动态标签简化现有安全规则，提升配置效率。无需立即行动，可在下季度安全review时纳入评估。
+**建议动作**：产品团队可观察Qu Pay的客人身份识别方案是否适用于港澳/东南亚市场；支付团队评估FLIPOS现有支付回调能否扩展支持即时结算和基于交易历史的资本服务字段。
 
 ## 14 天趋势
 
@@ -119,27 +99,7 @@
 
 **建议动作**：产品团队需对比Qashier Bookings功能与FLIPOS港澳Booking方案差异，重点评估Kiosk自助点单和GrabFood/foodpanda聚合订单显示的优先级；支付团队可研究QashierPay的PayNow/Dynamic QR定价策略作为Adyen方案参考。
 
-### 3. PayNow Gen2 QR互联升级
-
-- 来源：Fintech News Singapore
-- 发布时间：2026-07-09
-- 分类：支付与合规
-- 重要性：8/10
-- 相关性：8/10
-- 市场标签：新加坡
-- 事件 Key：paynow-gen2-qr-interoperability
-- 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.sg/133698/payments/paynow-gen-2-singapore-qr-interoperability/](https://fintechnews.sg/133698/payments/paynow-gen-2-singapore-qr-interoperability/)
-
-**摘要**：MAS与ABS推进PayNow Gen2第二阶段研究，计划年底前实现PayNow与NETS QR互操作性，覆盖90%成年人口、处理S$3010亿年交易额的PayNow正深化企业级场景，解决商户支付摩擦和跨场景对账需求。
-
-**信号**：新加坡推动PayNow与NETS QR年底前互通，实现一扫通用支付
-
-**FLIPOS 判断**：新加坡商户的支付基础设施升级可能需要调整POS系统的QR码处理逻辑，支持PayNow和NETS的混合支付场景，影响支付回调和商户对账流程。
-
-**建议动作**：评估PayNow Gen2 QR互通的实施时间表，了解NETS QR互操作的具体技术要求，提前与Adyen等支付合作伙伴沟通集成可能性。
-
-### 4. 餐饮AI个性化发券实现百万级月推送
+### 3. 餐饮AI个性化发券实现百万级月推送
 
 - 来源：Fast Casual
 - 发布时间：2026-07-15
@@ -158,7 +118,7 @@
 
 **建议动作**：产品团队需评估在港澳及东南亚Solution Pack中嵌入AI个性化营销能力的优先级，重点对接Hang类合作伙伴或自建规则引擎。
 
-### 5. Square整合Cash App推本地餐饮
+### 4. Square整合Cash App推本地餐饮
 
 - 来源：Payments Dive
 - 发布时间：2026-07-13
@@ -178,7 +138,7 @@
 
 **建议动作**：产品团队应关注Block的具体产品路径和商户拓展策略，同时在Solution Pack宣传中强化支付-餐饮-数据的闭环价值主张，避免在大厂发力时被功能同质化。
 
-### 6. AI餐饮客服平台Hostie获投1200万美元
+### 5. AI餐饮客服平台Hostie获投1200万美元
 
 - 来源：Restaurant Technology News
 - 发布时间：2026-07-11
@@ -198,7 +158,7 @@
 
 **建议动作**：产品团队应评估是否将AI自动回复能力纳入CRM Roadmap，同时关注港澳/新加坡市场是否有类似本地化方案出现。
 
-### 7. 亚太金融欺诈与eKYC合规新趋势
+### 6. 亚太金融欺诈与eKYC合规新趋势
 
 - 来源：Fintech News Malaysia、Fintech News Singapore
 - 发布时间：2026-07-16
@@ -218,7 +178,7 @@
 
 **建议动作**：建议支付团队与Adyen等支付合作方确认其eKYC和欺诈检测方案在新加坡及东南亚的合规适配情况，评估是否需要在Solution Pack中内置额外的身份验证层或风险提示机制。
 
-### 8. Stripe/Advent据报534亿收购PayPal
+### 7. Stripe/Advent据报534亿收购PayPal
 
 - 来源：TechCrunch Fintech
 - 发布时间：2026-07-15
@@ -237,27 +197,7 @@
 
 **建议动作**：支付团队应持续跟踪该收购进展，评估若交易完成对Adyen等现有合作支付商的影响，并在供应商合同中预留调整空间。原文未说明交易谈判进展或对支付行业的具体影响时间线。
 
-### 9. Taco Bell语音AI扩展至900店
-
-- 来源：Restaurant Technology News
-- 发布时间：2026-07-09
-- 分类：AI与自动化
-- 重要性：8/10
-- 相关性：6/10
-- 市场标签：美国、全球
-- 事件 Key：drive-thru-voice-ai-scale
-- 来源类型：新闻/RSS
-- 原文/页面：[https://restauranttechnologynews.com/2026/07/taco-bell-expands-drive-thru-voice-ai-to-nearly-900-restaurants-across-the-u-s-as-automation-gains-momentum/](https://restauranttechnologynews.com/2026/07/taco-bell-expands-drive-thru-voice-ai-to-nearly-900-restaurants-across-the-u-s-as-automation-gains-momentum/)
-
-**摘要**：Taco Bell将其Drive-Thru语音AI扩展至美国近900家餐厅，与Omilia合作覆盖38个州，成为快餐行业最大规模的自动化点餐部署之一。该技术不仅提升点餐准确性和速度，还改善了员工留存率。Yum Brands通过Byte by Yum平台整合语音AI与POS、厨房系统，标志着语音AI正从单点工具演变为餐厅整体数字化基础设施的一部分。
-
-**信号**：连锁快餐品牌大规模落地Drive-Thru语音AI，标志着餐饮自动化从试点进入规模化运营阶段
-
-**FLIPOS 判断**：Drive-Thru语音AI规模化部署趋势加速，FLIPOS在东南亚/日本的餐饮客户可能开始询问类似能力。目前Solution Pack暂无此功能，需评估是否作为差异化能力纳入规划。
-
-**建议动作**：产品团队应跟踪SoundHound AI、Presto等语音AI厂商的餐饮合作动态，评估是否与合作伙伴（如LINE）联合推出Drive-Thru语音点单能力，作为日本/新加坡市场的差异化卖点。
-
-### 10. TrueMoney泰国首推tap-to-pay数字支付
+### 8. TrueMoney泰国首推tap-to-pay数字支付
 
 - 来源：Bangkok Post Business
 - 发布时间：2026-07-18
@@ -276,6 +216,45 @@
 **FLIPOS 判断**：判断：TrueMoney tap-to-pay若成为泰国餐饮商户主流支付方式，FLIPOS泰国商户需评估是否接入；但目前泰国Solution Pack尚未包含TrueMoney，影响待观察。
 
 **建议动作**：建议支付团队关注TrueMoney在泰国的推广进度，评估其与Beam、PromptPay的竞争格局，暂不作为紧急集成任务。
+
+### 9. 蚂蚁国际融资12亿美元加码全球支付
+
+- 来源：Fintech News Singapore
+- 发布时间：2026-07-21
+- 分类：支付与合规
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：新加坡、东南亚、全球
+- 事件 Key：ant-international-funding-expansion
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.sg/134581/funding/ant-international-funding/](https://fintechnews.sg/134581/funding/ant-international-funding/)
+
+**摘要**：蚂蚁国际完成12亿美元A轮融资，计划拓展Alipay+跨境支付、Antom商户收款、WorldFirst跨境账户和Bettr信贷等业务。覆盖超1.5亿商户和20亿用户账户，业务遍及亚欧美及中东。对FLIPOS而言，蚂蚁加码商户支付可能影响新加坡等地与Adyen等现有支付伙伴的竞争格局。
+
+**信号**：蚂蚁国际获大额融资强化Alipay+和Antom，全球支付网络竞争加剧
+
+**FLIPOS 判断**：判断：蚂蚁国际加码商户支付（Antom）可能增强与Adyen在新加坡及东南亚市场的竞争，FLIPOS需评估Alipay+在商户端的覆盖潜力，监测市场格局变化。
+
+**建议动作**：支付团队应关注Alipay+在东南亚商户渗透进展，评估是否需与蚂蚁支付网络建立合作或调整竞争策略。原文未说明
+
+### 10. 支付行业并购升温 Stripe或收购PayPal
+
+- 来源：Payments Dive
+- 发布时间：2026-07-20
+- 分类：支付与合规
+- 重要性：7/10
+- 相关性：6/10
+- 事件 Key：stripe-paypal-ma-rumors
+- 来源类型：新闻/RSS
+- 原文/页面：[https://www.paymentsdive.com/news/payments-ma-spools-up/825653/](https://www.paymentsdive.com/news/payments-ma-spools-up/825653/)
+
+**摘要**：支付行业并购活动在2026年下半年加速，Stripe潜在收购PayPal成为焦点事件。这反映支付巨头寻求规模扩张和生态整合的趋势，对FLIPOS选择支付合作伙伴和评估生态依赖风险具有重要参考价值。
+
+**信号**：支付行业头部玩家通过并购扩大市场份额，整合趋势加速
+
+**FLIPOS 判断**：判断：如果Stripe收购PayPal成真，支付生态格局将大幅变动，FLIPOS在海外市场依赖的支付合作伙伴可能面临战略调整，需提前评估Adyen、Stripe、PayPal等主要支付通道的稳定性。
+
+**建议动作**：建议支付团队持续跟踪Stripe与PayPal的并购进展，评估若交易完成后对现有支付合作伙伴生态的潜在影响，并准备备选支付通道方案。
 
 ## 补充观察
 
@@ -360,21 +339,22 @@
 
 **建议动作**：支付团队应加速与印度UPI及本地银行通道的接入测试，产品团队可针对印度餐饮中小商户设计轻量化SoftPOS功能模块，市场团队可优先布局德里、孟买等一线城市示范案例。
 
-### 5. Checkout Conversion-optimised prebuilt payment form
+### 5. PayNow Gen2 QR互联升级
 
-- 来源：Airwallex Blog
-- 发布时间：未知
+- 来源：Fintech News Singapore
+- 发布时间：2026-07-09
 - 分类：支付与合规
 - 重要性：8/10
 - 相关性：8/10
-- 事件 Key：checkout-conversion-optimised-prebuilt-payment-form
-- 来源类型：网页新闻
-- 原文/页面：[https://www.airwallex.com/payments/checkout](https://www.airwallex.com/payments/checkout)
+- 市场标签：新加坡
+- 事件 Key：paynow-gen2-qr-interoperability
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.sg/133698/payments/paynow-gen-2-singapore-qr-interoperability/](https://fintechnews.sg/133698/payments/paynow-gen-2-singapore-qr-interoperability/)
 
-**摘要**：【Mock】Checkout Conversion-optimised prebuilt payment form。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
+**摘要**：MAS与ABS推进PayNow Gen2第二阶段研究，计划年底前实现PayNow与NETS QR互操作性，覆盖90%成年人口、处理S$3010亿年交易额的PayNow正深化企业级场景，解决商户支付摩擦和跨场景对账需求。
 
-**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
+**信号**：新加坡推动PayNow与NETS QR年底前互通，实现一扫通用支付
 
-**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
+**FLIPOS 判断**：新加坡商户的支付基础设施升级可能需要调整POS系统的QR码处理逻辑，支持PayNow和NETS的混合支付场景，影响支付回调和商户对账流程。
 
-**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
+**建议动作**：评估PayNow Gen2 QR互通的实施时间表，了解NETS QR互操作的具体技术要求，提前与Adyen等支付合作伙伴沟通集成可能性。
