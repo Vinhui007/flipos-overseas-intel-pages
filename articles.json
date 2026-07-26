@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T01:07:35",
-  "count": 614,
+  "generated_at": "2026-07-26T01:01:16",
+  "count": 616,
   "articles": [
     {
       "id": 1,
@@ -14736,6 +14736,54 @@
         "action_level": "可观察",
         "recommended_action": "建议市场团队关注大会后续报道，追踪是否有涉及餐饮SaaS、POS或支付相关的新趋势分享，无需投入资源参会或跟进。",
         "flipos_impact": "判断：该大会为行业会议而非产品或监管动态，短期内对FLIPOS海外业务无直接影响，但可作为观察全球支付与AI融合趋势的参考窗口。"
+      }
+    },
+    {
+      "id": 615,
+      "title": "Billionaire founder of Chinese broker Futu faces his toughest test",
+      "url": "https://www.businesstimes.com.sg/companies-markets/billionaire-founder-chinese-broker-futu-faces-his-toughest-test",
+      "source": "Business Times Banking Finance",
+      "region": "Singapore",
+      "domain": "local_business",
+      "published_at": "2026-07-25T02:19:46",
+      "fetched_at": "2026-07-26T01:00:24",
+      "ai_output": {
+        "short_title": "富途遭证券欺诈诉讼",
+        "one_line_signal": "香港上市券商富途因证券欺诈诉讼面临监管压力，与餐饮支付合规无直接关联",
+        "zh_summary": "中国券商富途因证券欺诈集体诉讼面临法律挑战，CFO Chen Yu被点名。该事件主要影响证券交易行业，与餐饮SaaS、POS、支付出海无直接业务关联。",
+        "category": "风险预警",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "香港、新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "无需采取行动，但建议持续关注香港金融监管环境变化，评估对海外华人餐饮商户信心可能产生的间接影响。",
+        "flipos_impact": "判断：富途为证券交易平台，非餐饮支付或POS提供商，该诉讼对FLIPOS的港澳MPay、新加坡Adyen、泰国PromptPay等支付集成无直接影响。"
+      }
+    },
+    {
+      "id": 616,
+      "title": "ASEAN Considers Standards to Strengthen Myanmar Peace Initiative",
+      "url": "https://www.thailand-business-news.com/asean/320855-asean-considers-standards-to-strengthen-myanmar-peace-initiative",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-07-25T15:55:31",
+      "fetched_at": "2026-07-26T01:00:27",
+      "ai_output": {
+        "short_title": "东盟商讨缅甸和平倡议基准",
+        "one_line_signal": "东盟外交层面讨论缅甸局势，对餐饮 SaaS 出海暂无直接业务影响",
+        "zh_summary": "东盟外长在马尼拉会议上同意为缅甸和平进程制定基准，并考虑设立长期特使。该外交进展短期内对餐饮数字化市场影响有限，但若缅甸局势改善，长期可能释放新市场机会。",
+        "category": "出海市场动态",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "东南亚、缅甸、全球",
+        "primary_market": "全球",
+        "affected_capability": "合规",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队将该信息归档为地缘政治背景资料，无需采取即时行动，但可关注 11 月东盟峰会是否产生新的市场信号。",
+        "flipos_impact": "判断：该新闻属于东南亚外交动态，与 FLIPOS 当前 Solution Pack 的港澳、新加坡、日本、泰国市场无直接关联，缅甸目前也不是 FLIPOS 的目标市场。"
       }
     }
   ]
