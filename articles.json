@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T08:33:07",
-  "count": 616,
+  "generated_at": "2026-07-27T01:01:42",
+  "count": 619,
   "articles": [
     {
       "id": 1,
@@ -14784,6 +14784,78 @@
         "action_level": "可观察",
         "recommended_action": "建议市场团队将该信息归档为地缘政治背景资料，无需采取即时行动，但可关注 11 月东盟峰会是否产生新的市场信号。",
         "flipos_impact": "判断：该新闻属于东南亚外交动态，与 FLIPOS 当前 Solution Pack 的港澳、新加坡、日本、泰国市场无直接关联，缅甸目前也不是 FLIPOS 的目标市场。"
+      }
+    },
+    {
+      "id": 617,
+      "title": "Thai exports to the US skyrocket despite tariffs",
+      "url": "https://www.bangkokpost.com/business/general/3292244/thai-exports-to-the-us-skyrocket-despite-tariffs",
+      "source": "Bangkok Post Business",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-07-27T06:15:00",
+      "fetched_at": "2026-07-27T01:00:23",
+      "ai_output": {
+        "short_title": "泰国对美出口逆势增长34%",
+        "one_line_signal": "泰国贸易数据显示美国关税政策对出口影响有限，反而反映供应链重构机遇",
+        "zh_summary": "尽管面临美国关税压力，泰国前9个月对美出口仍同比增长34%至2.13万亿泰铢。这一贸易数据对餐饮出海市场具有参考意义：东南亚供应链在贸易摩擦中展现出韧性，可能影响当地餐饮原材料成本和消费结构。",
+        "category": "出海市场动态",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "泰国、美国",
+        "primary_market": "泰国",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队在规划泰国业务时，将该贸易数据作为当地经济韧性指标存档，用于中长期市场策略制定参考。",
+        "flipos_impact": "判断：此贸易数据属于宏观经济层面，暂不直接作用于FLIPOS泰国餐饮SaaS产品，但可作为评估泰国消费市场韧性的背景参考。"
+      }
+    },
+    {
+      "id": 618,
+      "title": "The robot army  is coming",
+      "url": "https://www.bangkokpost.com/business/general/3292314/the-robot-army-is-coming",
+      "source": "Bangkok Post Business",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-07-27T06:11:00",
+      "fetched_at": "2026-07-27T01:00:23",
+      "ai_output": {
+        "short_title": "泰国押注人形机器人产业",
+        "one_line_signal": "泰国借汽车电子产业链基础进军人形机器人，餐饮零售自动化设备竞争加剧",
+        "zh_summary": "泰国正利用其汽车和电子制造基础设施，将自身定位为东南亚人形机器人产业中心。对 FLIPOS 而言，这预示着东南亚餐饮零售自动化设备供应商可能崛起，Kiosk 等自助点单设备面临竞争压力，但也存在与本地机器人厂商合作的可能性。",
+        "category": "AI与自动化",
+        "importance_score": 6,
+        "relevance_score": 5,
+        "market_tags": "泰国、东南亚",
+        "primary_market": "泰国",
+        "affected_capability": "Kiosk",
+        "action_level": "可观察",
+        "recommended_action": "产品团队可跟踪泰国主要 Kiosk 和服务机器人厂商动态，评估在泰国市场的差异化竞争策略。",
+        "flipos_impact": "判断：泰国人形机器人产业若成形，可能带动本地 Kiosk 和服务机器人厂商崛起，为 FLIPOS 东南亚 Kiosk 方案带来本地化竞争压力，同时也存在软硬件整合的合作机会。"
+      }
+    },
+    {
+      "id": 619,
+      "title": "Thailand Investment Update: Major Infrastructure Project Scrapped",
+      "url": "https://www.thailand-business-news.com/news/321470-thailand-investment-update-major-infrastructure-project-scrapped",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-07-26T19:50:00",
+      "fetched_at": "2026-07-27T01:00:27",
+      "ai_output": {
+        "short_title": "泰国大型基础设施项目被取消",
+        "one_line_signal": "泰国取消重大基础设施项目，反映该国在经济决策和外交平衡中面临挑战",
+        "zh_summary": "泰国取消了某大型基础设施项目，文章同时涉及外交紧张、经济调整和公共安全等问题。此类政策变化可能间接影响零售和餐饮业投资者的信心，但对餐饮SaaS和支付领域无直接业务影响。",
+        "category": "出海市场动态",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队持续关注泰国政策稳定性，评估其对餐饮出海客户的间接影响，暂无需针对此新闻采取即时行动。",
+        "flipos_impact": "判断：该新闻仅涉及泰国基础设施政策层面的变化，未涉及餐饮数字化、支付系统或外卖平台，不直接影响FLIPOS在泰国的Solution Pack落地，但投资者信心变化可能间接影响餐饮客户的业务扩张决策。"
       }
     }
   ]
