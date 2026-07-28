@@ -1,7 +1,7 @@
 # FLIPOS 出海行业情报团队报告
 
-- 生成时间：2026-07-27 09:01
-- 48 小时重点：0 个
+- 生成时间：2026-07-28 09:07
+- 48 小时重点：3 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,13 +9,71 @@
 
 ## 今日摘要
 
-- 今日重点：0 条
+- 今日重点：3 条
 - 高重要性：0 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
 
-暂无 48 小时重点情报。
+### 1. Qashier推预订功能加码多渠道POS
+
+- 来源：Competitor - Qashier
+- 发布时间：抓取于 2026-07-28
+- 分类：竞品动态
+- 重要性：7/10
+- 相关性：9/10
+- 市场标签：新加坡、马来西亚、泰国、菲律宾
+- 事件 Key：qashier-booking-pos-expansion
+- 来源类型：竞品官网/产品页
+- 原文/页面：[https://qashier.com/](https://qashier.com/)
+
+**摘要**：Qashier发布New Bookings功能，将预订融入已有POS+忠诚度生态，实现"预订→到店支付→自动奖励"闭环。同期强化GrabFood/foodpanda双平台聚合、PayNow支付及多门店管理，支持MAS牌照合规。累计25K+商户、处理$1B+交易，东南亚POS竞争加剧。
+
+**信号**：新加坡头部POS竞品Qashier上线24/7预订模块，完善"全渠道+忠诚度+预订"餐饮闭环，直面FLIPOS新加坡市场
+
+**FLIPOS 判断**：判断：Qashier在新加坡的"多渠道+忠诚度+预订"一体化打法与FLIPOS Solution Pack核心能力高度重叠，其25K+商户基础和MAS牌照背书可能对FLIPOS新加坡获客形成竞争压力，需评估差异化定价或功能深度的必要性。
+
+**建议动作**：建议产品团队对标Qashier的预订→忠诚度闭环路径，确认FLIPOS新加坡Solution Pack中Wallet Card/CRM的自动化触达能力是否具备同等竞争力；同时支付团队可参考Qashier的本地MDR定价结构优化Adyen方案。
+
+### 2. KPay 获新加坡 MPI 牌照原则性批准
+
+- 来源：Fintech News Hong Kong
+- 发布时间：2026-07-27
+- 分类：支付与合规
+- 重要性：7/10
+- 相关性：8/10
+- 市场标签：新加坡、日本、香港、澳大利亚、全球
+- 事件 Key：kpay-mas-mpi-license-approval
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.hk/39839/payments/kpay-mas-major-payments-institution-licence/](https://fintechnews.hk/39839/payments/kpay-mas-major-payments-institution-licence/)
+
+**摘要**：KPay 获得新加坡 MAS 的 MPI 牌照原则性批准，将扩大支付服务范围。KPay 在新加坡已服务超 10,000 家中小企餐饮零售商户，以新加坡为亚太扩张模板。其 POS + 支付 + AI 分析的整合模式与 FLIPOS 在日本市场存在直接竞争关系，需评估其技术能力与合作空间。
+
+**信号**：持牌支付机构 KPay 整合 POS 与支付服务，加速餐饮零售中小企业市场扩张
+
+**FLIPOS 判断**：判断：KPay 获得新加坡 MPI 牌照后可能加速亚太区扩张，其 POS + 支付整合服务模式与 FLIPOS 在日本市场的 KPay 合作伙伴关系存在潜在竞争或合作空间，需评估 KPay 的技术能力和市场定价策略。
+
+**建议动作**：产品与支付团队应评估 KPay 在新加坡的合规进展对日本市场合作的影响，识别其 POS 能力是否构成直接竞争，并考虑是否需要在东南亚市场建立备选支付合作伙伴关系。
+
+### 3. Chowbus完成8100万美元E轮融资，发布AI餐饮套件
+
+- 来源：Competitor - Chowbus
+- 发布时间：抓取于 2026-07-28
+- 分类：竞品动态
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：美国
+- 事件 Key：chowbus-series-e-ai-pos
+- 来源类型：竞品官网/产品页
+- 原文/页面：[https://www.chowbus.com/](https://www.chowbus.com/)
+
+**摘要**：Chowbus完成8100万美元E轮融资（总融资2.09亿美元），发布AI POS套件及自助点餐Kiosk新品，主打亚餐、奶茶、火锅等垂直品类。免费硬件+Kiosk五折促销策略激进抢夺新客户，AI套件涵盖广告优化、社媒、评论洞察等功能。目前仅服务美国市场，但明确表示开放合作。
+
+**信号**：专注美国亚餐市场的全栈餐饮SaaS平台Chowbus获得大额融资并推出AI POS，标志该细分赛道竞争加剧且估值看涨
+
+**FLIPOS 判断**：判断：Chowbus虽主攻美国市场，但其免费硬件+订阅费模式若向亚太扩张，将对FLIPOS的新加坡、日本Kiosk方案构成直接价格竞争；其AI功能集成度也值得FLIPOS产品团队对标评估。
+
+**建议动作**：产品团队应持续监控Chowbus的AI功能迭代和定价策略；若其启动亚太市场进入，支付和产品需提前准备差异化方案（如垂直品类深度、区域支付集成）。
 
 ## 14 天趋势
 
@@ -40,27 +98,7 @@
 
 **建议动作**：产品团队需评估在港澳及东南亚Solution Pack中嵌入AI个性化营销能力的优先级，重点对接Hang类合作伙伴或自建规则引擎。
 
-### 2. Square整合Cash App推本地餐饮
-
-- 来源：Payments Dive
-- 发布时间：2026-07-13
-- 分类：竞品动态
-- 重要性：7/10
-- 相关性：8/10
-- 市场标签：美国、全球
-- 事件 Key：block-cashapp-food-integration
-- 来源类型：新闻/RSS
-- 原文/页面：[https://www.paymentsdive.com/news/why-cash-app-wants-food-orders-square-merchants-dining/825040/](https://www.paymentsdive.com/news/why-cash-app-wants-food-orders-square-merchants-dining/825040/)
-
-**摘要**：Block（Square母公司）宣布将Cash App与Square商户网络打通，聚焦本地餐饮消费场景。此举旨在通过支付+餐饮的垂直整合提升用户粘性和支付交易量。这一策略与微信支付在中国本地生活的打法高度相似，表明全球支付巨头正在加速向本地生活场景渗透。
-
-**信号**：Block以支付入口整合餐饮场景，打造类似微信支付的本地生活闭环
-
-**FLIPOS 判断**：Square正在加速支付与餐饮场景的整合，这验证了FLIPOS Solution Pack中支付+餐饮闭环策略的前瞻性。在海外市场，FLIPOS需要突出iPad POS与支付回调的无缝集成能力，以应对大厂垂直整合的竞争压力。
-
-**建议动作**：产品团队应关注Block的具体产品路径和商户拓展策略，同时在Solution Pack宣传中强化支付-餐饮-数据的闭环价值主张，避免在大厂发力时被功能同质化。
-
-### 3. 亚太金融欺诈与eKYC合规新趋势
+### 2. 亚太金融欺诈与eKYC合规新趋势
 
 - 来源：Fintech News Malaysia、Fintech News Singapore
 - 发布时间：2026-07-16
@@ -80,7 +118,7 @@
 
 **建议动作**：建议支付团队与Adyen等支付合作方确认其eKYC和欺诈检测方案在新加坡及东南亚的合规适配情况，评估是否需要在Solution Pack中内置额外的身份验证层或风险提示机制。
 
-### 4. Stripe/Advent据报534亿收购PayPal
+### 3. Stripe/Advent据报534亿收购PayPal
 
 - 来源：TechCrunch Fintech
 - 发布时间：2026-07-15
@@ -99,7 +137,7 @@
 
 **建议动作**：支付团队应持续跟踪该收购进展，评估若交易完成对Adyen等现有合作支付商的影响，并在供应商合同中预留调整空间。原文未说明交易谈判进展或对支付行业的具体影响时间线。
 
-### 5. TrueMoney泰国首推tap-to-pay数字支付
+### 4. TrueMoney泰国首推tap-to-pay数字支付
 
 - 来源：Bangkok Post Business
 - 发布时间：2026-07-18
@@ -119,7 +157,7 @@
 
 **建议动作**：建议支付团队关注TrueMoney在泰国的推广进度，评估其与Beam、PromptPay的竞争格局，暂不作为紧急集成任务。
 
-### 6. Qu推出嵌入式支付平台整合交易智能
+### 5. Qu推出嵌入式支付平台整合交易智能
 
 - 来源：Restaurant Technology News
 - 发布时间：2026-07-23
@@ -139,7 +177,7 @@
 
 **建议动作**：产品团队可观察Qu Pay的客人身份识别方案是否适用于港澳/东南亚市场；支付团队评估FLIPOS现有支付回调能否扩展支持即时结算和基于交易历史的资本服务字段。
 
-### 7. 蚂蚁国际融资12亿美元加码全球支付
+### 6. 蚂蚁国际融资12亿美元加码全球支付
 
 - 来源：Fintech News Singapore
 - 发布时间：2026-07-21
@@ -159,7 +197,7 @@
 
 **建议动作**：支付团队应关注Alipay+在东南亚商户渗透进展，评估是否需与蚂蚁支付网络建立合作或调整竞争策略。原文未说明
 
-### 8. 支付行业并购升温 Stripe或收购PayPal
+### 7. 支付行业并购升温 Stripe或收购PayPal
 
 - 来源：Payments Dive
 - 发布时间：2026-07-20
@@ -178,7 +216,7 @@
 
 **建议动作**：建议支付团队持续跟踪Stripe与PayPal的并购进展，评估若交易完成后对现有支付合作伙伴生态的潜在影响，并准备备选支付通道方案。
 
-### 9. Mastercard推移动钱包SDK降低支付接入门槛
+### 8. Mastercard推移动钱包SDK降低支付接入门槛
 
 - 来源：Finextra
 - 发布时间：2026-07-17
@@ -197,7 +235,7 @@
 
 **建议动作**：产品团队可将该SDK列入支付网关备选池，但在东南亚、日本等市场应优先确保本地化支付方案（如PromptPay、 LINE Pay）的稳定性，待有明确集成需求时再评估优先级。
 
-### 10. Stripe传竞购PayPal股份引行业整合
+### 9. Stripe传竞购PayPal股份引行业整合
 
 - 来源：Payments Dive
 - 发布时间：2026-07-15
@@ -215,6 +253,26 @@
 **FLIPOS 判断**：判断：若Stripe与PayPal完成整合，现有支付处理格局将改变，FLIPOS在海外市场的支付回调集成可能需要重新评估兼容性；但目前仅为报道阶段，暂无实际影响。
 
 **建议动作**：建议支付团队建立对Stripe和PayPal战略动态的监测机制，评估其对现有支付集成稳定性的潜在影响，同时准备备用支付方案以应对市场变化。
+
+### 10. 越南VietQR Global跨境QR支付支持中日韩
+
+- 来源：Fintech News Singapore
+- 发布时间：2026-07-15
+- 分类：支付与合规
+- 重要性：5/10
+- 相关性：6/10
+- 市场标签：越南、新加坡、日本、泰国、全球
+- 事件 Key：vietnam-vietqr-crossborder-qr-expansion
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.sg/134394/vietnam/ncb-vietqr-cross-border-payments-vietnam/](https://fintechnews.sg/134394/vietnam/ncb-vietqr-cross-border-payments-vietnam/)
+
+**摘要**：NCB在越南推出VietQR Global跨境QR支付服务，目前支持中国支付宝、银联及韩国钱包，计划扩展至新加坡、日本、印度等市场。旅游场景已落地Sun World景区及高端酒店集团。虽目前不直接涉及港澳日泰市场，但对FLIPOS东南亚支付策略有信号意义：跨境QR互认正在加速。
+
+**信号**：越南银行推出跨境QR支付聚合服务，已支持中韩钱包，计划扩展至新加坡日本，可能影响东南亚支付集成需求
+
+**FLIPOS 判断**：判断：越南作为东南亚旅游热点市场，其跨境QR支付互认加速，可能影响在当地运营的餐饮商户的支付集成需求；VietQR若后续支持新加坡钱包，与FLIPOS现有新加坡Adyen/GrabFood方案存在潜在整合机会。
+
+**建议动作**：建议产品团队关注VietQR Global的新加坡/日本支持时间表，评估其与FLIPOS新加坡支付方案（Adyen）的互补性或竞争关系；同时，若FLIPOS有越南市场拓展计划，需提前规划对VietQR的支持。
 
 ## 补充观察
 
