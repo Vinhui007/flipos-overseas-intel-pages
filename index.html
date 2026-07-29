@@ -6,16 +6,17 @@
   <title>FLIPOS INT Daily Report</title>
   <style>
     :root {
-      color-scheme: light;
-      --bg: #f6f7f9;
-      --panel: #ffffff;
-      --text: #1f2933;
-      --muted: #697386;
-      --border: #d9dee7;
-      --blue: #1d4ed8;
-      --green: #047857;
-      --amber: #b45309;
-      --red: #b91c1c;
+      color-scheme: dark;
+      --bg: #07080b;
+      --panel: #101217;
+      --panel-strong: #151820;
+      --text: #f3f5f8;
+      --muted: #9ca3af;
+      --border: #292d36;
+      --blue: #6f83ff;
+      --green: #50c995;
+      --amber: #f2b84b;
+      --red: #ff6b71;
     }
     * { box-sizing: border-box; }
     body {
@@ -26,18 +27,28 @@
       line-height: 1.55;
     }
     header {
-      background: var(--panel);
+      background: rgba(8, 9, 12, .94);
       border-bottom: 1px solid var(--border);
-      padding: 28px 32px 22px;
+      padding: 18px 32px 20px;
       position: sticky;
       top: 0;
       z-index: 2;
+      backdrop-filter: blur(18px);
     }
-    main { max-width: 1160px; margin: 0 auto; padding: 24px 24px 48px; }
-    h1 { margin: 0 0 14px; font-size: 28px; }
+    main { max-width: 1220px; margin: 0 auto; padding: 28px 24px 56px; }
+    h1 { margin: 0; font-size: 25px; }
     h2 { margin: 3px 0 0; font-size: 20px; line-height: 1.35; }
+    .topbar { display: flex; align-items: center; justify-content: space-between; gap: 22px; }
+    .brand { display: flex; align-items: center; gap: 12px; min-width: 0; }
+    .brand-mark { width: 38px; height: 38px; display: grid; place-items: center; border-radius: 9px; background: #5065e8; color: #fff; font-weight: 800; font-size: 20px; }
+    .brand-copy { min-width: 0; }
+    .brand-caption { display: block; color: var(--muted); font-size: 10px; font-weight: 700; letter-spacing: .12em; margin-top: 1px; }
+    .topnav { display: flex; align-items: center; gap: 6px; }
+    .topnav a { color: #c5cad3; border: 1px solid transparent; border-radius: 999px; padding: 7px 11px; font-size: 13px; }
+    .topnav a:hover, .topnav a.active { color: #fff; border-color: #3b404b; background: #151820; }
     .summary { display: flex; flex-wrap: wrap; gap: 10px; color: var(--muted); }
-    .pill { border: 1px solid var(--border); border-radius: 999px; padding: 5px 10px; background: #fafbfc; }
+    .summary { margin-top: 16px; }
+    .pill { border: 1px solid var(--border); border-radius: 999px; padding: 5px 10px; background: #11141a; color: #cbd0d8; }
     .status-line { margin-top: 12px; color: var(--muted); font-size: 13px; }
     .toolbar { margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
     input, select {
@@ -45,7 +56,7 @@
       border: 1px solid var(--border);
       border-radius: 8px;
       padding: 0 12px;
-      background: #fff;
+      background: #11141a;
       color: var(--text);
     }
     input { min-width: 260px; flex: 1; }
@@ -57,23 +68,24 @@
       border-radius: 8px;
       padding: 18px;
     }
-    .card.critical { border: 1px solid #f0b4b4; border-left: 5px solid var(--red); box-shadow: 0 4px 14px rgba(185, 28, 28, .08); }
-    .card.high { border: 1px solid #f2d39a; border-left: 5px solid var(--amber); }
+    .card:hover { border-color: #3c424e; background: #12151c; }
+    .card.critical { border-left: 5px solid var(--red); }
+    .card.high { border-left: 5px solid var(--amber); }
     .card.action { border-left: 5px solid #c0841a; }
     .card.watch { border-left: 4px solid var(--blue); }
-    .card.supplemental { border-left: 4px solid var(--green); background: #fbfefc; }
+    .card.supplemental { border-left: 4px solid var(--green); background: #0e1514; }
     .card-top { display: flex; justify-content: space-between; gap: 16px; }
     .eyebrow { color: var(--muted); font-size: 13px; }
     .meta { margin: 6px 0 0; color: var(--muted); font-size: 13px; }
     .score { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; color: var(--muted); white-space: nowrap; font-size: 13px; }
     .level { border-radius: 999px; padding: 4px 8px; font-size: 12px; }
-    .level.critical { color: #991b1b; background: #fee2e2; }
-    .level.high { color: #92400e; background: #fef3c7; }
-    .level.action { color: #854d0e; background: #fef9c3; }
-    .level.watch { color: #1e40af; background: #dbeafe; }
-    .level.supplemental { color: #166534; background: #dcfce7; }
+    .level.critical { color: #ffadb1; background: #35191d; }
+    .level.high { color: #ffd486; background: #362a16; }
+    .level.action { color: #f5c66e; background: #302717; }
+    .level.watch { color: #b9c3ff; background: #1d2545; }
+    .level.supplemental { color: #88dfb7; background: #153127; }
     .tags { margin: 12px 0; display: flex; flex-wrap: wrap; gap: 6px; }
-    .tag { background: #eef2ff; color: #3730a3; border-radius: 999px; padding: 3px 8px; font-size: 12px; }
+    .tag { background: #1a1e27; color: #c4cad5; border: 1px solid #2c313c; border-radius: 999px; padding: 3px 8px; font-size: 12px; }
     dl { margin: 0; display: grid; grid-template-columns: 54px 1fr; row-gap: 8px; column-gap: 12px; }
     dt { font-weight: 700; }
     .signal-label { color: var(--blue); }
@@ -87,19 +99,19 @@
     footer { margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; gap: 14px; color: var(--muted); }
     a { color: var(--blue); text-decoration: none; font-weight: 600; }
     .empty { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 18px; }
-    .decision-summary { background: #172033; color: #f8fafc; border-radius: 8px; padding: 22px; margin-bottom: 24px; box-shadow: 0 8px 22px rgba(15, 23, 42, .12); }
+    .decision-summary { background: #0d0f14; color: #f8fafc; border: 1px solid #292e39; border-radius: 8px; padding: 24px; margin-bottom: 28px; }
     .decision-header { display: flex; justify-content: space-between; align-items: start; gap: 16px; }
     .decision-header h2 { margin-top: 4px; color: #fff; }
     .summary-note { color: #b7c3d6; font-size: 13px; }
     .section-kicker { color: #91a4c2; font-size: 12px; font-weight: 800; letter-spacing: .06em; }
     .decision-metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 18px 0; }
-    .decision-metrics > div { border: 1px solid #344158; border-radius: 6px; padding: 12px 14px; background: #202b40; }
+    .decision-metrics > div { border: 1px solid #303540; border-radius: 6px; padding: 14px 15px; background: #14171d; }
     .decision-metrics strong { display: block; font-size: 24px; color: #fff; }
     .decision-metrics span { color: #b7c3d6; font-size: 12px; }
     .decision-metrics .metric-high strong { color: #fbbf24; }
     .decision-metrics .metric-action strong { color: #fca5a5; }
     .decision-list { display: grid; gap: 8px; }
-    .decision-row { display: grid; grid-template-columns: 88px 1fr auto; align-items: center; gap: 12px; border-top: 1px solid #344158; padding: 12px 0 0; }
+    .decision-row { display: grid; grid-template-columns: 88px 1fr auto; align-items: center; gap: 12px; border-top: 1px solid #292e38; padding: 12px 0 0; }
     .decision-row strong { color: #fff; }
     .decision-row p { margin: 3px 0 0; color: #c7d2e3; font-size: 13px; }
     .decision-level, .decision-action { font-size: 12px; font-weight: 800; }
@@ -112,16 +124,18 @@
     .section-heading h2 { margin: 2px 0 0; font-size: 23px; }
     .section-heading p { margin: 0; color: var(--muted); font-size: 13px; }
     .section-heading > strong { color: var(--muted); font-size: 13px; white-space: nowrap; }
-    .report-section.daily .section-heading { border-color: #e5a8a8; }
+    .report-section.daily .section-heading { border-color: #513136; }
     .report-section.daily .section-kicker { color: var(--red); }
-    .report-section.trend .section-heading { border-color: #9db8ef; }
+    .report-section.trend .section-heading { border-color: #303b67; }
     .report-section.trend .section-kicker { color: var(--blue); }
-    .report-section.supplemental .section-heading { border-color: #9ed0b5; }
+    .report-section.supplemental .section-heading { border-color: #285040; }
     .report-section.supplemental .section-kicker { color: var(--green); }
     .empty-inline { margin: 0; color: #b7c3d6; }
     @media (max-width: 720px) {
       header { padding: 22px 18px; position: static; }
       main { padding: 16px; }
+      .topbar { align-items: flex-start; }
+      .topnav { display: none; }
       .card-top, footer { flex-direction: column; }
       .score { flex-direction: row; }
       dl { grid-template-columns: 1fr; }
@@ -133,19 +147,29 @@
 </head>
 <body>
   <header>
-      <h1>FLIPOS INT Daily Report</h1>
+    <div class="topbar">
+      <div class="brand">
+        <span class="brand-mark">F</span>
+        <div class="brand-copy"><h1>FLIPOS INT Daily Report</h1><span class="brand-caption">OVERSEAS INTELLIGENCE</span></div>
+      </div>
+      <nav class="topnav" aria-label="报告导航">
+        <a class="active" href="./index.html">决策日报</a>
+        <a href="./archive.html">全部情报</a>
+        <a href="./report.md">Markdown</a>
+      </nav>
+    </div>
     <div class="summary">
-      <span class="pill">生成时间：2026-07-29 09:01</span>
-      <span class="pill">48 小时重点：3 个</span>
-      <span class="pill">14 天趋势：10 个</span>
+      <span class="pill">生成时间：2026-07-29 22:26</span>
+      <span class="pill">48 小时重点：2 个</span>
+      <span class="pill">14 天趋势：9 个</span>
       <span class="pill">补充观察：5 个</span>
       <span class="pill">高重要性：0 条</span>
-      <span class="pill">需行动：2 条</span>
-      <span class="pill">当前展示：18 条 / 已分析：642 篇</span>
+      <span class="pill">需行动：1 条</span>
+      <span class="pill">当前展示：16 条 / 已分析：642 篇</span>
       <span class="pill">数据源：0/54 已验证</span>
       <span class="pill">窗口：48 小时 / 14 天趋势</span>
     </div>
-    <div class="status-line">最近任务：running · 暂无完成记录 · 团队报告包含摘要、信号、FLIPOS 判断和建议动作</div>
+    <div class="status-line">最近任务：success · 2026-07-29 01:02 · 团队报告包含摘要、信号、FLIPOS 判断和建议动作</div>
     <div class="toolbar">
       <input id="search" type="search" placeholder="搜索标题、信号、市场、来源">
       <select id="category">
@@ -179,18 +203,14 @@
   <main><section class="decision-summary">
       <div class="decision-header"><div><span class="section-kicker">今日决策摘要</span><h2>先看需要团队判断的变化</h2></div><span class="summary-note">按重点等级和动作状态排序</span></div>
       <div class="decision-metrics">
-        <div><strong>3</strong><span>48 小时重点</span></div>
+        <div><strong>2</strong><span>48 小时重点</span></div>
         <div class="metric-high"><strong>0</strong><span>高重要性</span></div>
-        <div class="metric-action"><strong>2</strong><span>需行动</span></div>
-        <div><strong>10</strong><span>14 天趋势</span></div>
+        <div class="metric-action"><strong>1</strong><span>需行动</span></div>
+        <div><strong>9</strong><span>14 天趋势</span></div>
       </div>
       <div class="decision-list"><div class="decision-row action">
               <span class="decision-level">需评估</span>
               <div><strong>Qashier推预订功能加码多渠道POS</strong><p>新加坡头部POS竞品Qashier上线24/7预订模块，完善&quot;全渠道+忠诚度+预订&quot;餐饮闭环，直面FLIPOS新加坡市场</p></div>
-              <span class="decision-action">需评估</span>
-            </div><div class="decision-row action">
-              <span class="decision-level">需评估</span>
-              <div><strong>KPay 获新加坡 MPI 牌照原则性批准</strong><p>持牌支付机构 KPay 整合 POS 与支付服务，加速餐饮零售中小企业市场扩张</p></div>
               <span class="decision-action">需评估</span>
             </div><div class="decision-row watch">
               <span class="decision-level">观察</span>
@@ -201,7 +221,7 @@
               <div class="section-heading">
                 <div><span class="section-kicker">48 小时重点</span><h2>48 小时重点</h2></div>
                 <p>需要优先阅读并决定是否进入团队动作队列。</p>
-                <strong>3 组</strong>
+                <strong>2 组</strong>
               </div>
               <div class="grid">
             <article class="card action" data-category="竞品动态" data-source="Competitor - Qashier"
@@ -234,42 +254,12 @@
             </article>
             
 
-            <article class="card action" data-category="支付与合规" data-source="Fintech News Hong Kong"
-              data-region="Hong Kong" data-capability="payment"
-              data-priority="p1" data-level="action">
-              <div class="card-top">
-                <div>
-                  <div class="eyebrow">需评估 · 安排动作 · #2</div>
-                  <h2>KPay 获新加坡 MPI 牌照原则性批准</h2>
-                  <p class="meta">Fintech News Hong Kong · 2026-07-27 · Hong Kong · payment</p>
-                </div>
-                <div class="score">
-                  <strong class="level action">需评估 · 安排动作</strong>
-                  <span>重要 7/10</span>
-                  <span>相关 8/10</span>
-                </div>
-              </div>
-              <div class="tags"><span class='tag'>支付与合规</span><span class='tag'>支付</span><span class='tag'>POS</span><span class='tag'>新加坡</span><span class='tag'>日本</span><span class='tag'>香港</span><span class='tag'>澳大利亚</span><span class='tag'>payment</span><span class='tag'>Hong Kong</span></div>
-              <dl>
-                <dt class="signal-label">摘要</dt><dd>KPay 获得新加坡 MAS 的 MPI 牌照原则性批准，将扩大支付服务范围。KPay 在新加坡已服务超 10,000 家中小企餐饮零售商户，以新加坡为亚太扩张模板。其 POS + 支付 + AI 分析的整合模式与 FLIPOS 在日本市场存在直接竞争关系，需评估其技术能力与合作空间。</dd>
-                <dt class="signal-label">信号</dt><dd>持牌支付机构 KPay 整合 POS 与支付服务，加速餐饮零售中小企业市场扩张</dd>
-                <dt class="impact-label">FLIPOS 判断</dt><dd>判断：KPay 获得新加坡 MPI 牌照后可能加速亚太区扩张，其 POS + 支付整合服务模式与 FLIPOS 在日本市场的 KPay 合作伙伴关系存在潜在竞争或合作空间，需评估 KPay 的技术能力和市场定价策略。</dd>
-                <dt class="action-label">建议动作</dt><dd>产品与支付团队应评估 KPay 在新加坡的合规进展对日本市场合作的影响，识别其 POS 能力是否构成直接竞争，并考虑是否需要在东南亚市场建立备选支付合作伙伴关系。</dd>
-              </dl>
-              
-              <footer>
-                <span>支付与合规 · p1</span>
-                <a href="https://fintechnews.hk/39839/payments/kpay-mas-major-payments-institution-licence/" target="_blank" rel="noopener noreferrer">查看原文</a>
-              </footer>
-            </article>
-            
-
             <article class="card watch" data-category="竞品动态" data-source="Competitor - Chowbus"
               data-region="US/APAC" data-capability=""
               data-priority="observe" data-level="watch">
               <div class="card-top">
                 <div>
-                  <div class="eyebrow">持续观察 · #3</div>
+                  <div class="eyebrow">持续观察 · #2</div>
                   <h2>Chowbus完成8100万美元E轮融资，发布AI餐饮套件</h2>
                   <p class="meta">Competitor - Chowbus · 抓取于 2026-07-28 · US/APAC · 竞品动态</p>
                 </div>
@@ -298,9 +288,39 @@
               <div class="section-heading">
                 <div><span class="section-kicker">14 天趋势</span><h2>14 天趋势</h2></div>
                 <p>用于判断市场变化是否正在形成连续趋势。</p>
-                <strong>10 组</strong>
+                <strong>9 组</strong>
               </div>
               <div class="grid">
+            <article class="card action" data-category="支付与合规" data-source="Fintech News Hong Kong"
+              data-region="Hong Kong" data-capability="payment"
+              data-priority="p1" data-level="action">
+              <div class="card-top">
+                <div>
+                  <div class="eyebrow">需评估 · 安排动作 · #3</div>
+                  <h2>KPay 获新加坡 MPI 牌照原则性批准</h2>
+                  <p class="meta">Fintech News Hong Kong · 2026-07-27 · Hong Kong · payment</p>
+                </div>
+                <div class="score">
+                  <strong class="level action">需评估 · 安排动作</strong>
+                  <span>重要 7/10</span>
+                  <span>相关 8/10</span>
+                </div>
+              </div>
+              <div class="tags"><span class='tag'>支付与合规</span><span class='tag'>支付</span><span class='tag'>POS</span><span class='tag'>新加坡</span><span class='tag'>日本</span><span class='tag'>香港</span><span class='tag'>澳大利亚</span><span class='tag'>payment</span><span class='tag'>Hong Kong</span></div>
+              <dl>
+                <dt class="signal-label">摘要</dt><dd>KPay 获得新加坡 MAS 的 MPI 牌照原则性批准，将扩大支付服务范围。KPay 在新加坡已服务超 10,000 家中小企餐饮零售商户，以新加坡为亚太扩张模板。其 POS + 支付 + AI 分析的整合模式与 FLIPOS 在日本市场存在直接竞争关系，需评估其技术能力与合作空间。</dd>
+                <dt class="signal-label">信号</dt><dd>持牌支付机构 KPay 整合 POS 与支付服务，加速餐饮零售中小企业市场扩张</dd>
+                <dt class="impact-label">FLIPOS 判断</dt><dd>判断：KPay 获得新加坡 MPI 牌照后可能加速亚太区扩张，其 POS + 支付整合服务模式与 FLIPOS 在日本市场的 KPay 合作伙伴关系存在潜在竞争或合作空间，需评估 KPay 的技术能力和市场定价策略。</dd>
+                <dt class="action-label">建议动作</dt><dd>产品与支付团队应评估 KPay 在新加坡的合规进展对日本市场合作的影响，识别其 POS 能力是否构成直接竞争，并考虑是否需要在东南亚市场建立备选支付合作伙伴关系。</dd>
+              </dl>
+              
+              <footer>
+                <span>支付与合规 · p1</span>
+                <a href="https://fintechnews.hk/39839/payments/kpay-mas-major-payments-institution-licence/" target="_blank" rel="noopener noreferrer">查看原文</a>
+              </footer>
+            </article>
+            
+
             <article class="card action" data-category="AI与自动化" data-source="Fast Casual"
               data-region="Global" data-capability="restaurant_ops"
               data-priority="p2" data-level="action">
@@ -539,66 +559,6 @@
                 <a href="https://www.finextra.com/newsarticle/48108/mastercard-rolls-out-service-to-help-developers-build-mobile-wallets" target="_blank" rel="noopener noreferrer">查看原文</a>
               </footer>
             </article>
-            
-
-            <article class="card watch" data-category="支付与合规" data-source="Payments Dive"
-              data-region="Global" data-capability="payment"
-              data-priority="p2" data-level="watch">
-              <div class="card-top">
-                <div>
-                  <div class="eyebrow">持续观察 · #12</div>
-                  <h2>Stripe传竞购PayPal股份引行业整合</h2>
-                  <p class="meta">Payments Dive · 2026-07-15 · Global · payment</p>
-                </div>
-                <div class="score">
-                  <strong class="level watch">持续观察</strong>
-                  <span>重要 7/10</span>
-                  <span>相关 6/10</span>
-                </div>
-              </div>
-              <div class="tags"><span class='tag'>支付与合规</span><span class='tag'>支付</span><span class='tag'>payment</span><span class='tag'>Global</span></div>
-              <dl>
-                <dt class="signal-label">摘要</dt><dd>据报道Stripe已向PayPal提出收购要约，若成功将形成全球最大支付处理商之一。两大平台整合将影响整个支付生态链，对餐饮SaaS而言，支付合作伙伴的战略稳定性成为关键风险点，需提前评估现有支付集成的可替代性。</dd>
-                <dt class="signal-label">信号</dt><dd>全球头部支付公司间出现整合趋势，可能重塑支付处理格局</dd>
-                <dt class="impact-label">FLIPOS 判断</dt><dd>判断：若Stripe与PayPal完成整合，现有支付处理格局将改变，FLIPOS在海外市场的支付回调集成可能需要重新评估兼容性；但目前仅为报道阶段，暂无实际影响。</dd>
-                <dt class="action-label">建议动作</dt><dd>建议支付团队建立对Stripe和PayPal战略动态的监测机制，评估其对现有支付集成稳定性的潜在影响，同时准备备用支付方案以应对市场变化。</dd>
-              </dl>
-              
-              <footer>
-                <span>支付与合规 · p2</span>
-                <a href="https://www.paymentsdive.com/news/how-paypal-may-benefit-stripe/825309/" target="_blank" rel="noopener noreferrer">查看原文</a>
-              </footer>
-            </article>
-            
-
-            <article class="card watch" data-category="支付与合规" data-source="Fintech News Singapore"
-              data-region="Singapore" data-capability="payment"
-              data-priority="p1" data-level="watch">
-              <div class="card-top">
-                <div>
-                  <div class="eyebrow">持续观察 · #13</div>
-                  <h2>越南VietQR Global跨境QR支付支持中日韩</h2>
-                  <p class="meta">Fintech News Singapore · 2026-07-15 · Singapore · payment</p>
-                </div>
-                <div class="score">
-                  <strong class="level watch">持续观察</strong>
-                  <span>重要 5/10</span>
-                  <span>相关 6/10</span>
-                </div>
-              </div>
-              <div class="tags"><span class='tag'>支付与合规</span><span class='tag'>支付</span><span class='tag'>跨境</span><span class='tag'>越南</span><span class='tag'>新加坡</span><span class='tag'>日本</span><span class='tag'>泰国</span><span class='tag'>payment</span><span class='tag'>Singapore</span></div>
-              <dl>
-                <dt class="signal-label">摘要</dt><dd>NCB在越南推出VietQR Global跨境QR支付服务，目前支持中国支付宝、银联及韩国钱包，计划扩展至新加坡、日本、印度等市场。旅游场景已落地Sun World景区及高端酒店集团。虽目前不直接涉及港澳日泰市场，但对FLIPOS东南亚支付策略有信号意义：跨境QR互认正在加速。</dd>
-                <dt class="signal-label">信号</dt><dd>越南银行推出跨境QR支付聚合服务，已支持中韩钱包，计划扩展至新加坡日本，可能影响东南亚支付集成需求</dd>
-                <dt class="impact-label">FLIPOS 判断</dt><dd>判断：越南作为东南亚旅游热点市场，其跨境QR支付互认加速，可能影响在当地运营的餐饮商户的支付集成需求；VietQR若后续支持新加坡钱包，与FLIPOS现有新加坡Adyen/GrabFood方案存在潜在整合机会。</dd>
-                <dt class="action-label">建议动作</dt><dd>建议产品团队关注VietQR Global的新加坡/日本支持时间表，评估其与FLIPOS新加坡支付方案（Adyen）的互补性或竞争关系；同时，若FLIPOS有越南市场拓展计划，需提前规划对VietQR的支持。</dd>
-              </dl>
-              
-              <footer>
-                <span>支付与合规 · p1</span>
-                <a href="https://fintechnews.sg/134394/vietnam/ncb-vietqr-cross-border-payments-vietnam/" target="_blank" rel="noopener noreferrer">查看原文</a>
-              </footer>
-            </article>
             </div>
             </section>
 <section class="report-section supplemental" data-section="supplemental">
@@ -613,7 +573,7 @@
               data-priority="reserve" data-level="supplemental">
               <div class="card-top">
                 <div>
-                  <div class="eyebrow">补充观察 · #14</div>
+                  <div class="eyebrow">补充观察 · #12</div>
                   <h2>支付欺诈网络激增25%</h2>
                   <p class="meta">The Fintech Times · 2026-06-19 · Global · payment</p>
                 </div>
@@ -643,7 +603,7 @@
               data-priority="p1" data-level="supplemental">
               <div class="card-top">
                 <div>
-                  <div class="eyebrow">补充观察 · #15</div>
+                  <div class="eyebrow">补充观察 · #13</div>
                   <h2>亚太支付多边互通启动，QR码取代卡支付成主流</h2>
                   <p class="meta">Fintech News Singapore · 2026-06-04 · Singapore · payment</p>
                 </div>
@@ -673,7 +633,7 @@
               data-priority="reserve" data-level="supplemental">
               <div class="card-top">
                 <div>
-                  <div class="eyebrow">补充观察 · #16</div>
+                  <div class="eyebrow">补充观察 · #14</div>
                   <h2>非接触支付交易额2030年将翻倍</h2>
                   <p class="meta">NFCW · 2025-07-09 · Global · payment</p>
                 </div>
@@ -703,7 +663,7 @@
               data-priority="reserve" data-level="supplemental">
               <div class="card-top">
                 <div>
-                  <div class="eyebrow">补充观察 · #17</div>
+                  <div class="eyebrow">补充观察 · #15</div>
                   <h2>印度SoftPOS领跑全球无接触支付</h2>
                   <p class="meta">NFCW · 2025-07-10 · Global · payment</p>
                 </div>
@@ -733,7 +693,7 @@
               data-priority="p1" data-level="supplemental">
               <div class="card-top">
                 <div>
-                  <div class="eyebrow">补充观察 · #18</div>
+                  <div class="eyebrow">补充观察 · #16</div>
                   <h2>PayNow Gen2 QR互联升级</h2>
                   <p class="meta">Fintech News Singapore · 2026-07-09 · Singapore · payment</p>
                 </div>
