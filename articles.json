@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T03:38:17",
-  "count": 640,
+  "generated_at": "2026-07-29T01:01:51",
+  "count": 642,
   "articles": [
     {
       "id": 1,
@@ -15360,6 +15360,54 @@
         "action_level": "可观察",
         "recommended_action": "产品团队应持续监控Chowbus的AI功能迭代和定价策略；若其启动亚太市场进入，支付和产品需提前准备差异化方案（如垂直品类深度、区域支付集成）。",
         "flipos_impact": "判断：Chowbus虽主攻美国市场，但其免费硬件+订阅费模式若向亚太扩张，将对FLIPOS的新加坡、日本Kiosk方案构成直接价格竞争；其AI功能集成度也值得FLIPOS产品团队对标评估。"
+      }
+    },
+    {
+      "id": 642,
+      "title": "Singapore AUM up 10.1% at S$6.7 trillion as MAS eyes competitiveness push",
+      "url": "https://www.businesstimes.com.sg/companies-markets/singapore-aum-10-1-s6-7-trillion-mas-eyes-competitiveness-push",
+      "source": "Business Times Banking Finance",
+      "region": "Singapore",
+      "domain": "local_business",
+      "published_at": "2026-07-28T09:30:00",
+      "fetched_at": "2026-07-29T01:00:13",
+      "ai_output": {
+        "short_title": "新加坡AUM达6.7万亿 金管局强化金融竞争力",
+        "one_line_signal": "新加坡金融中心资产规模稳健增长，监管机构主动寻求保持竞争优势",
+        "zh_summary": "新加坡AUM同比增长10.1%至6.7万亿新元，MAS正与行业探讨提升金融市场竞争力的措施。这反映了新加坡作为亚太金融门户的吸引力持续，但文章聚焦宏观金融环境，未涉及具体支付、餐饮或SaaS监管政策变化。",
+        "category": "出海市场动态",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "合规",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队将此作为新加坡市场吸引力的背景参考，无需立即采取产品动作，可关注MAS后续具体竞争力措施发布。",
+        "flipos_impact": "判断：新加坡金融环境稳健增长有助于增强客户对在狮城运营的信心，但对FLIPOS当前支付合规方案无直接政策影响，MAS讨论仍在早期阶段。"
+      }
+    },
+    {
+      "id": 658,
+      "title": "Tech jobs go as Visa cuts workforce by 7%",
+      "url": "https://www.finextra.com/newsarticle/48161/tech-jobs-go-as-visa-cuts-workforce-by-7",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-07-28T18:14:00",
+      "fetched_at": "2026-07-29T01:00:19",
+      "ai_output": {
+        "short_title": "Visa裁员7%押注AI重构运营",
+        "one_line_signal": "Visa通过裁员应对AI时代，反映支付行业向智能化转型趋势",
+        "zh_summary": "Visa宣布裁员约2600人（7%员工），技术和产品岗位受最大冲击，作为向AI时代转型的运营重构举措。这对使用Visa通道的餐饮SaaS厂商意味着需关注支付巨头战略调整对合作伙伴生态的潜在影响。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 5,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议支付团队持续监控Visa等主流卡组织在AI驱动的支付自动化方面的产品路线图，评估对餐饮场景支付体验的潜在影响；同时保持Adyen等多元化支付通道的战略合作。",
+        "flipos_impact": "判断：Visa裁员反映其押注AI自动化，短期内对Visa通道的稳定性和费率直接影响有限，但长期可能影响其对中小企业SaaS厂商的服务优先级和技术投入方向。"
       }
     }
   ]
