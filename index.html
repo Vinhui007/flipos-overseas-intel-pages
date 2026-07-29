@@ -50,6 +50,7 @@
     .summary { margin-top: 16px; }
     .pill { border: 1px solid var(--border); border-radius: 999px; padding: 5px 10px; background: #11141a; color: #cbd0d8; }
     .status-line { margin-top: 12px; color: var(--muted); font-size: 13px; }
+    .mobile-filter-toggle { display: none; }
     .toolbar { margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
     input, select {
       height: 38px;
@@ -136,6 +137,15 @@
       main { padding: 16px; }
       .topbar { align-items: flex-start; }
       .topnav { display: none; }
+      .summary .pill:nth-child(1),
+      .summary .pill:nth-child(4),
+      .summary .pill:nth-child(7),
+      .summary .pill:nth-child(8),
+      .summary .pill:nth-child(9) { display: none; }
+      .status-line { display: none; }
+      .mobile-filter-toggle { display: block; width: 100%; margin-top: 14px; border: 1px solid var(--border); border-radius: 8px; background: #11141a; color: var(--text); height: 40px; }
+      .toolbar { display: none; }
+      .toolbar.is-open { display: flex; }
       .card-top, footer { flex-direction: column; }
       .score { flex-direction: row; }
       dl { grid-template-columns: 1fr; }
@@ -159,7 +169,7 @@
       </nav>
     </div>
     <div class="summary">
-      <span class="pill">生成时间：2026-07-29 22:26</span>
+      <span class="pill">生成时间：2026-07-29 22:32</span>
       <span class="pill">48 小时重点：2 个</span>
       <span class="pill">14 天趋势：9 个</span>
       <span class="pill">补充观察：5 个</span>
@@ -170,6 +180,7 @@
       <span class="pill">窗口：48 小时 / 14 天趋势</span>
     </div>
     <div class="status-line">最近任务：success · 2026-07-29 01:02 · 团队报告包含摘要、信号、FLIPOS 判断和建议动作</div>
+    <button class="mobile-filter-toggle" id="filterToggle" type="button" aria-expanded="false">筛选与报告入口</button>
     <div class="toolbar">
       <input id="search" type="search" placeholder="搜索标题、信号、市场、来源">
       <select id="category">
@@ -726,6 +737,8 @@
     const priority = document.querySelector("#priority");
     const level = document.querySelector("#level");
     const resultCount = document.querySelector("#resultCount");
+    const filterToggle = document.querySelector("#filterToggle");
+    const toolbar = document.querySelector(".toolbar");
     const cards = [...document.querySelectorAll(".card")];
     function applyFilters() {
       const q = search.value.trim().toLowerCase();
@@ -754,6 +767,11 @@
     capability.addEventListener("change", applyFilters);
     priority.addEventListener("change", applyFilters);
     level.addEventListener("change", applyFilters);
+    filterToggle.addEventListener("click", () => {
+      const isOpen = toolbar.classList.toggle("is-open");
+      filterToggle.setAttribute("aria-expanded", String(isOpen));
+      filterToggle.textContent = isOpen ? "收起筛选" : "筛选与报告入口";
+    });
     applyFilters();
   </script>
 </body>
