@@ -1,7 +1,7 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-07-30 09:10
-- 48 小时重点：3 个
+- 生成时间：2026-07-31 09:09
+- 48 小时重点：4 个
 - 14 天趋势：7 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,30 +9,30 @@
 
 ## 今日摘要
 
-- 今日重点：3 条
-- 高重要性：0 条
+- 今日重点：4 条
+- 高重要性：1 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
 
-### 1. 机器人Kiosk市场2036年预计超17.5亿美元
+### 1. Co-payment scheme offers limited boost
 
-- 来源：Fast Casual
-- 发布时间：2026-07-28
-- 分类：AI与自动化
-- 重要性：6/10
+- 来源：Bangkok Post Business
+- 发布时间：2026-07-31
+- 分类：支付与合规
+- 重要性：8/10
 - 相关性：8/10
-- 事件 Key：robotic-kiosk-market-2036-projection
+- 事件 Key：co-payment-scheme-offers-limited-boost
 - 来源类型：新闻/RSS
-- 原文/页面：[https://www.kioskmarketplace.com/news/robotic-food-kiosk-market-projected-to-top-175b-by-2036/](https://www.kioskmarketplace.com/news/robotic-food-kiosk-market-projected-to-top-175b-by-2036/)
+- 原文/页面：[https://www.bangkokpost.com/business/general/3294127/copayment-scheme-offers-limited-boost](https://www.bangkokpost.com/business/general/3294127/copayment-scheme-offers-limited-boost)
 
-**摘要**：据预测，全球机器人Kiosk市场到2036年将突破17.5亿美元。当前Kiosk点餐正从纯硬件向机器人/自动化演进，反映了餐饮数字化对效率和体验的双重追求。FLIPOS已在新加坡部署Kiosk解决方案，该趋势将影响产品规划方向。
+**摘要**：【Mock】Co-payment scheme offers limited boost。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
 
-**信号**：全球自助点餐Kiosk正加速向机器人化演进，市场规模预计翻倍增长
+**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
 
-**FLIPOS 判断**：判断：机器人Kiosk市场的高速增长验证了FLIPOS在新加坡等市场部署Kiosk解决方案的长期潜力，但竞争也将加剧，需持续投入产品差异化
+**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
 
-**建议动作**：建议产品团队在Kiosk路线图中考虑与自动化/机器人技术的融合可能，保持产品竞争力
+**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
 
 ### 2. 稳定币支付基础设施提速
 
@@ -53,25 +53,45 @@
 
 **建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
 
-### 3. 新加坡金管局警示AI投资热潮风险
+### 3. Popeyes测试Kiosk小费提示功能
 
-- 来源：Business Times Banking Finance
-- 发布时间：2026-07-28
-- 分类：支付与合规
+- 来源：QSR Web
+- 发布时间：2026-07-30
+- 分类：竞品动态
+- 重要性：6/10
+- 相关性：7/10
+- 市场标签：美国
+- 事件 Key：fast-food-kiosk-tipping-feature
+- 来源类型：新闻/RSS
+- 原文/页面：[https://www.qsrweb.com/news/popeyes-tests-tipping-prompts-on-self-order-kiosks-amid-tipping-fatigue-debate/](https://www.qsrweb.com/news/popeyes-tests-tipping-prompts-on-self-order-kiosks-amid-tipping-fatigue-debate/)
+
+**摘要**：Popeyes正在自助点餐终端上测试小费提示功能，回应美国市场日益严重的"小费疲劳"争议。该功能允许顾客在结账时被提示是否愿意给小费，金额通常为餐价的15%-25%。此测试反映快餐业希望借助Kiosk提升非堂食场景的服务溢价能力。
+
+**信号**：美国快餐连锁在自助点餐终端引入小费提示，反映Kiosk商业化变现新探索
+
+**FLIPOS 判断**：判断：Popeyes的测试为FLIPOS的Kiosk产品提供了小费功能的需求参考，但考虑到亚洲出海市场（小费文化不普遍）与美国差异显著，短期对港澳、新加坡、日本等市场影响有限。
+
+**建议动作**：建议产品团队将Kiosk小费功能列为可选配置项，面向未来可能进入欧美市场的客户提前规划技术方案；同时可观察该功能对客单价和转化率的影响数据。
+
+### 4. Chowbus融资8100万美元强化AI POS，专注亚洲餐厅市场
+
+- 来源：Competitor - Chowbus
+- 发布时间：抓取于 2026-07-31
+- 分类：竞品动态
 - 重要性：7/10
 - 相关性：6/10
-- 市场标签：新加坡、东南亚
-- 事件 Key：mas-abs-ai-cyber-taskforce
-- 来源类型：新闻/RSS
-- 原文/页面：[https://www.businesstimes.com.sg/companies-markets/mas-chief-flags-ai-investment-boom-key-risk-global-financial-stability](https://www.businesstimes.com.sg/companies-markets/mas-chief-flags-ai-investment-boom-key-risk-global-financial-stability)
+- 市场标签：美国、全球
+- 事件 Key：chowbus-ai-pos-investment
+- 来源类型：竞品官网/产品页
+- 原文/页面：[https://www.chowbus.com/](https://www.chowbus.com/)
 
-**摘要**：新加坡金管局(MAS)与银行公会(ABS)联合成立专项工作组，旨在增强金融业应对AI驱动型网络威胁的技术韧性。此举反映出监管机构对AI投资热潮可能引发的系统性金融风险高度关注，FLIPOS作为服务餐饮商户的支付基础设施提供方，需关注相关合规要求变化。
+**摘要**：Chowbus完成8100万美元E轮融资，定位服务亚洲文化餐厅的全栈技术平台。其AI POS免费赠送价值$826硬件，Kiosk半价促销，目标用AI数字化员工概念重塑餐饮运营。虽然目前仅服务美国市场，但其专注细分赛道、硬件补贴获客的打法值得FLIPOS在东南亚/日本市场借鉴。
 
-**信号**：新加坡金融监管机构联合银行业设立专项工作组，应对AI驱动型网络安全威胁
+**信号**：餐饮SaaS平台Chowbus获大额融资加速AI产品落地，以亚洲餐厅细分定位在全球市场扩张
 
-**FLIPOS 判断**：判断：若新加坡后续出台针对支付服务商的AI安全合规要求，可能影响FLIPOS在当地的支付接入合规成本和技术架构调整需求，当前阶段以观察监管动向为主。
+**FLIPOS 判断**：判断：Chowbus专注亚洲餐厅的细分定位与FLIPOS东南亚/日本市场策略高度重合，其AI+POS+硬件捆绑模式若进入亚太市场将对FLIPOS形成直接竞争；其Kiosk、忠诚度、AI广告等产品能力可作为FLIPOS Solution Pack的功能对标参考。
 
-**建议动作**：建议法务团队持续跟踪MAS与ABS工作组动态，关注是否将第三方支付服务商纳入AI安全合规框架，并在产品路线图中预留合规适配窗口。
+**建议动作**：建议产品团队持续监控Chowbus产品迭代路线图，重点关注其AI功能与Kiosk的整合进展；同时评估FLIPOS在亚洲餐厅垂直场景的差异化竞争力，特别是在多语言支持和本地化菜系适配方面。
 
 ## 14 天趋势
 
@@ -97,25 +117,24 @@
 
 **建议动作**：产品与支付团队应评估 KPay 在新加坡的合规进展对日本市场合作的影响，识别其 POS 能力是否构成直接竞争，并考虑是否需要在东南亚市场建立备选支付合作伙伴关系。
 
-### 2. 亚太金融欺诈与eKYC合规新趋势
+### 2. 机器人Kiosk市场2036年预计超17.5亿美元
 
-- 来源：Fintech News Malaysia、Fintech News Singapore
-- 发布时间：2026-07-16
-- 分类：支付与合规
-- 重要性：7/10
-- 相关性：7/10
-- 市场标签：新加坡、东南亚、全球
-- 事件 Key：apac-ekyc-fraud-webinar-2026
+- 来源：Fast Casual
+- 发布时间：2026-07-28
+- 分类：AI与自动化
+- 重要性：6/10
+- 相关性：8/10
+- 事件 Key：robotic-kiosk-market-2036-projection
 - 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.sg/134478/videos/asias-multi-billion-dollar-fraud-crisis-can-fintechs-still-build-trust/](https://fintechnews.sg/134478/videos/asias-multi-billion-dollar-fraud-crisis-can-fintechs-still-build-trust/)
+- 原文/页面：[https://www.kioskmarketplace.com/news/robotic-food-kiosk-market-projected-to-top-175b-by-2036/](https://www.kioskmarketplace.com/news/robotic-food-kiosk-market-projected-to-top-175b-by-2036/)
 
-**摘要**：Fintech News Singapore举办线上研讨会，讨论亚太区亿级美元欺诈危机。聚焦eKYC在数字客户旅程中的角色演变、合成身份欺诈风险、以及如何在不增加摩擦的情况下提升安全验证。会议汇聚NTT DATA Payment Services、EBANX等专家，为金融科技公司提供合规与信任构建的实操洞察。
+**摘要**：据预测，全球机器人Kiosk市场到2036年将突破17.5亿美元。当前Kiosk点餐正从纯硬件向机器人/自动化演进，反映了餐饮数字化对效率和体验的双重追求。FLIPOS已在新加坡部署Kiosk解决方案，该趋势将影响产品规划方向。
 
-**信号**：亚太区金融欺诈风险上升，eKYC从合规检查升级为客户信任全链路核心能力
+**信号**：全球自助点餐Kiosk正加速向机器人化演进，市场规模预计翻倍增长
 
-**FLIPOS 判断**：判断：FLIPOS在新加坡等东南亚市场部署支付基础设施时，Adyen等合作方若需强化eKYC验证流程，可能影响支付接入周期和商户审核门槛；建议评估合作支付方的欺诈检测能力是否满足当地监管预期。
+**FLIPOS 判断**：判断：机器人Kiosk市场的高速增长验证了FLIPOS在新加坡等市场部署Kiosk解决方案的长期潜力，但竞争也将加剧，需持续投入产品差异化
 
-**建议动作**：建议支付团队与Adyen等支付合作方确认其eKYC和欺诈检测方案在新加坡及东南亚的合规适配情况，评估是否需要在Solution Pack中内置额外的身份验证层或风险提示机制。
+**建议动作**：建议产品团队在Kiosk路线图中考虑与自动化/机器人技术的融合可能，保持产品竞争力
 
 ### 3. TrueMoney泰国首推tap-to-pay数字支付
 
@@ -137,7 +156,27 @@
 
 **建议动作**：建议支付团队关注TrueMoney在泰国的推广进度，评估其与Beam、PromptPay的竞争格局，暂不作为紧急集成任务。
 
-### 4. Qu推出嵌入式支付平台整合交易智能
+### 4. 新加坡金管局警示AI投资热潮风险
+
+- 来源：Business Times Banking Finance
+- 发布时间：2026-07-28
+- 分类：支付与合规
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：新加坡、东南亚
+- 事件 Key：mas-abs-ai-cyber-taskforce
+- 来源类型：新闻/RSS
+- 原文/页面：[https://www.businesstimes.com.sg/companies-markets/mas-chief-flags-ai-investment-boom-key-risk-global-financial-stability](https://www.businesstimes.com.sg/companies-markets/mas-chief-flags-ai-investment-boom-key-risk-global-financial-stability)
+
+**摘要**：新加坡金管局(MAS)与银行公会(ABS)联合成立专项工作组，旨在增强金融业应对AI驱动型网络威胁的技术韧性。此举反映出监管机构对AI投资热潮可能引发的系统性金融风险高度关注，FLIPOS作为服务餐饮商户的支付基础设施提供方，需关注相关合规要求变化。
+
+**信号**：新加坡金融监管机构联合银行业设立专项工作组，应对AI驱动型网络安全威胁
+
+**FLIPOS 判断**：判断：若新加坡后续出台针对支付服务商的AI安全合规要求，可能影响FLIPOS在当地的支付接入合规成本和技术架构调整需求，当前阶段以观察监管动向为主。
+
+**建议动作**：建议法务团队持续跟踪MAS与ABS工作组动态，关注是否将第三方支付服务商纳入AI安全合规框架，并在产品路线图中预留合规适配窗口。
+
+### 5. Qu推出嵌入式支付平台整合交易智能
 
 - 来源：Restaurant Technology News
 - 发布时间：2026-07-23
@@ -157,7 +196,7 @@
 
 **建议动作**：产品团队可观察Qu Pay的客人身份识别方案是否适用于港澳/东南亚市场；支付团队评估FLIPOS现有支付回调能否扩展支持即时结算和基于交易历史的资本服务字段。
 
-### 5. 蚂蚁国际融资12亿美元加码全球支付
+### 6. 蚂蚁国际融资12亿美元加码全球支付
 
 - 来源：Fintech News Singapore
 - 发布时间：2026-07-21
@@ -177,7 +216,7 @@
 
 **建议动作**：支付团队应关注Alipay+在东南亚商户渗透进展，评估是否需与蚂蚁支付网络建立合作或调整竞争策略。原文未说明
 
-### 6. 支付行业并购升温 Stripe或收购PayPal
+### 7. 支付行业并购升温 Stripe或收购PayPal
 
 - 来源：Payments Dive
 - 发布时间：2026-07-20
@@ -195,25 +234,6 @@
 **FLIPOS 判断**：判断：如果Stripe收购PayPal成真，支付生态格局将大幅变动，FLIPOS在海外市场依赖的支付合作伙伴可能面临战略调整，需提前评估Adyen、Stripe、PayPal等主要支付通道的稳定性。
 
 **建议动作**：建议支付团队持续跟踪Stripe与PayPal的并购进展，评估若交易完成后对现有支付合作伙伴生态的潜在影响，并准备备选支付通道方案。
-
-### 7. Mastercard推移动钱包SDK降低支付接入门槛
-
-- 来源：Finextra
-- 发布时间：2026-07-17
-- 分类：支付与合规
-- 重要性：7/10
-- 相关性：6/10
-- 事件 Key：mastercard-mobile-wallet-sdk
-- 来源类型：新闻/RSS
-- 原文/页面：[https://www.finextra.com/newsarticle/48108/mastercard-rolls-out-service-to-help-developers-build-mobile-wallets](https://www.finextra.com/newsarticle/48108/mastercard-rolls-out-service-to-help-developers-build-mobile-wallets)
-
-**摘要**：Mastercard发布面向iOS和Android的软件开发工具包，帮助银行和金融科技公司快速集成非接触式支付功能。这是卡组织推动支付基础设施标准化的一环，将加速全球移动支付生态的扩展。对于餐饮SaaS厂商而言，意味着支付模块的集成路径更清晰，但需评估是否符合目标市场的合规要求。
-
-**信号**：卡组织推出标准化支付工具链，中小开发商移动支付集成成本显著降低
-
-**FLIPOS 判断**：判断：Mastercard的SDK为POS系统和移动支付的深度集成提供了标准化路径，但FLIPOS当前Solution Pack中已对接Adyen、PromptPay等本地化方案，需评估新增卡组织SDK的边际价值。
-
-**建议动作**：产品团队可将该SDK列入支付网关备选池，但在东南亚、日本等市场应优先确保本地化支付方案（如PromptPay、 LINE Pay）的稳定性，待有明确集成需求时再评估优先级。
 
 ## 补充观察
 
