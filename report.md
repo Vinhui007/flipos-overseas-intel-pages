@@ -1,8 +1,8 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-07-31 09:09
+- 生成时间：2026-08-01 09:06
 - 48 小时重点：4 个
-- 14 天趋势：7 个
+- 14 天趋势：8 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
 - 排序规则：先按时间窗口过滤，再按相关性 60% + 重要性 40%
@@ -10,12 +10,32 @@
 ## 今日摘要
 
 - 今日重点：4 条
-- 高重要性：1 条
+- 高重要性：2 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
 
-### 1. Co-payment scheme offers limited boost
+### 1. Qashier新加坡竞品全解：一体化POS+忠诚度+多渠道
+
+- 来源：Competitor - Qashier
+- 发布时间：抓取于 2026-08-01
+- 分类：竞品动态
+- 重要性：8/10
+- 相关性：9/10
+- 市场标签：新加坡、马来西亚、泰国、菲律宾
+- 事件 Key：qashier-pos-unified-platform-sea
+- 来源类型：竞品官网/产品页
+- 原文/页面：[https://qashier.com/](https://qashier.com/)
+
+**摘要**：新加坡POS竞品Qashier官网展示其一体化解决方案，涵盖POS、预订、忠诚度、QR点单及GrabFood/foodpanda多渠道同步，服务25,000+商户并获MAS牌照。其核心差异化在于“每笔销售即客户识别”的忠诚度闭环，以及WhatsApp自动触达功能。Qashier明确面向新加坡、马来西亚、泰国、菲律宾市场，对FLIPOS SEA Solution Pack直接构成竞品威胁。
+
+**信号**：新加坡POS竞品Qashier以一体化平台策略（POS+预订+忠诚度+多渠道管理）覆盖餐饮零售全场景，对FLIPOS SEA市场构成直接竞争压力
+
+**FLIPOS 判断**：判断：Qashier的一体化平台策略（POS+忠诚度+预订+多渠道同步）与FLIPOS Solution Pack存在高度功能重叠，其在新加坡的MAS牌照和本地渠道整合能力值得FLIPOS关注，尤其是在多渠道订单聚合和客户识别方面的实现路径。
+
+**建议动作**：建议产品团队拆解Qashier的忠诚度闭环和WhatsApp触达实现逻辑，评估FLIPOS当前CRM模块的差异化优势；市场团队可针对Qashier的“无前期成本”定价策略进行FLIPOS价值主张对比分析。
+
+### 2. Co-payment scheme offers limited boost
 
 - 来源：Bangkok Post Business
 - 发布时间：2026-07-31
@@ -27,25 +47,6 @@
 - 原文/页面：[https://www.bangkokpost.com/business/general/3294127/copayment-scheme-offers-limited-boost](https://www.bangkokpost.com/business/general/3294127/copayment-scheme-offers-limited-boost)
 
 **摘要**：【Mock】Co-payment scheme offers limited boost。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
-
-**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
-
-**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
-
-**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
-
-### 2. 稳定币支付基础设施提速
-
-- 来源：Fintech News Singapore
-- 发布时间：2026-07-29
-- 分类：餐饮数字化
-- 重要性：7/10
-- 相关性：7/10
-- 事件 Key：visa-records-us-3-7-billion-in-stablecoin-card-volume-across-200-markets
-- 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.sg/135022/digitalassets/visa-stablecoin-volume/](https://fintechnews.sg/135022/digitalassets/visa-stablecoin-volume/)
-
-**摘要**：【Mock】Visa Records US$3.7 Billion in Stablecoin Card Volume Across 200 Markets。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
 
 **信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
 
@@ -136,7 +137,26 @@
 
 **建议动作**：建议产品团队在Kiosk路线图中考虑与自动化/机器人技术的融合可能，保持产品竞争力
 
-### 3. TrueMoney泰国首推tap-to-pay数字支付
+### 3. 稳定币支付基础设施提速
+
+- 来源：Fintech News Singapore
+- 发布时间：2026-07-29
+- 分类：餐饮数字化
+- 重要性：7/10
+- 相关性：7/10
+- 事件 Key：visa-records-us-3-7-billion-in-stablecoin-card-volume-across-200-markets
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.sg/135022/digitalassets/visa-stablecoin-volume/](https://fintechnews.sg/135022/digitalassets/visa-stablecoin-volume/)
+
+**摘要**：【Mock】Visa Records US$3.7 Billion in Stablecoin Card Volume Across 200 Markets。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
+
+**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
+
+**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
+
+**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
+
+### 4. TrueMoney泰国首推tap-to-pay数字支付
 
 - 来源：Bangkok Post Business
 - 发布时间：2026-07-18
@@ -156,7 +176,7 @@
 
 **建议动作**：建议支付团队关注TrueMoney在泰国的推广进度，评估其与Beam、PromptPay的竞争格局，暂不作为紧急集成任务。
 
-### 4. 新加坡金管局警示AI投资热潮风险
+### 5. 新加坡金管局警示AI投资热潮风险
 
 - 来源：Business Times Banking Finance
 - 发布时间：2026-07-28
@@ -176,7 +196,7 @@
 
 **建议动作**：建议法务团队持续跟踪MAS与ABS工作组动态，关注是否将第三方支付服务商纳入AI安全合规框架，并在产品路线图中预留合规适配窗口。
 
-### 5. Qu推出嵌入式支付平台整合交易智能
+### 6. Qu推出嵌入式支付平台整合交易智能
 
 - 来源：Restaurant Technology News
 - 发布时间：2026-07-23
@@ -196,7 +216,7 @@
 
 **建议动作**：产品团队可观察Qu Pay的客人身份识别方案是否适用于港澳/东南亚市场；支付团队评估FLIPOS现有支付回调能否扩展支持即时结算和基于交易历史的资本服务字段。
 
-### 6. 蚂蚁国际融资12亿美元加码全球支付
+### 7. 蚂蚁国际融资12亿美元加码全球支付
 
 - 来源：Fintech News Singapore
 - 发布时间：2026-07-21
@@ -216,7 +236,7 @@
 
 **建议动作**：支付团队应关注Alipay+在东南亚商户渗透进展，评估是否需与蚂蚁支付网络建立合作或调整竞争策略。原文未说明
 
-### 7. 支付行业并购升温 Stripe或收购PayPal
+### 8. 支付行业并购升温 Stripe或收购PayPal
 
 - 来源：Payments Dive
 - 发布时间：2026-07-20
