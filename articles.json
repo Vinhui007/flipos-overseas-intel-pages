@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T01:02:17",
-  "count": 722,
+  "generated_at": "2026-08-03T01:01:03",
+  "count": 724,
   "articles": [
     {
       "id": 1,
@@ -17328,6 +17328,54 @@
         "action_level": "可观察",
         "recommended_action": "建议产品团队持续关注Atoms/Otter在北美连锁餐饮的渗透速度，评估FLIPOS在POS与外卖聚合能力上的竞争壁垒是否需要强化。",
         "flipos_impact": "判断：Atoms的垂直整合模式（外卖+POS+厨房自动化+厨房地产）若在美国市场规模化，可能形成与FLIPOS外卖回调、POS功能的正面竞争，但其方案侧重大型连锁，FLIPOS的独立SaaS工具定位仍具差异化空间。"
+      }
+    },
+    {
+      "id": 723,
+      "title": "Palantir’s CTO believes Chinese AI models could pose an economic threat to the US",
+      "url": "https://www.thailand-business-news.com/china/320102-palantirs-cto-believes-chinese-ai-models-could-pose-an-economic-threat-to-the-us",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-08-02T22:50:00",
+      "fetched_at": "2026-08-03T01:00:22",
+      "ai_output": {
+        "short_title": "Palantir CTO 警告中国 AI 对美经济威胁",
+        "one_line_signal": "美国科技界对中美 AI 竞争发出警示，但与餐饮数字化赛道无直接关联",
+        "zh_summary": "Palantir CTO 表示中国通过非授权方式开发了先进 AI 模型，具有重要技术进步和地缘政治含义。该新闻反映的是大国科技博弈趋势，与餐饮 SaaS、出海支付、POS 等业务能力无直接关联，对 FLIPOS Solution Pack 当前落地计划无实质影响。",
+        "category": "AI与自动化",
+        "importance_score": 3,
+        "relevance_score": 1,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "可将该事件纳入行业宏观观察，但无需产品、支付或法务团队采取具体行动；如未来泰国、新加坡市场出现针对中国科技企业的数据合规新规，再进行评估。",
+        "flipos_impact": "判断：本文属于宏观地缘政治评论，与餐饮 SaaS、支付合规、POS 系统等业务无直接关联，短期内不会影响 FLIPOS 出海 Solution Pack 的技术选型或市场策略。"
+      }
+    },
+    {
+      "id": 724,
+      "title": "Partior and OpenAssets PoC proves stablecoins and tokenised deposits can settle atomically",
+      "url": "https://www.finextra.com/newsarticle/48180/partior-and-openassets-poc-proves-stablecoins-and-tokenised-deposits-can-settle-atomically",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-08-03T00:01:00",
+      "fetched_at": "2026-08-03T01:00:25",
+      "ai_output": {
+        "short_title": "银行间稳定币原子结算PoC完成验证",
+        "one_line_signal": "新加坡银行支持的结算基础设施平台验证了稳定币与代币化存款的原子交割能力，支付结算基础设施向实时化、去中心化演进",
+        "zh_summary": "Partior（新加坡央行支持的银行间结算平台）与OpenAssets完成概念验证，实现了数字资产、受监管稳定币与代币化存款之间的原子交割（Atomic DvP）。这标志着银行级别支付结算基础设施开始接纳稳定币，为未来跨境实时支付奠定技术基础。餐饮SaaS虽无需直接接入，但需关注支付基础设施演进方向。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 3,
+        "market_tags": "新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议支付团队保持对Partior及新加坡央行数字货币计划的关注，在12-18个月内评估稳定币结算对东南亚跨境支付成本结构的潜在影响，无需立即采取行动。",
+        "flipos_impact": "判断：短期内对FLIPOS餐饮SaaS无直接影响，Solution Pack的支付通道（如Adyen、GrabPay）暂不涉及此架构；但长期若稳定币结算普及，需评估跨境商户收款成本结构变化。"
       }
     }
   ]
