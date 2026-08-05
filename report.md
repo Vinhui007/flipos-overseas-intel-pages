@@ -1,7 +1,7 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-08-04 09:07
-- 48 小时重点：3 个
+- 生成时间：2026-08-05 09:06
+- 48 小时重点：5 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,7 +9,7 @@
 
 ## 今日摘要
 
-- 今日重点：3 条
+- 今日重点：5 条
 - 高重要性：0 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
@@ -55,7 +55,47 @@
 
 **建议动作**：产品团队应提前向港澳商家推送FPS维护通知，建议商家在维护窗口期启用现金或其他非FPS支付方式，并确认支付回调异常处理流程是否完备。
 
-### 3. GCash支持绑定Visa/Mastercard卡
+### 3. Apple Pay正式登陆菲律宾Visa确认
+
+- 来源：Fintech News Philippines
+- 发布时间：2026-08-04
+- 分类：支付与合规
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：菲律宾
+- 事件 Key：apple-pay-philippines-launch
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.ph/72797/digital-payments/apple-pay-philippines-launch-official/](https://fintechnews.ph/72797/digital-payments/apple-pay-philippines-launch-official/)
+
+**摘要**：Apple Pay正式在菲律宾上线，由Visa确认发布。首发支持GoTyme Bank、Metrobank、UnionBank和China Bank的Visa和Mastercard借记卡及信用卡。用户可在iPhone、Apple Watch、iPad和Mac上使用。Jollibee、Shake Shack、Ayala Malls等主流餐饮零售品牌已支持该支付方式。菲律宾央行将Apple Pay定性为"技术服务提供商"而非银行实体，降低了合规门槛。
+
+**信号**：Apple Pay在菲律宾上线，主流餐饮零售品牌已支持，标志着菲律宾无现金支付基础设施进一步成熟
+
+**FLIPOS 判断**：判断：FLIPOS当前Solution Pack未覆盖菲律宾市场，但Apple Pay上线意味着菲律宾POS支付基础设施日趋成熟，可作为东南亚下一步市场扩展的候选评估市场。Apple Pay的普及可能增加餐饮客户对POS支持Tap to Pay on iPhone的需求。
+
+**建议动作**：建议产品团队将菲律宾列入东南亚市场拓展的候选清单，关注当地主流银行和餐饮连锁对非接触式支付的支持情况，评估未来接入Apple Pay作为支付选项的可行性。
+
+### 4. TNG eWallet转型超级App：非支付收入首超半数
+
+- 来源：Fintech News Malaysia
+- 发布时间：2026-08-04
+- 分类：支付与合规
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：马来西亚、东南亚
+- 事件 Key：tng-ewallet-superapp-transition
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.my/60039/videos/tng-ewallet-is-no-longer-a-payments-company-alan-ni-ceo-tng-digital/](https://fintechnews.my/60039/videos/tng-ewallet-is-no-longer-a-payments-company-alan-ni-ceo-tng-digital/)
+
+**摘要**：TNG Digital CEO Alan Ni披露，公司2025年首次实现全年盈利并成为马来西亚首家金融科技独角兽。更关键的是，其收入结构发生根本性转变：支付业务收入占比从75%降至47%，首次低于非支付业务。Alan Ni直言「追逐更多支付市场份额意味着更大亏损」，公司正将TNG eWallet从支付工具重塑为超级App生态平台。
+
+**信号**：马来西亚最大电子钱包TNG eWallet收入结构逆转，支付收入占比降至47%，标志区域电子钱包竞争从支付规模转向生态变现
+
+**FLIPOS 判断**：判断：若TNG eWallet加速向超级App转型并整合更多本地生活服务，FLIPOS在马来西亚市场的支付集成策略需重新评估——单纯接入TNG支付可能不足以满足商户的生态需求，需关注TNG是否开放本地生活API或开放平台接口。
+
+**建议动作**：建议支付团队持续监控TNG Digital的开放平台战略（是否有本地生活/餐饮API开放计划），同时评估其他马来西亚支付渠道（Boost、DuitNow）的优先级，确保支付解决方案的多样性。
+
+### 5. GCash支持绑定Visa/Mastercard卡
 
 - 来源：Fintech News Philippines
 - 发布时间：2026-08-03
