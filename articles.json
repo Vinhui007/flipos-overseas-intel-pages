@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T01:10:45",
-  "count": 828,
+  "generated_at": "2026-08-09T01:01:06",
+  "count": 829,
   "articles": [
     {
       "id": 1,
@@ -19872,6 +19872,30 @@
         "action_level": "可观察",
         "recommended_action": "产品团队可关注餐饮商家对多渠道营销工具的需求，考虑在CRM模块中强化会员触达和促销分发能力，但不需立即投入直邮相关功能。",
         "flipos_impact": "判断：直邮属于线下物理触达渠道，不属于FLIPOS当前数字化SaaS能力范围，但文章反映的'多渠道整合营销'和'本地化精准触达'趋势对FLIPOS CRM模块优化有参考价值。"
+      }
+    },
+    {
+      "id": 829,
+      "title": "True tie-up with university expands AI healthcare",
+      "url": "https://www.bangkokpost.com/business/general/3298334/true-tieup-with-university-expands-ai-healthcare",
+      "source": "Bangkok Post Business",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-08-08T08:10:00",
+      "fetched_at": "2026-08-09T01:00:24",
+      "ai_output": {
+        "short_title": "泰国电信True布局AI医疗",
+        "one_line_signal": "泰国电信运营商True跨界布局AI医疗，与学术机构合作推进智慧医疗",
+        "zh_summary": "泰国电信运营商True Corporation与 Thammasat 大学及 EGG Digital 签署医疗 AI 合作备忘录。这是泰国科技企业在垂直行业 AI 应用的布局，但与餐饮 SaaS、POS 或支付领域无直接关联。FLIPOS 泰国 Solution Pack 中的 LINE、Beam、PromptPay 等能力不受影响。",
+        "category": "AI与自动化",
+        "importance_score": 3,
+        "relevance_score": 1,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "可纳入市场情报监控但不需采取行动，持续关注 True 在泰国数字化市场的其他动向即可。",
+        "flipos_impact": "判断：该事件仅涉及泰国电信企业 AI 医疗布局，与 FLIPOS 餐饮 SaaS、POS 或支付 Solution Pack 无直接关联，不影响泰国市场的现有能力路线。"
       }
     }
   ]
