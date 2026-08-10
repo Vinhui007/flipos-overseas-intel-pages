@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T01:01:06",
-  "count": 829,
+  "generated_at": "2026-08-10T01:01:17",
+  "count": 832,
   "articles": [
     {
       "id": 1,
@@ -19896,6 +19896,78 @@
         "action_level": "可观察",
         "recommended_action": "可纳入市场情报监控但不需采取行动，持续关注 True 在泰国数字化市场的其他动向即可。",
         "flipos_impact": "判断：该事件仅涉及泰国电信企业 AI 医疗布局，与 FLIPOS 餐饮 SaaS、POS 或支付 Solution Pack 无直接关联，不影响泰国市场的现有能力路线。"
+      }
+    },
+    {
+      "id": 830,
+      "title": "Restaurants turn to tech amid worker shortage",
+      "url": "https://www.bangkokpost.com/business/general/3299177/restaurants-turn-to-tech-amid-worker-shortage",
+      "source": "Bangkok Post Business",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-08-10T05:51:00",
+      "fetched_at": "2026-08-10T01:00:12",
+      "ai_output": {
+        "short_title": "泰国劳动力短缺倒逼餐饮技术化",
+        "one_line_signal": "泰国餐饮业因持续劳动力短缺，餐厅经营者加速采用技术替代方案",
+        "zh_summary": "泰国餐厅协会指出劳动力短缺问题悬而未决，业者正通过技术手段缓解人力压力。这对提供 Kiosk 自助点单、云 POS 等自动化解决方案的厂商是明确的市场需求信号，东南亚人力成本上升趋势下技术替代步伐加快。",
+        "category": "餐饮数字化",
+        "importance_score": 7,
+        "relevance_score": 8,
+        "market_tags": "泰国、东南亚",
+        "primary_market": "泰国",
+        "affected_capability": "Kiosk",
+        "action_level": "需评估",
+        "recommended_action": "建议产品团队针对泰国市场优化 Kiosk 方案的人机交互体验，突出其降低人力依赖的核心价值，并在定价策略中体现节人成本效益。",
+        "flipos_impact": "判断：泰国市场对 Kiosk、iPad POS 等替代人工的技术方案需求明确上升，FLIPOS 泰国 Solution Pack 中的 Kiosk 能力可作为核心卖点强化推广。"
+      }
+    },
+    {
+      "id": 831,
+      "title": "BofA and USAA ink patent cross-license agreement",
+      "url": "https://www.finextra.com/newsarticle/48216/bofa-and-usaa-ink-patent-cross-license-agreement",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-08-10T00:01:00",
+      "fetched_at": "2026-08-10T01:00:20",
+      "ai_output": {
+        "short_title": "美国两大银行签署专利互授权协议",
+        "one_line_signal": "美国银行间专利互授权合作，属于传统金融机构的知识产权布局，与餐饮 SaaS 行业无直接关联。",
+        "zh_summary": "Bank of America 与 USAA 签署专利交叉许可协议，允许双方互用对方专利组合。这是美国传统银行之间的知识产权合作，与餐饮 POS、支付基础设施或出海市场拓展无直接关联，对 FLIPOS 的 Solution Pack 落地无实质影响。",
+        "category": "支付与合规",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "合规",
+        "action_level": "可观察",
+        "recommended_action": "建议法务团队记录此事件作为专利许可动态参考，但无需采取任何产品或市场动作；持续关注主要目标市场（东南亚、日本）的支付合规政策变化。",
+        "flipos_impact": "判断：该事件属于美国银行业内部知识产权协议，不涉及支付标准、合规要求或餐饮数字化能力，对 FLIPOS 的 POS、支付回调或任何出海市场的合规需求无直接影响。"
+      }
+    },
+    {
+      "id": 832,
+      "title": "Why Starbucks Was Right to Pull the Plug on Its AI Inventory System",
+      "url": "https://restauranttechnologynews.com/2026/08/why-starbucks-was-right-to-pull-the-plug-on-its-ai-inventory-system/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-08-09T08:57:24",
+      "fetched_at": "2026-08-10T01:00:24",
+      "ai_output": {
+        "short_title": "星巴克AI库存系统9个月下线揭示餐饮AI落地陷阱",
+        "one_line_signal": "星巴克AI库存系统在北美11000店部署9个月后宣告失败，暴露餐饮复杂物理环境下AI视觉识别系统性失效",
+        "zh_summary": "星巴克由NomadGo提供的计算机视觉库存系统在北美超过11000家门店上线仅9个月即被叫停。系统曾宣称比人工快8倍、准确率99%，但实际频繁出现误计、误标，员工反馈宁愿相信门店伙伴而非不可靠的空间识别。案例揭示餐饮高变异性物理环境对AI系统的根本性挑战。",
+        "category": "AI与自动化",
+        "importance_score": 7,
+        "relevance_score": 4,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "POS",
+        "action_level": "可观察",
+        "recommended_action": "产品团队在评估AI功能时，应将「员工验证负担」和「复杂物理环境适配」纳入技术选型核心指标，避免重蹈星巴克将验证成本转嫁给一线员工的覆辙。",
+        "flipos_impact": "判断：FLIPOS若在东南亚/日本市场推进任何涉及AI视觉识别的新功能（如自助识别菜品、自动盘点等），此案例提醒需在小规模试点验证员工接受度和环境适配性，而非盲目追求覆盖门店数量。"
       }
     }
   ]
