@@ -1,6 +1,6 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-08-10 09:01
+- 生成时间：2026-08-11 09:03
 - 48 小时重点：1 个
 - 14 天趋势：10 个
 - 补充观察：5 个
@@ -97,27 +97,7 @@
 
 **建议动作**：建议支付团队确认新加坡合作支付渠道（如Adyen）是否为Code Adherent；同时评估FLIPOS POS点单流程中费用展示是否满足透明披露要求；法务团队可将该准则纳入新加坡市场合规基线。
 
-### 4. KPay 获新加坡 MPI 牌照原则性批准
-
-- 来源：Fintech News Hong Kong
-- 发布时间：2026-07-27
-- 分类：支付与合规
-- 重要性：7/10
-- 相关性：8/10
-- 市场标签：新加坡、日本、香港、澳大利亚、全球
-- 事件 Key：kpay-mas-mpi-license-approval
-- 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.hk/39839/payments/kpay-mas-major-payments-institution-licence/](https://fintechnews.hk/39839/payments/kpay-mas-major-payments-institution-licence/)
-
-**摘要**：KPay 获得新加坡 MAS 的 MPI 牌照原则性批准，将扩大支付服务范围。KPay 在新加坡已服务超 10,000 家中小企餐饮零售商户，以新加坡为亚太扩张模板。其 POS + 支付 + AI 分析的整合模式与 FLIPOS 在日本市场存在直接竞争关系，需评估其技术能力与合作空间。
-
-**信号**：持牌支付机构 KPay 整合 POS 与支付服务，加速餐饮零售中小企业市场扩张
-
-**FLIPOS 判断**：判断：KPay 获得新加坡 MPI 牌照后可能加速亚太区扩张，其 POS + 支付整合服务模式与 FLIPOS 在日本市场的 KPay 合作伙伴关系存在潜在竞争或合作空间，需评估 KPay 的技术能力和市场定价策略。
-
-**建议动作**：产品与支付团队应评估 KPay 在新加坡的合规进展对日本市场合作的影响，识别其 POS 能力是否构成直接竞争，并考虑是否需要在东南亚市场建立备选支付合作伙伴关系。
-
-### 5. 香港FPS系统8月9日停机10小时
+### 4. 香港FPS系统8月9日停机10小时
 
 - 来源：Fintech News Hong Kong
 - 发布时间：2026-08-03
@@ -137,7 +117,7 @@
 
 **建议动作**：产品团队应提前向港澳商家推送FPS维护通知，建议商家在维护窗口期启用现金或其他非FPS支付方式，并确认支付回调异常处理流程是否完备。
 
-### 6. 机器人Kiosk市场2036年预计超17.5亿美元
+### 5. 机器人Kiosk市场2036年预计超17.5亿美元
 
 - 来源：Fast Casual
 - 发布时间：2026-07-28
@@ -156,7 +136,7 @@
 
 **建议动作**：建议产品团队在Kiosk路线图中考虑与自动化/机器人技术的融合可能，保持产品竞争力
 
-### 7. 稳定币支付基础设施提速
+### 6. 稳定币支付基础设施提速
 
 - 来源：Fintech News Singapore
 - 发布时间：2026-07-29
@@ -175,7 +155,7 @@
 
 **建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
 
-### 8. Uber创始人Atoms融资17亿美元整合餐饮全链条
+### 7. Uber创始人Atoms融资17亿美元整合餐饮全链条
 
 - 来源：Restaurant Technology News
 - 发布时间：2026-08-01
@@ -195,7 +175,7 @@
 
 **建议动作**：建议产品团队持续关注Atoms/Otter在北美连锁餐饮的渗透速度，评估FLIPOS在POS与外卖聚合能力上的竞争壁垒是否需要强化。
 
-### 9. 马来西亚TNG电子钱包盈利困境与多元化转型启示
+### 8. 马来西亚TNG电子钱包盈利困境与多元化转型启示
 
 - 来源：Fintech News Malaysia
 - 发布时间：2026-08-07
@@ -215,7 +195,7 @@
 
 **建议动作**：建议产品团队在设计东南亚Solution Pack时，考虑将支付接入作为获客入口而非主要变现点，通过B2B商户服务和数据洞察能力实现收入多元化。支付团队可评估TNG跨境支付、Beam等本地钱包的商户端开放API深度，寻找合作而非接入的机会。
 
-### 10. Toast 加码餐饮 AI 集成策略
+### 9. Toast 加码餐饮 AI 集成策略
 
 - 来源：Payments Dive
 - 发布时间：2026-08-05
@@ -234,6 +214,26 @@
 **FLIPOS 判断**：判断：Toast 的 AI 驱动策略若在海外市场推广，可能对 FLIPOS 的 iPad POS 产品差异化构成竞争压力，尤其在东南亚高竞争市场需关注对方功能迭代。
 
 **建议动作**：建议产品团队将 AI 辅助运营能力（如智能排班、库存预测）纳入 Solution Pack 路线图优先级评估，作为中长期竞争壁垒储备。
+
+### 10. Chili's大规模iPad POS投资背后的设备现代化趋势
+
+- 来源：Restaurant Technology News
+- 发布时间：2026-08-01
+- 分类：竞品动态
+- 重要性：6/10
+- 相关性：7/10
+- 市场标签：美国
+- 事件 Key：chilis-ipad-pos-device-rollout
+- 来源类型：新闻/RSS
+- 原文/页面：[https://restauranttechnologynews.com/2026/08/chilis-invests-in-23000-ipads-and-9000-kitchen-screens-as-it-takes-a-selective-approach-to-ai/](https://restauranttechnologynews.com/2026/08/chilis-invests-in-23000-ipads-and-9000-kitchen-screens-as-it-takes-a-selective-approach-to-ai/)
+
+**摘要**：Chili's在CIO Caldwell带领下投入约23,000台iPad和9,000块厨房屏，核心动作是重建网络基础设施而非追逐AI概念。Chili's认为Wi-Fi稳定性和设备可靠性是提升员工效率和顾客体验的前提，策略上选择'先打好基础、再考虑自动化'。这对餐饮SaaS的iPad POS和KDS产品需求提供了有力验证。
+
+**信号**：美国连锁餐饮Chili's选择优先升级基础设备和网络，而非急于上马AI
+
+**FLIPOS 判断**：判断：Chili's的案例印证了iPad点单和KDS在北美连锁的落地可行性，FLIPOS若拓展北美iPad POS可参考其对设备可靠性和网络基础的重度依赖需求。
+
+**建议动作**：建议产品团队在北美iPad POS规划中，将网络稳定性和设备生命周期管理纳入标准方案考量。
 
 ## 补充观察
 
