@@ -1,7 +1,7 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-08-12 09:06
-- 48 小时重点：2 个
+- 生成时间：2026-08-13 09:06
+- 48 小时重点：3 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,33 +9,52 @@
 
 ## 今日摘要
 
-- 今日重点：2 条
-- 高重要性：0 条
+- 今日重点：3 条
+- 高重要性：1 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
 
-### 1. 泰国劳动力短缺倒逼餐饮技术化
+### 1. States lean in on payments plays
 
-- 来源：Bangkok Post Business
-- 发布时间：2026-08-10
-- 分类：餐饮数字化
-- 重要性：7/10
+- 来源：Payments Dive
+- 发布时间：2026-08-12
+- 分类：支付与合规
+- 重要性：8/10
 - 相关性：8/10
-- 市场标签：泰国、东南亚
-- 事件 Key：thai-restaurant-labor-tech
+- 事件 Key：states-lean-in-on-payments-plays
 - 来源类型：新闻/RSS
-- 原文/页面：[https://www.bangkokpost.com/business/general/3299177/restaurants-turn-to-tech-amid-worker-shortage](https://www.bangkokpost.com/business/general/3299177/restaurants-turn-to-tech-amid-worker-shortage)
+- 原文/页面：[https://www.paymentsdive.com/news/states-lean-into-payments-oversight-earned-wage-access-bnpl-regulation/827633/](https://www.paymentsdive.com/news/states-lean-into-payments-oversight-earned-wage-access-bnpl-regulation/827633/)
 
-**摘要**：泰国餐厅协会指出劳动力短缺问题悬而未决，业者正通过技术手段缓解人力压力。这对提供 Kiosk 自助点单、云 POS 等自动化解决方案的厂商是明确的市场需求信号，东南亚人力成本上升趋势下技术替代步伐加快。
+**摘要**：【Mock】States lean in on payments plays。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
 
-**信号**：泰国餐饮业因持续劳动力短缺，餐厅经营者加速采用技术替代方案
+**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
 
-**FLIPOS 判断**：判断：泰国市场对 Kiosk、iPad POS 等替代人工的技术方案需求明确上升，FLIPOS 泰国 Solution Pack 中的 Kiosk 能力可作为核心卖点强化推广。
+**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
 
-**建议动作**：建议产品团队针对泰国市场优化 Kiosk 方案的人机交互体验，突出其降低人力依赖的核心价值，并在定价策略中体现节人成本效益。
+**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
 
-### 2. 印度UPI出海瞄准日马巴林
+### 2. Coins.ph集成Tempo稳定币支付
+
+- 来源：Fintech News Philippines
+- 发布时间：2026-08-12
+- 分类：支付与合规
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：菲律宾、全球
+- 事件 Key：stablecoin-payment-infra
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.ph/73006/blockchain/coins-ph-stablecoin-tempo-usdt-usdc-transfers/](https://fintechnews.ph/73006/blockchain/coins-ph-stablecoin-tempo-usdt-usdc-transfers/)
+
+**摘要**：Coins.ph 集成了 Stripe 和 Paradigm 孵化的 Tempo 区块链，支持 USDT/USDC 半秒跨境转账，涵盖零售支付、商业支付和汇款场景。Tempo 提供专用支付通道和稳定币 gas 费，降低商户和消费者使用门槛。这是稳定币支付进入菲律宾主流金融的关键信号，可能影响未来餐饮跨境收款的支付通道选择。
+
+**信号**：主流支付平台 Coins.ph 接入 Stripe 孵化的稳定币区块链，跨境支付进入半秒结算时代
+
+**FLIPOS 判断**：判断：Coins.ph 在菲律宾拥有大量用户基础，若稳定币支付在餐饮零售场景普及，FLIPOS 可能需要评估是否支持相关支付通道；目前对港澳/新/日/泰 Solution Pack 无直接冲击，但长期需关注稳定币支付在东南亚的落地节奏。
+
+**建议动作**：支付团队持续关注 Coins.ph 稳定币支付生态进展，评估是否需要提前规划稳定币收款能力；同时监测 Tempo 在菲律宾的 Validator 生态和合规政策走向。
+
+### 3. 印度UPI出海瞄准日马巴林
 
 - 来源：Fintech News Singapore
 - 发布时间：2026-08-11
@@ -97,7 +116,27 @@
 
 **建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
 
-### 3. 新加坡发布自愿支付准则强化定价透明与欺诈防护
+### 3. 泰国劳动力短缺倒逼餐饮技术化
+
+- 来源：Bangkok Post Business
+- 发布时间：2026-08-10
+- 分类：餐饮数字化
+- 重要性：7/10
+- 相关性：8/10
+- 市场标签：泰国、东南亚
+- 事件 Key：thai-restaurant-labor-tech
+- 来源类型：新闻/RSS
+- 原文/页面：[https://www.bangkokpost.com/business/general/3299177/restaurants-turn-to-tech-amid-worker-shortage](https://www.bangkokpost.com/business/general/3299177/restaurants-turn-to-tech-amid-worker-shortage)
+
+**摘要**：泰国餐厅协会指出劳动力短缺问题悬而未决，业者正通过技术手段缓解人力压力。这对提供 Kiosk 自助点单、云 POS 等自动化解决方案的厂商是明确的市场需求信号，东南亚人力成本上升趋势下技术替代步伐加快。
+
+**信号**：泰国餐饮业因持续劳动力短缺，餐厅经营者加速采用技术替代方案
+
+**FLIPOS 判断**：判断：泰国市场对 Kiosk、iPad POS 等替代人工的技术方案需求明确上升，FLIPOS 泰国 Solution Pack 中的 Kiosk 能力可作为核心卖点强化推广。
+
+**建议动作**：建议产品团队针对泰国市场优化 Kiosk 方案的人机交互体验，突出其降低人力依赖的核心价值，并在定价策略中体现节人成本效益。
+
+### 4. 新加坡发布自愿支付准则强化定价透明与欺诈防护
 
 - 来源：Fintech News Singapore
 - 发布时间：2026-08-03
@@ -117,7 +156,7 @@
 
 **建议动作**：建议支付团队确认新加坡合作支付渠道（如Adyen）是否为Code Adherent；同时评估FLIPOS POS点单流程中费用展示是否满足透明披露要求；法务团队可将该准则纳入新加坡市场合规基线。
 
-### 4. 香港FPS系统8月9日停机10小时
+### 5. 香港FPS系统8月9日停机10小时
 
 - 来源：Fintech News Hong Kong
 - 发布时间：2026-08-03
@@ -136,25 +175,6 @@
 **FLIPOS 判断**：判断：港澳Solution Pack中的MPay等依赖FPS的支付集成将受影响，餐饮商家在此期间可能无法正常收款，需评估是否触发支付回调异常告警逻辑。
 
 **建议动作**：产品团队应提前向港澳商家推送FPS维护通知，建议商家在维护窗口期启用现金或其他非FPS支付方式，并确认支付回调异常处理流程是否完备。
-
-### 5. 稳定币支付基础设施提速
-
-- 来源：Fintech News Singapore
-- 发布时间：2026-07-29
-- 分类：餐饮数字化
-- 重要性：7/10
-- 相关性：7/10
-- 事件 Key：visa-records-us-3-7-billion-in-stablecoin-card-volume-across-200-markets
-- 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.sg/135022/digitalassets/visa-stablecoin-volume/](https://fintechnews.sg/135022/digitalassets/visa-stablecoin-volume/)
-
-**摘要**：【Mock】Visa Records US$3.7 Billion in Stablecoin Card Volume Across 200 Markets。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
-
-**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
-
-**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
-
-**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
 
 ### 6. Uber创始人Atoms融资17亿美元整合餐饮全链条
 
