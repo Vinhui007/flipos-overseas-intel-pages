@@ -1,7 +1,7 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-08-14 09:07
-- 48 小时重点：6 个
+- 生成时间：2026-08-15 09:05
+- 48 小时重点：5 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,30 +9,31 @@
 
 ## 今日摘要
 
-- 今日重点：6 条
-- 高重要性：1 条
+- 今日重点：5 条
+- 高重要性：0 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
 
-### 1. States lean in on payments plays
+### 1. 泰国央行加强非银支付监管
 
-- 来源：Payments Dive
-- 发布时间：2026-08-12
+- 来源：Bangkok Post Business
+- 发布时间：2026-08-15
 - 分类：支付与合规
-- 重要性：8/10
+- 重要性：7/10
 - 相关性：8/10
-- 事件 Key：states-lean-in-on-payments-plays
+- 市场标签：泰国
+- 事件 Key：thailand-nonbank-payment-regulation
 - 来源类型：新闻/RSS
-- 原文/页面：[https://www.paymentsdive.com/news/states-lean-into-payments-oversight-earned-wage-access-bnpl-regulation/827633/](https://www.paymentsdive.com/news/states-lean-into-payments-oversight-earned-wage-access-bnpl-regulation/827633/)
+- 原文/页面：[https://www.bangkokpost.com/business/general/3301915/central-bank-steps-up-nonbank-oversight](https://www.bangkokpost.com/business/general/3301915/central-bank-steps-up-nonbank-oversight)
 
-**摘要**：【Mock】States lean in on payments plays。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
+**摘要**：泰国央行宣布加强对非银行机构贷款和支付服务的监管，要求确保消费者公平待遇、遏制异常交易。此举意味着在泰运营的餐饮商户使用非银支付渠道（如Beam、PromptPay等）需更关注合作方的合规资质，合规成本可能上升。建议在泰国落地的餐饮SaaS产品提前评估支付合作方的监管状态。
 
-**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
+**信号**：泰国央行收紧非银支付服务监管，商户接入本地支付需评估合规风险
 
-**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
+**FLIPOS 判断**：判断：泰国市场若落地Solution Pack，对接Beam、PromptPay等本地支付时需验证合作方是否满足央行新监管要求，避免合规风险影响商户使用体验。
 
-**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
+**建议动作**：建议法务团队持续跟踪泰国央行后续细则，确认现有支付合作方的合规状态；产品团队在泰国支付集成设计时预留合规校验接口。
 
 ### 2. Lightspeed 强调 40% 速度优势
 
@@ -113,31 +114,30 @@
 
 **建议动作**：建议支付团队将其作为东南亚移动收单趋势观察，评估手机POS模式与FLIPOS iPad POS在东南亚中小商户场景的互补性，暂不纳入当前开发计划。
 
-### 6. Coins.ph集成Tempo稳定币支付
-
-- 来源：Fintech News Philippines
-- 发布时间：2026-08-12
-- 分类：支付与合规
-- 重要性：7/10
-- 相关性：6/10
-- 市场标签：菲律宾、全球
-- 事件 Key：stablecoin-payment-infra
-- 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.ph/73006/blockchain/coins-ph-stablecoin-tempo-usdt-usdc-transfers/](https://fintechnews.ph/73006/blockchain/coins-ph-stablecoin-tempo-usdt-usdc-transfers/)
-
-**摘要**：Coins.ph 集成了 Stripe 和 Paradigm 孵化的 Tempo 区块链，支持 USDT/USDC 半秒跨境转账，涵盖零售支付、商业支付和汇款场景。Tempo 提供专用支付通道和稳定币 gas 费，降低商户和消费者使用门槛。这是稳定币支付进入菲律宾主流金融的关键信号，可能影响未来餐饮跨境收款的支付通道选择。
-
-**信号**：主流支付平台 Coins.ph 接入 Stripe 孵化的稳定币区块链，跨境支付进入半秒结算时代
-
-**FLIPOS 判断**：判断：Coins.ph 在菲律宾拥有大量用户基础，若稳定币支付在餐饮零售场景普及，FLIPOS 可能需要评估是否支持相关支付通道；目前对港澳/新/日/泰 Solution Pack 无直接冲击，但长期需关注稳定币支付在东南亚的落地节奏。
-
-**建议动作**：支付团队持续关注 Coins.ph 稳定币支付生态进展，评估是否需要提前规划稳定币收款能力；同时监测 Tempo 在菲律宾的 Validator 生态和合规政策走向。
-
 ## 14 天趋势
 
 以下内容不是今日新增，但可用于判断连续变化。
 
-### 1. Cloudflare Launches Wallets and Identity Tools for AI Agent 
+### 1. States lean in on payments plays
+
+- 来源：Payments Dive
+- 发布时间：2026-08-12
+- 分类：支付与合规
+- 重要性：8/10
+- 相关性：8/10
+- 事件 Key：states-lean-in-on-payments-plays
+- 来源类型：新闻/RSS
+- 原文/页面：[https://www.paymentsdive.com/news/states-lean-into-payments-oversight-earned-wage-access-bnpl-regulation/827633/](https://www.paymentsdive.com/news/states-lean-into-payments-oversight-earned-wage-access-bnpl-regulation/827633/)
+
+**摘要**：【Mock】States lean in on payments plays。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
+
+**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
+
+**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
+
+**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
+
+### 2. Cloudflare Launches Wallets and Identity Tools for AI Agent 
 
 - 来源：Fintech News Singapore
 - 发布时间：2026-08-05
@@ -149,25 +149,6 @@
 - 原文/页面：[https://fintechnews.sg/135413/ai/cloudflare-wallets-ai-agent-stablecoin-payments/](https://fintechnews.sg/135413/ai/cloudflare-wallets-ai-agent-stablecoin-payments/)
 
 **摘要**：【Mock】Cloudflare Launches Wallets and Identity Tools for AI Agent Commerce。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
-
-**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
-
-**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
-
-**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
-
-### 2. Co-payment scheme offers limited boost
-
-- 来源：Bangkok Post Business
-- 发布时间：2026-07-31
-- 分类：支付与合规
-- 重要性：8/10
-- 相关性：8/10
-- 事件 Key：co-payment-scheme-offers-limited-boost
-- 来源类型：新闻/RSS
-- 原文/页面：[https://www.bangkokpost.com/business/general/3294127/copayment-scheme-offers-limited-boost](https://www.bangkokpost.com/business/general/3294127/copayment-scheme-offers-limited-boost)
-
-**摘要**：【Mock】Co-payment scheme offers limited boost。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
 
 **信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
 
@@ -315,25 +296,25 @@
 
 **建议动作**：建议产品团队在北美iPad POS规划中，将网络稳定性和设备生命周期管理纳入标准方案考量。
 
-### 10. 印度UPI出海瞄准日马巴林
+### 10. Coins.ph集成Tempo稳定币支付
 
-- 来源：Fintech News Singapore
-- 发布时间：2026-08-11
+- 来源：Fintech News Philippines
+- 发布时间：2026-08-12
 - 分类：支付与合规
 - 重要性：7/10
 - 相关性：6/10
-- 市场标签：新加坡、日本、马来西亚、印度、全球
-- 事件 Key：upi-overseas-expansion
+- 市场标签：菲律宾、全球
+- 事件 Key：stablecoin-payment-infra
 - 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.sg/135603/fintech-india/upi-overseas/](https://fintechnews.sg/135603/fintech-india/upi-overseas/)
+- 原文/页面：[https://fintechnews.ph/73006/blockchain/coins-ph-stablecoin-tempo-usdt-usdc-transfers/](https://fintechnews.ph/73006/blockchain/coins-ph-stablecoin-tempo-usdt-usdc-transfers/)
 
-**摘要**：印度修订数字支付法规，将支付方式保护的决定权从税法转移到政府单独通知；NPCI正与日本、马来西亚、巴林谈判，目标十年内扩展至15-20个市场。UPI已在新加坡、法国、阿联酋等9国落地，支持跨境汇款。
+**摘要**：Coins.ph 集成了 Stripe 和 Paradigm 孵化的 Tempo 区块链，支持 USDT/USDC 半秒跨境转账，涵盖零售支付、商业支付和汇款场景。Tempo 提供专用支付通道和稳定币 gas 费，降低商户和消费者使用门槛。这是稳定币支付进入菲律宾主流金融的关键信号，可能影响未来餐饮跨境收款的支付通道选择。
 
-**信号**：印度国家支付公司积极推动UPI跨境扩张，新加坡作为已有落地的市场，其餐饮商家对UPI的接受度可能影响FLIPOS商户的支付集成需求
+**信号**：主流支付平台 Coins.ph 接入 Stripe 孵化的稳定币区块链，跨境支付进入半秒结算时代
 
-**FLIPOS 判断**：判断：UPI若在新加坡餐饮场景深入落地，可能出现商户接入UPI收单的集成需求，但FLIPOS当前Solution Pack未涉及UPI，该需求属于潜在机会而非直接命中。
+**FLIPOS 判断**：判断：Coins.ph 在菲律宾拥有大量用户基础，若稳定币支付在餐饮零售场景普及，FLIPOS 可能需要评估是否支持相关支付通道；目前对港澳/新/日/泰 Solution Pack 无直接冲击，但长期需关注稳定币支付在东南亚的落地节奏。
 
-**建议动作**：建议支付团队关注新加坡UPI商户落地进展，若形成规模化的餐厅收款场景，可评估是否将UPI纳入POS支付通道选项。原文未说明对现有支付监管框架的直接影响，保持观察即可。
+**建议动作**：支付团队持续关注 Coins.ph 稳定币支付生态进展，评估是否需要提前规划稳定币收款能力；同时监测 Tempo 在菲律宾的 Validator 生态和合规政策走向。
 
 ## 补充观察
 
@@ -418,22 +399,21 @@
 
 **建议动作**：支付团队应加速与印度UPI及本地银行通道的接入测试，产品团队可针对印度餐饮中小商户设计轻量化SoftPOS功能模块，市场团队可优先布局德里、孟买等一线城市示范案例。
 
-### 5. PayNow Gen2 QR互联升级
+### 5. Co-payment scheme offers limited boost
 
-- 来源：Fintech News Singapore
-- 发布时间：2026-07-09
+- 来源：Bangkok Post Business
+- 发布时间：2026-07-31
 - 分类：支付与合规
 - 重要性：8/10
 - 相关性：8/10
-- 市场标签：新加坡
-- 事件 Key：paynow-gen2-qr-interoperability
+- 事件 Key：co-payment-scheme-offers-limited-boost
 - 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.sg/133698/payments/paynow-gen-2-singapore-qr-interoperability/](https://fintechnews.sg/133698/payments/paynow-gen-2-singapore-qr-interoperability/)
+- 原文/页面：[https://www.bangkokpost.com/business/general/3294127/copayment-scheme-offers-limited-boost](https://www.bangkokpost.com/business/general/3294127/copayment-scheme-offers-limited-boost)
 
-**摘要**：MAS与ABS推进PayNow Gen2第二阶段研究，计划年底前实现PayNow与NETS QR互操作性，覆盖90%成年人口、处理S$3010亿年交易额的PayNow正深化企业级场景，解决商户支付摩擦和跨场景对账需求。
+**摘要**：【Mock】Co-payment scheme offers limited boost。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
 
-**信号**：新加坡推动PayNow与NETS QR年底前互通，实现一扫通用支付
+**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
 
-**FLIPOS 判断**：新加坡商户的支付基础设施升级可能需要调整POS系统的QR码处理逻辑，支持PayNow和NETS的混合支付场景，影响支付回调和商户对账流程。
+**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
 
-**建议动作**：评估PayNow Gen2 QR互通的实施时间表，了解NETS QR互操作的具体技术要求，提前与Adyen等支付合作伙伴沟通集成可能性。
+**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
