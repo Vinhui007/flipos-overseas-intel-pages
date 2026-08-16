@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T01:05:10",
-  "count": 920,
+  "generated_at": "2026-08-16T01:01:01",
+  "count": 921,
   "articles": [
     {
       "id": 1,
@@ -22080,6 +22080,30 @@
         "action_level": "可观察",
         "recommended_action": "建议市场团队持续关注交易进展及Stripe后续整合策略，评估未来是否需考虑将Stripe作为全球化支付备选方案纳入评估范围。",
         "flipos_impact": "判断：PayPal并非FLIPOS当前Solution Pack核心支付伙伴，此交易对FLIPOS海外业务短期内无直接影响；但若Stripe整合PayPal后推出更强一体化支付方案，可能成为未来竞合考量因素。"
+      }
+    },
+    {
+      "id": 921,
+      "title": "Four 'unlocks' to drive Thailand's sustainable growth",
+      "url": "https://www.bangkokpost.com/business/general/3302445/four-unlocks-to-drive-thailands-sustainable-growth",
+      "source": "Bangkok Post Business",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-08-16T05:42:00",
+      "fetched_at": "2026-08-16T01:00:17",
+      "ai_output": {
+        "short_title": "泰国公布四大可持续增长优先领域",
+        "one_line_signal": "泰国政府将可持续增长列为经济政策核心，暗示外资餐饮企业需关注当地ESG合规与供应链合规要求",
+        "zh_summary": "泰国副总理兼商务部长公布四大可持续增长优先领域，当前全球贸易面临地缘政治、科技壁垒、供应链重构等不确定性。虽未涉及餐饮 SaaS 细分领域，但政策风向可能影响泰国餐饮行业的外资准入门槛与运营合规标准。",
+        "category": "出海市场动态",
+        "importance_score": 5,
+        "relevance_score": 2,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队持续追踪泰国商务部后续细则发布，评估若 ESG 合规要求延伸至餐饮行业时，对现有 CRM 与数据合规能力的潜在影响。暂无需启动专项评估。",
+        "flipos_impact": "判断：文章属于泰国宏观政策风向标，与 FLIPOS 泰国 Solution Pack 无直接关联，但可持续增长政策若逐步落地为餐饮行业 ESG 规范，可能需在合规模块提前布局。"
       }
     }
   ]
