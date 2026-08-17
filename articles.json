@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T01:01:01",
-  "count": 921,
+  "generated_at": "2026-08-17T01:02:38",
+  "count": 927,
   "articles": [
     {
       "id": 1,
@@ -22104,6 +22104,150 @@
         "action_level": "可观察",
         "recommended_action": "建议市场团队持续追踪泰国商务部后续细则发布，评估若 ESG 合规要求延伸至餐饮行业时，对现有 CRM 与数据合规能力的潜在影响。暂无需启动专项评估。",
         "flipos_impact": "判断：文章属于泰国宏观政策风向标，与 FLIPOS 泰国 Solution Pack 无直接关联，但可持续增长政策若逐步落地为餐饮行业 ESG 规范，可能需在合规模块提前布局。"
+      }
+    },
+    {
+      "id": 922,
+      "title": "Merchants take aim  at platform giants",
+      "url": "https://www.bangkokpost.com/business/general/3302857/merchants-take-aim-at-platform-giants",
+      "source": "Bangkok Post Business",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-08-17T06:08:00",
+      "fetched_at": "2026-08-17T01:00:13",
+      "ai_output": {
+        "short_title": "泰国商家请愿调查电商平台垄断行为",
+        "one_line_signal": "泰国本地商家向监管机构请愿，平台与商家之间的利益冲突正在激化",
+        "zh_summary": "泰国本地电商商家向贸易竞争委员会（TCCT）请愿，要求调查主要在线市场的反竞争行为。此事件反映平台寡头与商家之间的矛盾正在升级，若监管介入，可能影响Foodpanda、Line等外卖平台在泰国的运营规则和费率结构，餐饮商家需关注政策走向。",
+        "category": "本地生活平台",
+        "importance_score": 7,
+        "relevance_score": 6,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "外卖",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队关注TCCT调查进展，评估对泰国Foodpanda合作商家的潜在影响，可与本地合作伙伴沟通了解平台费率变化趋势。",
+        "flipos_impact": "判断：若泰国监管机构对平台采取行动，可能影响Foodpanda等外卖平台在当地的费率或运营规则，间接影响使用FLIPOS接入这些平台的餐饮商家的外卖业务成本。"
+      }
+    },
+    {
+      "id": 923,
+      "title": "National Australia Bank’s Q3 cash earnings rise as lower impairments offset slower home lending",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/national-australia-banks-q3-cash-earnings-rise-lower-impairments-offset-slower-home-lending",
+      "source": "Business Times Banking Finance",
+      "region": "Singapore",
+      "domain": "local_business",
+      "published_at": "2026-08-17T00:17:28",
+      "fetched_at": "2026-08-17T01:00:14",
+      "ai_output": {
+        "short_title": "澳洲国民银行Q3现金收益同比增长",
+        "one_line_signal": "澳洲国民银行季度财报发布，减值拨备下降推动盈利增长",
+        "zh_summary": "澳大利亚国民银行（NAB）公布第三财季现金收益18.3亿澳元，较低的减值损失抵消了住房贷款增速放缓的影响。该银行财报表现反映澳洲大型银行抗风险能力尚可，但与餐饮SaaS、POS或支付行业无直接关联。",
+        "category": "出海市场动态",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "澳大利亚、新加坡",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "可忽略此类银行业财报，除非未来有银行合作或金融基础设施相关的业务探索计划，否则无需分配资源跟进。",
+        "flipos_impact": "判断：本文属澳洲大型商业银行常规财报披露，与FLIPOS餐饮SaaS、POS终端、支付网关或任何出海Solution Pack无业务关联，无需跟进。"
+      }
+    },
+    {
+      "id": 924,
+      "title": "UOB’s digital wealth sales, transactions jump almost 50% as clients invest more online",
+      "url": "https://www.businesstimes.com.sg/companies-markets/uobs-digital-wealth-sales-transactions-jump-almost-50-clients-invest-more-online",
+      "source": "Business Times Banking Finance",
+      "region": "Singapore",
+      "domain": "local_business",
+      "published_at": "2026-08-16T23:00:00",
+      "fetched_at": "2026-08-17T01:00:14",
+      "ai_output": {
+        "short_title": "UOB数字财富销售增长近50%",
+        "one_line_signal": "新加坡银行业数字化财富管理高速增长，反映消费者数字化理财行为深化",
+        "zh_summary": "UOB数字财富销售及交易量增长近50%，年轻成人平均一次性投资约4000新元，专业人士约8000新元。该新闻属于新加坡零售银行业动态，与餐饮SaaS/POS/支付业务无直接关联，但反映了狮城消费者数字化金融行为趋于成熟。",
+        "category": "支付与合规",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "可关注新加坡消费者数字化金融行为趋势，但无需针对本文采取具体行动。",
+        "flipos_impact": "判断：该新闻属新加坡零售银行财富管理领域，与FLIPOS餐饮SaaS/POS/支付集成业务无直接关联，无需产品路线调整。"
+      }
+    },
+    {
+      "id": 925,
+      "title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users’ order information",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/crypto-wallet-provider-safepal-discloses-data-breach-affecting-nearly-40000-users-order-information",
+      "source": "Business Times Banking Finance",
+      "region": "Singapore",
+      "domain": "local_business",
+      "published_at": "2026-08-16T21:54:30",
+      "fetched_at": "2026-08-17T01:00:14",
+      "ai_output": {
+        "short_title": "加密钱包SafePal泄露4万用户订单数据",
+        "one_line_signal": "加密货币钱包数据安全事件再次发生，对传统餐饮支付基础设施信任度提出警示",
+        "zh_summary": "加密货币钱包提供商SafePal披露数据泄露事件，约4万名用户的订单信息受到影响，公司称已修复问题。此事件发生在新加坡媒体Business Times，由FT加密团队报道。反映了数字支付生态中数据安全风险持续存在，虽非餐饮SaaS直接场景，但对支付回调和数据合规机制的设计具有警示意义。",
+        "category": "风险预警",
+        "importance_score": 5,
+        "relevance_score": 2,
+        "market_tags": "新加坡、全球",
+        "primary_market": "新加坡",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议基建团队持续关注加密支付集成场景的安全合规要求，在支付回调和数据加密机制上保持高标准，暂无需立即采取行动但纳入长期风险监控。",
+        "flipos_impact": "判断：SafePal是加密货币钱包服务商，与FLIPOS餐饮SaaS支付基础设施无直接交集，但若餐饮商户未来探索加密支付集成，此类数据安全事件需纳入风险评估框架。"
+      }
+    },
+    {
+      "id": 926,
+      "title": "Western Union gets New York nod for Intermax acquisition; still face California hurdles",
+      "url": "https://www.finextra.com/newsarticle/48252/western-union-gets-new-york-nod-for-intermax-acquisition-still-face-california-hurdles",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-08-17T00:01:00",
+      "fetched_at": "2026-08-17T01:00:19",
+      "ai_output": {
+        "short_title": "Western Union收购Intermax获纽约批准",
+        "one_line_signal": "传统汇款巨头并购扩张，但多州监管审批成障碍",
+        "zh_summary": "Western Union获纽约州批准收购竞争对手Intermax，前提是三年内维持网点数量并限制手续费上涨。该交易仍需加州监管点头，反映汇款行业整合加速及监管对消费者权益保护的持续关注。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 2,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议法务团队归档此案例作为跨境汇款监管参考，暂无需针对FLIPOS产品采取行动。支付团队可观察大型汇款机构的合规承诺模式。 ",
+        "flipos_impact": "判断：此新闻与FLIPOS餐饮SaaS业务直接关联度较低。Western Union主要服务个人跨境汇款，与FLIPOS面向餐饮商家的支付/POS集成不在同一赛道，可作为跨境支付监管趋势的外部参考但不需跟进。"
+      }
+    },
+    {
+      "id": 927,
+      "title": "Polygon joins BofE's Digital Pound Lab to test cross-border settlement",
+      "url": "https://www.finextra.com/newsarticle/48253/polygon-joins-bofes-digital-pound-lab-to-test-cross-border-settlement",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-08-17T00:01:00",
+      "fetched_at": "2026-08-17T01:00:19",
+      "ai_output": {
+        "short_title": "Polygon加入英国央行数字英镑实验室测跨境结算",
+        "one_line_signal": "主流公链参与央行数字货币跨境结算实验，传统金融与Web3支付基础设施加速融合",
+        "zh_summary": "Polygon Labs加入英国央行数字英镑实验室第二阶段，与Nobo Finance、Dun & Bradstreet共同测试近实时跨境结算。该实验标志着CBDC与区块链技术在跨境支付领域的可行性验证正在推进，但对FLIPOS餐饮SaaS的东南亚和东亚市场暂无直接关联。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 2,
+        "market_tags": "英国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议支付团队保持对CBDC跨境结算标准化进展的跟踪，但暂不纳入当前Solution Pack的开发计划，可作为12-18个月后的技术储备研究方向。",
+        "flipos_impact": "判断：当前该实验聚焦英国主权数字货币与区块链公链的跨境结算技术验证，与FLIPOS东南亚/东亚市场的Adyen、GrabPay、MPay等现有支付方案无直接交集，但长期可能影响全球支付基础设施走向。"
       }
     }
   ]
