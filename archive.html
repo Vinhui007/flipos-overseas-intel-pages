@@ -95,9 +95,9 @@
     </div>
     <p class="subtitle">保留通过质量门槛的完整情报，用于检索历史事件和连续趋势。</p>
     <div class="metrics">
-      <span class="pill">归档：180 篇</span>
-      <span class="pill">已分析：945 篇</span>
-      <span class="pill">生成时间：2026-08-18 09:05</span>
+      <span class="pill">归档：182 篇</span>
+      <span class="pill">已分析：972 篇</span>
+      <span class="pill">生成时间：2026-08-19 09:07</span>
       <a class="pill" href="./index.html">返回决策日报</a>
       <a class="pill" href="./articles.json">JSON</a>
     </div>
@@ -112,7 +112,7 @@
         <option value="2160">近 90 天</option>
       </select>
       <select id="market"><option value="">全部市场</option><option value="东南亚">东南亚</option><option value="中亚">中亚</option><option value="中国">中国</option><option value="中国内地">中国内地</option><option value="亚太地区">亚太地区</option><option value="亚洲">亚洲</option><option value="保加利亚">保加利亚</option><option value="全球">全球</option><option value="加拿大">加拿大</option><option value="北美">北美</option><option value="印度">印度</option><option value="印度尼西亚">印度尼西亚</option><option value="吉尔吉斯斯坦">吉尔吉斯斯坦</option><option value="大湾区">大湾区</option><option value="拉丁美洲">拉丁美洲</option><option value="新加坡">新加坡</option><option value="日本">日本</option><option value="欧洲">欧洲</option><option value="法国">法国</option><option value="泰国">泰国</option><option value="港澳">港澳</option><option value="澳大利亚">澳大利亚</option><option value="美国">美国</option><option value="英国">英国</option><option value="菲律宾">菲律宾</option><option value="越南">越南</option><option value="阿根廷">阿根廷</option><option value="非洲">非洲</option><option value="韩国">韩国</option><option value="香港">香港</option><option value="马来西亚">马来西亚</option></select>
-      <select id="capability"><option value="">全部业务域</option><option value="CRM">CRM</option><option value="Kiosk">Kiosk</option><option value="POS">POS</option><option value="Wallet Card">Wallet Card</option><option value="market">market</option><option value="ordering">ordering</option><option value="payment">payment</option><option value="restaurant_ops">restaurant_ops</option><option value="云部署">云部署</option><option value="合规">合规</option><option value="外卖">外卖</option><option value="支付">支付</option><option value="竞品动态">竞品动态</option><option value="餐饮数字化">餐饮数字化</option></select>
+      <select id="capability"><option value="">全部业务域</option><option value="AI与自动化">AI与自动化</option><option value="CRM">CRM</option><option value="Kiosk">Kiosk</option><option value="POS">POS</option><option value="Wallet Card">Wallet Card</option><option value="market">market</option><option value="ordering">ordering</option><option value="payment">payment</option><option value="restaurant_ops">restaurant_ops</option><option value="云部署">云部署</option><option value="合规">合规</option><option value="外卖">外卖</option><option value="支付">支付</option><option value="竞品动态">竞品动态</option><option value="餐饮数字化">餐饮数字化</option></select>
       <select id="source"><option value="">全部来源</option><option value="AWS Security Blog">AWS Security Blog</option><option value="Adyen Docs Release Notes">Adyen Docs Release Notes</option><option value="Airwallex Blog">Airwallex Blog</option><option value="Apple Wallet News">Apple Wallet News</option><option value="Bangkok Post Business">Bangkok Post Business</option><option value="Bank of Thailand News">Bank of Thailand News</option><option value="Business Times Banking Finance">Business Times Banking Finance</option><option value="Competitor - Chowbus">Competitor - Chowbus</option><option value="Competitor - Eats365">Competitor - Eats365</option><option value="Competitor - Lightspeed">Competitor - Lightspeed</option><option value="Competitor - Qashier">Competitor - Qashier</option><option value="Competitor - Square">Competitor - Square</option><option value="Competitor - StoreHub">Competitor - StoreHub</option><option value="Competitor - Toast">Competitor - Toast</option><option value="Fast Casual">Fast Casual</option><option value="Finextra">Finextra</option><option value="Fintech News Hong Kong">Fintech News Hong Kong</option><option value="Fintech News Malaysia">Fintech News Malaysia</option><option value="Fintech News Philippines">Fintech News Philippines</option><option value="Fintech News Singapore">Fintech News Singapore</option><option value="Grab Newsroom">Grab Newsroom</option><option value="HKMA Press Releases">HKMA Press Releases</option><option value="LINE for Business">LINE for Business</option><option value="NFCW">NFCW</option><option value="Nikkei Asia">Nikkei Asia</option><option value="PYMNTS">PYMNTS</option><option value="Payments Dive">Payments Dive</option><option value="QSR Web">QSR Web</option><option value="Restaurant Dive">Restaurant Dive</option><option value="Restaurant Technology News">Restaurant Technology News</option><option value="Stripe Changelog">Stripe Changelog</option><option value="TechCrunch Fintech">TechCrunch Fintech</option><option value="Thailand Business News">Thailand Business News</option><option value="The Fintech Times">The Fintech Times</option><option value="WeChat Pay Global">WeChat Pay Global</option><option value="WhatsApp Business Platform Updates">WhatsApp Business Platform Updates</option></select>
       <select id="category"><option value="">全部分类</option><option value="AI与自动化">AI与自动化</option><option value="CRM">CRM</option><option value="云部署">云部署</option><option value="出海市场动态">出海市场动态</option><option value="合规">合规</option><option value="支付与合规">支付与合规</option><option value="本地生活平台">本地生活平台</option><option value="竞品动态">竞品动态</option><option value="风险预警">风险预警</option><option value="餐饮数字化">餐饮数字化</option></select>
       <span class="result-count" id="resultCount"></span>
@@ -120,6 +120,58 @@
   </header>
   <main>
     <div class="archive-list" id="archiveList">
+            <article class="archive-card watch" data-time="2026-08-19T01:00:27Z"
+              data-market="全球" data-capability="CRM"
+              data-source="Competitor - Toast" data-category="竞品动态">
+              <div class="card-head">
+                <div>
+                  <span class="level watch">持续观察</span>
+                  <h2>Toast 会员忠诚度系统全解析</h2>
+                  <p class="meta">Competitor - Toast · 抓取于 2026-08-19 · 全球 · CRM</p>
+                </div>
+                <div class="scores"><span>重要 7/10</span><span>相关 6/10</span></div>
+              </div>
+              <p class="summary">Toast Loyalty 支持顾客通过手机号、邮箱或信用卡注册，在 POS、Kiosk、线上点餐及本地应用多渠道获取积分并兑换奖励。系统提供「按访问」和「按消费金额」两种积分模式，并明确排除 DoorDash、Grubhub、Uber Eats 等第三方外卖平台的积分计算。这对 FLIPOS 东南亚/日本市场 CRM 触达能力建设有参考价值，但市场定位不同。</p>
+              
+          <details>
+            <summary>查看判断与建议动作</summary>
+            <dl>
+              <dt>信号</dt><dd>Toast 完善餐饮全链路忠诚度解决方案，支持多渠道积分获取与兑换，但明确排除第三方外卖平台集成</dd>
+              <dt>FLIPOS 判断</dt><dd>判断：Toast 的多渠道积分触达设计值得 FLIPOS 产品团队参考，特别是东南亚/日本市场若未来规划 CRM 会员模块，可借鉴其按访问/按消费额的双模式设计。但 Toast 主攻美国高端市场，其功能复杂度与 FLIPOS 当前出海 Solution Pack 定位存在差异，暂无需直接对标。</dd>
+              <dt>建议动作</dt><dd>建议产品团队将「会员忠诚度/积分体系」列入东南亚/日本市场的中短期功能需求评估，观察当地餐饮商户对积分功能的具体诉求再决定优先级。</dd>
+            </dl>
+          </details>
+        
+              <footer><span>竞品动态</span><a href="https://support.toasttab.com/en/article/Getting-Started-Toast-Loyalty" target="_blank" rel="noopener noreferrer">查看原文</a></footer>
+            </article>
+            
+
+            <article class="archive-card watch" data-time="2026-08-18T07:31:08Z"
+              data-market="全球" data-capability="AI与自动化"
+              data-source="Restaurant Technology News" data-category="竞品动态">
+              <div class="card-head">
+                <div>
+                  <span class="level watch">持续观察</span>
+                  <h2>AI餐饮运营平台Palona获2000万美元融资</h2>
+                  <p class="meta">Restaurant Technology News · 2026-08-18 · 全球 · AI与自动化</p>
+                </div>
+                <div class="scores"><span>重要 7/10</span><span>相关 6/10</span></div>
+              </div>
+              <p class="summary">Palona AI获得2000万美元A轮融资，宣布推出覆盖收入增长、收入智能和运营卓越三大领域的餐厅多模态AI运营平台。平台可跨渠道处理电话、短信、网页和邮件的餐饮咨询，自动识别高价值商机（如2000美元企业 catering 订单）并触发工作流。对FLIPOS而言，需关注AI层与POS/SaaS层的整合趋势，评估是否形成能力替代或协同机会。</p>
+              
+          <details>
+            <summary>查看判断与建议动作</summary>
+            <dl>
+              <dt>信号</dt><dd>AI从单一语音点餐向全链路运营智能整合演进，头部餐饮SaaS竞争加剧</dd>
+              <dt>FLIPOS 判断</dt><dd>判断：Palona的多模态AI运营层与FLIPOS的POS/CRM能力存在潜在协同空间，若餐饮客户对AI工作流自动化需求增长，FLIPOS需考虑集成或对接AI能力以保持竞争力。</dd>
+              <dt>建议动作</dt><dd>建议产品团队持续跟踪Palona等AI平台的技术路线，评估与FLIPOS Solution Pack的集成可能性（如通过API对接AI工作流或数据层），同时关注餐饮客户对AI自动化需求的真实痛点。</dd>
+            </dl>
+          </details>
+        
+              <footer><span>竞品动态</span><a href="https://restauranttechnologynews.com/2026/08/palona-ai-expands-beyond-voice-ordering-with-new-restaurant-operations-platform-and-20-million-in-funding/" target="_blank" rel="noopener noreferrer">查看原文</a></footer>
+            </article>
+            
+
             <article class="archive-card action" data-time="2026-08-15T05:33:00Z"
               data-market="泰国" data-capability="支付"
               data-source="Bangkok Post Business" data-category="支付与合规">
