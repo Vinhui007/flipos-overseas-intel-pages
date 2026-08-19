@@ -1,7 +1,7 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-08-18 09:05
-- 48 小时重点：0 个
+- 生成时间：2026-08-19 09:07
+- 48 小时重点：2 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,13 +9,51 @@
 
 ## 今日摘要
 
-- 今日重点：0 条
+- 今日重点：2 条
 - 高重要性：0 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
 
-暂无 48 小时重点情报。
+### 1. Toast 会员忠诚度系统全解析
+
+- 来源：Competitor - Toast
+- 发布时间：抓取于 2026-08-19
+- 分类：竞品动态
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：美国、全球
+- 事件 Key：toast-loyalty-multi-channel
+- 来源类型：竞品官网/产品页
+- 原文/页面：[https://support.toasttab.com/en/article/Getting-Started-Toast-Loyalty](https://support.toasttab.com/en/article/Getting-Started-Toast-Loyalty)
+
+**摘要**：Toast Loyalty 支持顾客通过手机号、邮箱或信用卡注册，在 POS、Kiosk、线上点餐及本地应用多渠道获取积分并兑换奖励。系统提供「按访问」和「按消费金额」两种积分模式，并明确排除 DoorDash、Grubhub、Uber Eats 等第三方外卖平台的积分计算。这对 FLIPOS 东南亚/日本市场 CRM 触达能力建设有参考价值，但市场定位不同。
+
+**信号**：Toast 完善餐饮全链路忠诚度解决方案，支持多渠道积分获取与兑换，但明确排除第三方外卖平台集成
+
+**FLIPOS 判断**：判断：Toast 的多渠道积分触达设计值得 FLIPOS 产品团队参考，特别是东南亚/日本市场若未来规划 CRM 会员模块，可借鉴其按访问/按消费额的双模式设计。但 Toast 主攻美国高端市场，其功能复杂度与 FLIPOS 当前出海 Solution Pack 定位存在差异，暂无需直接对标。
+
+**建议动作**：建议产品团队将「会员忠诚度/积分体系」列入东南亚/日本市场的中短期功能需求评估，观察当地餐饮商户对积分功能的具体诉求再决定优先级。
+
+### 2. AI餐饮运营平台Palona获2000万美元融资
+
+- 来源：Restaurant Technology News
+- 发布时间：2026-08-18
+- 分类：竞品动态
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：美国、全球
+- 事件 Key：ai-restaurant-ops-platform-funding
+- 来源类型：新闻/RSS
+- 原文/页面：[https://restauranttechnologynews.com/2026/08/palona-ai-expands-beyond-voice-ordering-with-new-restaurant-operations-platform-and-20-million-in-funding/](https://restauranttechnologynews.com/2026/08/palona-ai-expands-beyond-voice-ordering-with-new-restaurant-operations-platform-and-20-million-in-funding/)
+
+**摘要**：Palona AI获得2000万美元A轮融资，宣布推出覆盖收入增长、收入智能和运营卓越三大领域的餐厅多模态AI运营平台。平台可跨渠道处理电话、短信、网页和邮件的餐饮咨询，自动识别高价值商机（如2000美元企业 catering 订单）并触发工作流。对FLIPOS而言，需关注AI层与POS/SaaS层的整合趋势，评估是否形成能力替代或协同机会。
+
+**信号**：AI从单一语音点餐向全链路运营智能整合演进，头部餐饮SaaS竞争加剧
+
+**FLIPOS 判断**：判断：Palona的多模态AI运营层与FLIPOS的POS/CRM能力存在潜在协同空间，若餐饮客户对AI工作流自动化需求增长，FLIPOS需考虑集成或对接AI能力以保持竞争力。
+
+**建议动作**：建议产品团队持续跟踪Palona等AI平台的技术路线，评估与FLIPOS Solution Pack的集成可能性（如通过API对接AI工作流或数据层），同时关注餐饮客户对AI自动化需求的真实痛点。
 
 ## 14 天趋势
 
