@@ -1,7 +1,7 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-08-21 09:06
-- 48 小时重点：2 个
+- 生成时间：2026-08-22 09:09
+- 48 小时重点：4 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,8 +9,8 @@
 
 ## 今日摘要
 
-- 今日重点：2 条
-- 高重要性：0 条
+- 今日重点：4 条
+- 高重要性：1 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
@@ -35,25 +35,63 @@
 
 **建议动作**：产品团队需对比Qashier与FLIPOS新加坡Solution Pack在GrabFood/foodpanda集成深度、PayNow支付资质、忠诚度自动化（支付即识别+WhatsApp触达）和无前期成本定价模式上的差距；市场团队可研究Qashier的商户案例话术，优化FLIPOS在SEA市场的价值主张。
 
-### 2. 越南MoMo电子钱包跨境QR支付覆盖60国
+### 2. Tourists Can Now Make QR Payments With Wise in Sri Lanka
 
 - 来源：Fintech News Singapore
-- 发布时间：2026-08-19
+- 发布时间：2026-08-21
 - 分类：支付与合规
-- 重要性：6/10
-- 相关性：7/10
-- 市场标签：新加坡、日本、泰国、越南、东南亚
-- 事件 Key：momo-crossborder-qr-expansion
+- 重要性：8/10
+- 相关性：8/10
+- 事件 Key：tourists-can-now-make-qr-payments-with-wise-in-sri-lanka
 - 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.sg/136000/vietnam/momo-qr-payments/](https://fintechnews.sg/136000/vietnam/momo-qr-payments/)
+- 原文/页面：[https://fintechnews.sg/136119/sri-lanka/wise-sri-lanka-qr/](https://fintechnews.sg/136119/sri-lanka/wise-sri-lanka-qr/)
 
-**摘要**：越南MoMo电子钱包将QR支付服务扩展至60多个市场，覆盖超过1亿受理点，连接Napas、Alipay、WeChat Pay、PayPay、PromptPay等支付系统。目的地包括新加坡、日本、韩国、泰国，且不收取外币交易手续费。这表明东南亚QR支付互联互通正在深化，可能影响FLIPOS出海市场的支付方案选择。
+**摘要**：【Mock】Tourists Can Now Make QR Payments With Wise in Sri Lanka。该文章可能与 FLIPOS 出海市场、餐饮 SaaS 或支付生态有关，建议后续人工复核原文。
 
-**信号**：越南头部电子钱包MoMo通过QR码互联互通进入新加坡、日本、泰国等市场，显示东南亚QR支付网络持续扩展
+**信号**：海外支付基础设施持续变化，商户收款、结算和终端兼容能力需要前置规划。
 
-**FLIPOS 判断**：判断：MoMo目前不在FLIPOS Solution Pack中，但其进入新加坡、日本、泰国市场意味着这些区域的餐饮商户可能面临新增支付方式接入需求。若当地商户有MoMo用户群，FLIPOS需评估是否将其纳入支付聚合方案。
+**FLIPOS 判断**：可能影响 FLIPOS 在海外市场的产品包装、支付接入、合规准备或渠道策略。
 
-**建议动作**：建议支付团队持续跟踪MoMo在各出海市场的商户渗透情况，评估对POS支付聚合方案的影响，暂无阻塞性动作但需列入支付合作方候选名单观察。
+**建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
+
+### 3. 蚂蚁国际与中银香港达成跨境支付合作
+
+- 来源：Fintech News Hong Kong
+- 发布时间：2026-08-21
+- 分类：支付与合规
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：香港、东南亚
+- 事件 Key：ant-bochk-crossborder-partnership
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.hk/40206/payments/ant-international-bochk-partnership-payments/](https://fintechnews.hk/40206/payments/ant-international-bochk-partnership-payments/)
+
+**摘要**：蚂蚁国际与中银香港建立战略合作，整合Alipay+、WorldFirst等业务探索AI驱动的跨境支付、实时资金管理和中小企业金融服务。合作明确提及东南亚市场拓展，对港澳跨境支付基础设施和餐饮商户收单生态有潜在影响。
+
+**信号**：蚂蚁国际联合中银香港深化跨境支付与AI金融服务布局东南亚
+
+**FLIPOS 判断**：判断：蚂蚁国际的Alipay+跨境支付网络若与更多香港本地银行打通，可能影响港澳餐饮商户的支付通道选择，但该合作暂未涉及FLIPOS当前Solution Pack中的具体收单或外卖集成方案。
+
+**建议动作**：支付团队可关注Alipay+在香港商户侧的覆盖率变化，评估其与FLIPOS港澳支付方案的竞合关系，暂无需投入资源跟进。
+
+### 4. 支付优化重心转向可见性与控制力
+
+- 来源：Payments Dive
+- 发布时间：2026-08-21
+- 分类：支付与合规
+- 重要性：5/10
+- 相关性：6/10
+- 事件 Key：merchant-payment-visibility-control
+- 来源类型：新闻/RSS
+- 原文/页面：[https://www.paymentsdive.com/news/considering-card-network-options/828493/](https://www.paymentsdive.com/news/considering-card-network-options/828493/)
+
+**摘要**：文章指出商户面临的核心支付问题已非选择哪条支付通道，而是缺乏对支付流程的可见性、控制力和智能优化手段。对餐饮 SaaS 而言，这意味着支付模块需要提供交易数据洞察、失败率分析和路由优化等能力，而非单纯接入更多支付通道。
+
+**信号**：商户支付挑战已从通道选择转向支付流程的可视化、控制和智能优化能力建设
+
+**FLIPOS 判断**：判断：FLIPOS 出海市场的商户若缺乏支付数据可视化能力，将难以优化交易成功率。建议在支付模块中强化交易分析、失败原因追溯和智能路由等能力，帮助餐饮商户提升支付表现。
+
+**建议动作**：产品团队可在支付回调和数据埋点层面增加交易状态可视化；支付团队可评估各市场主流支付通道的稳定性和失败率，为商户提供优化建议。
 
 ## 14 天趋势
 
@@ -118,7 +156,27 @@
 
 **建议动作**：建议产品团队针对泰国市场优化 Kiosk 方案的人机交互体验，突出其降低人力依赖的核心价值，并在定价策略中体现节人成本效益。
 
-### 4. 快餐连锁关店潮：餐饮业转向效益优先
+### 4. 越南MoMo电子钱包跨境QR支付覆盖60国
+
+- 来源：Fintech News Singapore
+- 发布时间：2026-08-19
+- 分类：支付与合规
+- 重要性：6/10
+- 相关性：7/10
+- 市场标签：新加坡、日本、泰国、越南、东南亚
+- 事件 Key：momo-crossborder-qr-expansion
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.sg/136000/vietnam/momo-qr-payments/](https://fintechnews.sg/136000/vietnam/momo-qr-payments/)
+
+**摘要**：越南MoMo电子钱包将QR支付服务扩展至60多个市场，覆盖超过1亿受理点，连接Napas、Alipay、WeChat Pay、PayPay、PromptPay等支付系统。目的地包括新加坡、日本、韩国、泰国，且不收取外币交易手续费。这表明东南亚QR支付互联互通正在深化，可能影响FLIPOS出海市场的支付方案选择。
+
+**信号**：越南头部电子钱包MoMo通过QR码互联互通进入新加坡、日本、泰国等市场，显示东南亚QR支付网络持续扩展
+
+**FLIPOS 判断**：判断：MoMo目前不在FLIPOS Solution Pack中，但其进入新加坡、日本、泰国市场意味着这些区域的餐饮商户可能面临新增支付方式接入需求。若当地商户有MoMo用户群，FLIPOS需评估是否将其纳入支付聚合方案。
+
+**建议动作**：建议支付团队持续跟踪MoMo在各出海市场的商户渗透情况，评估对POS支付聚合方案的影响，暂无阻塞性动作但需列入支付合作方候选名单观察。
+
+### 5. 快餐连锁关店潮：餐饮业转向效益优先
 
 - 来源：QSR Web
 - 发布时间：2026-08-13
@@ -137,26 +195,6 @@
 **FLIPOS 判断**：判断：当餐饮客户从追求门店数量增长转向关注单店盈利时，FLIPOS的POS系统需强化运营数据分析、坪效管理等能力，而非仅强调订单接入量，以匹配客户运营重心的变化。
 
 **建议动作**：建议产品团队在下一版本中增加门店效益看板功能，帮助客户快速识别低效门店和优化机会点，强化FLIPOS作为运营决策工具的价值定位。
-
-### 5. 马来西亚TNG电子钱包盈利困境与多元化转型启示
-
-- 来源：Fintech News Malaysia
-- 发布时间：2026-08-07
-- 分类：支付与合规
-- 重要性：6/10
-- 相关性：7/10
-- 市场标签：马来西亚、东南亚
-- 事件 Key：malaysia-ewallet-profitability-diversification
-- 来源类型：新闻/RSS
-- 原文/页面：[https://fintechnews.my/60120/e-wallets-malaysia/tng-digital-profitability-beyond-payments/](https://fintechnews.my/60120/e-wallets-malaysia/tng-digital-profitability-beyond-payments/)
-
-**摘要**：马来西亚最大电子钱包TNG Digital拥有2700万认证用户却连续亏损6年，CEO透露QR支付业务规模越大亏得越多。三年间收入结构从支付占75%转型为支付仅占47%，跨境支付贡献11%、B2B技术商户服务贡献15%，2024年9月首次盈利，2025年实现首个完整盈利财年。这说明纯支付业务在东南亚难以规模化盈利，多元化生态是生存必要。
-
-**信号**：马来西亚最大电子钱包TNG靠支付起量却亏损，必须通过跨境支付和B2B商户服务才能实现盈利
-
-**FLIPOS 判断**：判断：TNG的案例说明在马来西亚等东南亚市场，纯支付接入的商业模式存在利润瓶颈。这对FLIPOS出海有直接启示：支付回调作为核心能力本身可能毛利有限，需配合CRM触达、外卖聚合等增值服务打包，才能提升商户ARPU和LTV。
-
-**建议动作**：建议产品团队在设计东南亚Solution Pack时，考虑将支付接入作为获客入口而非主要变现点，通过B2B商户服务和数据洞察能力实现收入多元化。支付团队可评估TNG跨境支付、Beam等本地钱包的商户端开放API深度，寻找合作而非接入的机会。
 
 ### 6. AI餐饮运营平台Palona获2000万美元融资
 
