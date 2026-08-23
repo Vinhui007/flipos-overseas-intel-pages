@@ -1,6 +1,6 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-08-22 09:09
+- 生成时间：2026-08-23 09:01
 - 48 小时重点：4 个
 - 14 天趋势：10 个
 - 补充观察：5 个
@@ -15,27 +15,7 @@
 
 ## 48 小时重点
 
-### 1. Qashier强化全渠道POS+忠诚度一体化
-
-- 来源：Competitor - Qashier
-- 发布时间：抓取于 2026-08-21
-- 分类：竞品动态
-- 重要性：7/10
-- 相关性：9/10
-- 市场标签：新加坡、马来西亚、泰国、菲律宾
-- 事件 Key：qashier-omnichannel-pos-sea
-- 来源类型：竞品官网/产品页
-- 原文/页面：[https://qashier.com/](https://qashier.com/)
-
-**摘要**：Qashier发布全渠道POS解决方案，整合POS、外卖（GrabFood/foodpanda）、忠诚度、支付于单一平台，强调无前期成本和MAS/BNM/BSP监管资质。已覆盖新加坡、马来西亚、泰国、菲律宾25K+商户，处理超10亿美元。Qashier强调'每笔销售都转化为已知客户'的全链路数据能力，对FLIPOS在SEA市场的功能差异化和定价策略构成直接竞争压力。
-
-**信号**：新加坡Qashier整合GrabFood/foodpanda外卖、PayNow支付与忠诚度系统，25K+商户验证，对FLIPOS SEA市场直接竞争
-
-**FLIPOS 判断**：判断：Qashier在SEA市场的一体化POS定位（无前期成本+本地监管资质+GrabFood/foodpanda全集成）对FLIPOS新加坡Solution Pack的GrabPay/Foodpanda集成能力和本地合规竞争力形成直接对标，需评估差异化功能点。
-
-**建议动作**：产品团队需对比Qashier与FLIPOS新加坡Solution Pack在GrabFood/foodpanda集成深度、PayNow支付资质、忠诚度自动化（支付即识别+WhatsApp触达）和无前期成本定价模式上的差距；市场团队可研究Qashier的商户案例话术，优化FLIPOS在SEA市场的价值主张。
-
-### 2. Tourists Can Now Make QR Payments With Wise in Sri Lanka
+### 1. Tourists Can Now Make QR Payments With Wise in Sri Lanka
 
 - 来源：Fintech News Singapore
 - 发布时间：2026-08-21
@@ -54,7 +34,7 @@
 
 **建议动作**：产品、支付和市场团队可先记录为观察项；若涉及目标国家监管或主流平台变化，应安排专项评估。
 
-### 3. 蚂蚁国际与中银香港达成跨境支付合作
+### 2. 蚂蚁国际与中银香港达成跨境支付合作
 
 - 来源：Fintech News Hong Kong
 - 发布时间：2026-08-21
@@ -73,6 +53,26 @@
 **FLIPOS 判断**：判断：蚂蚁国际的Alipay+跨境支付网络若与更多香港本地银行打通，可能影响港澳餐饮商户的支付通道选择，但该合作暂未涉及FLIPOS当前Solution Pack中的具体收单或外卖集成方案。
 
 **建议动作**：支付团队可关注Alipay+在香港商户侧的覆盖率变化，评估其与FLIPOS港澳支付方案的竞合关系，暂无需投入资源跟进。
+
+### 3. StoreHub发布POS科普内容强化全栈定位
+
+- 来源：Competitor - StoreHub
+- 发布时间：抓取于 2026-08-23
+- 分类：竞品动态
+- 重要性：5/10
+- 相关性：6/10
+- 市场标签：马来西亚、东南亚
+- 事件 Key：storehub-pos-content-marketing
+- 来源类型：竞品官网/产品页
+- 原文/页面：[https://www.storehub.com/blog/what-is-a-pos-system](https://www.storehub.com/blog/what-is-a-pos-system)
+
+**摘要**：StoreHub发布POS基础概念文章，展示其全功能POS涵盖销售报表、数据分析、库存管理、CRM、外卖集成、QR点单、员工管理等能力，目标马来西亚及东南亚中小餐饮零售商。通过内容营销强化“super-powered cash register”定位，塑造一站式数字化解决方案形象。
+
+**信号**：东南亚竞品StoreHub通过内容营销教育市场，强调其POS集CRM、外卖、QR点单、库存等全栈能力
+
+**FLIPOS 判断**：判断：StoreHub在东南亚市场的内容营销和全功能POS定位可能影响FLIPOS品牌认知，但FLIPOS当前Solution Pack聚焦港澳新日泰，暂不直接竞争。需关注其产品迭代方向以评估长期影响。
+
+**建议动作**：产品团队可对比StoreHub功能清单与FLIPOS能力边界，识别潜在差异化机会；市场团队可考虑在SEA区域加强内容营销布局以提升品牌认知。
 
 ### 4. 支付优化重心转向可见性与控制力
 
