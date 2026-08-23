@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T01:09:48",
-  "count": 1036,
+  "generated_at": "2026-08-23T01:01:05",
+  "count": 1037,
   "articles": [
     {
       "id": 1,
@@ -24864,6 +24864,30 @@
         "action_level": "可观察",
         "recommended_action": "产品团队可将该案例作为CRM功能价值佐证，用于客户沟通材料；暂无需纳入当前Solution Pack开发优先级评估。",
         "flipos_impact": "判断：文章仅反映QSR连锁的CX战略理念，未涉及具体技术实现，对FLIPOS当前港澳/新马日泰市场暂无直接产品影响，但可作为CRM模块价值沟通的外部佐证参考。"
+      }
+    },
+    {
+      "id": 1037,
+      "title": "[竞品监控] StoreHub POS",
+      "url": "https://www.storehub.com/blog/what-is-a-pos-system",
+      "source": "Competitor - StoreHub",
+      "region": "Malaysia/SEA",
+      "domain": "restaurant_pos",
+      "published_at": null,
+      "fetched_at": "2026-08-23T01:00:42",
+      "ai_output": {
+        "short_title": "StoreHub发布POS科普内容强化全栈定位",
+        "one_line_signal": "东南亚竞品StoreHub通过内容营销教育市场，强调其POS集CRM、外卖、QR点单、库存等全栈能力",
+        "zh_summary": "StoreHub发布POS基础概念文章，展示其全功能POS涵盖销售报表、数据分析、库存管理、CRM、外卖集成、QR点单、员工管理等能力，目标马来西亚及东南亚中小餐饮零售商。通过内容营销强化“super-powered cash register”定位，塑造一站式数字化解决方案形象。",
+        "category": "竞品动态",
+        "importance_score": 5,
+        "relevance_score": 6,
+        "market_tags": "马来西亚、东南亚",
+        "primary_market": "全球",
+        "affected_capability": "POS",
+        "action_level": "可观察",
+        "recommended_action": "产品团队可对比StoreHub功能清单与FLIPOS能力边界，识别潜在差异化机会；市场团队可考虑在SEA区域加强内容营销布局以提升品牌认知。",
+        "flipos_impact": "判断：StoreHub在东南亚市场的内容营销和全功能POS定位可能影响FLIPOS品牌认知，但FLIPOS当前Solution Pack聚焦港澳新日泰，暂不直接竞争。需关注其产品迭代方向以评估长期影响。"
       }
     }
   ]
