@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T01:01:05",
-  "count": 1037,
+  "generated_at": "2026-08-24T01:01:14",
+  "count": 1039,
   "articles": [
     {
       "id": 1,
@@ -24888,6 +24888,54 @@
         "action_level": "可观察",
         "recommended_action": "产品团队可对比StoreHub功能清单与FLIPOS能力边界，识别潜在差异化机会；市场团队可考虑在SEA区域加强内容营销布局以提升品牌认知。",
         "flipos_impact": "判断：StoreHub在东南亚市场的内容营销和全功能POS定位可能影响FLIPOS品牌认知，但FLIPOS当前Solution Pack聚焦港澳新日泰，暂不直接竞争。需关注其产品迭代方向以评估长期影响。"
+      }
+    },
+    {
+      "id": 1038,
+      "title": "Nation warned to prepare for post-quantum threat",
+      "url": "https://www.bangkokpost.com/business/general/3306930/nation-warned-to-prepare-for-postquantum-threat",
+      "source": "Bangkok Post Business",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-08-24T06:12:00",
+      "fetched_at": "2026-08-24T01:00:16",
+      "ai_output": {
+        "short_title": "泰国呼吁关键基础设施部署后量子密码防护",
+        "one_line_signal": "泰国警告后量子计算威胁迫近，建议关键基础设施优先升级加密体系",
+        "zh_summary": "IBM泰国与国家网络安全局联合警告，\"现在收集，以后解密\"的后量子攻击威胁日益严峻，建议泰国优先对关键基础设施进行后量子密码学（PQC）升级。因预算有限，当局呼吁组织评估并优先部署最高风险系统的防护。",
+        "category": "风险预警",
+        "importance_score": 5,
+        "relevance_score": 4,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "云部署",
+        "action_level": "可观察",
+        "recommended_action": "建议基建团队持续跟踪泰国PQC政策进展，评估AWS云部署中加密组件的升级路径；同时与AWS沟通其量子安全加密方案的 roadmap，确保未来合规准备。",
+        "flipos_impact": "判断：目前泰国PQC要求尚未强制落地，对FLIPOS泰国AWS云部署暂无即时影响，但随着量子计算发展，支付回调和用户数据的加密标准可能面临升级需求，需提前关注NCSA的合规时间表。"
+      }
+    },
+    {
+      "id": 1039,
+      "title": "UK fintech funding hits lowest level in a decade",
+      "url": "https://www.finextra.com/newsarticle/48285/uk-fintech-funding-hits-lowest-level-in-a-decade",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-08-24T00:01:00",
+      "fetched_at": "2026-08-24T01:00:24",
+      "ai_output": {
+        "short_title": "英国金融科技融资跌至十年最低",
+        "one_line_signal": "全球VC收缩背景下，英国金融科技融资环境创十年最差",
+        "zh_summary": "英国金融科技融资在2026年上半年跌至十年最低，仅获18亿英镑投资，反映全球创投收缩趋势。对于考虑进入欧洲/英国市场的SaaS公司，融资环境恶化可能增加进入壁垒。但该数据对FLIPOS当前聚焦的东南亚、日本市场无直接影响。",
+        "category": "风险预警",
+        "importance_score": 5,
+        "relevance_score": 2,
+        "market_tags": "英国、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队将此信息纳入全球金融科技环境监测，但暂不需调整现有出海市场优先级。",
+        "flipos_impact": "判断：FLIPOS当前Solution Pack聚焦港澳、新加坡、日本、泰国市场，英国不在主攻范围，此次融资下降对FLIPOS无直接业务影响。"
       }
     }
   ]
