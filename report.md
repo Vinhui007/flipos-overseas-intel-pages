@@ -1,7 +1,7 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-08-24 09:01
-- 48 小时重点：1 个
+- 生成时间：2026-08-25 09:08
+- 48 小时重点：4 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,31 +9,90 @@
 
 ## 今日摘要
 
-- 今日重点：1 条
+- 今日重点：4 条
 - 高重要性：0 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
 
-### 1. StoreHub发布POS科普内容强化全栈定位
+### 1. Deliverect联手Bounteous强化企业级数字点单
 
-- 来源：Competitor - StoreHub
-- 发布时间：抓取于 2026-08-23
+- 来源：Restaurant Technology News
+- 发布时间：2026-08-24
+- 分类：竞品动态
+- 重要性：7/10
+- 相关性：8/10
+- 事件 Key：deliverect-bounteous-ai-ordering-integration
+- 来源类型：新闻/RSS
+- 原文/页面：[https://restauranttechnologynews.com/2026/08/deliverect-and-bounteous-partner-to-expand-first-party-digital-ordering-for-restaurant-brands/](https://restauranttechnologynews.com/2026/08/deliverect-and-bounteous-partner-to-expand-first-party-digital-ordering-for-restaurant-brands/)
+
+**摘要**：Deliverect与Bounteous达成战略合作，将NomNom的代理AI点单和个性化引擎与Deliverect的API优先订单履行基础设施整合，支持餐饮品牌在堂食、外卖、Drive-thru、 catering等多渠道提供统一的第一方数字体验。这反映了企业级餐饮SaaS正从单一功能向全渠道运营平台整合的趋势，对FLIPOS在东南亚和东亚市场的Kiosk、H5点单及外卖集成能力形成竞争参考。
+
+**信号**：餐饮科技巨头通过AI+API集成升级第一方数字点单能力，企业餐饮品牌全渠道运营竞争加剧
+
+**FLIPOS 判断**：判断：Deliverect与Bounteous的合作展示了AI驱动的个性化点单与企业级订单履约整合的方向，FLIPOS在日本市场集成Uber Eats、在泰国市场与Beam/LINE的合作需要评估是否具备类似的全渠道统一体验能力。
+
+**建议动作**：建议产品团队持续跟踪Deliverect在日本和东南亚市场的产品路线图，重点关注其AI个性化点单与企业POS集成能力的演进，评估FLIPOS当前H5/Kiosk点单方案与竞品的差距。
+
+### 2. Adyen线下支付终端固件与SDK更新
+
+- 来源：Adyen Docs Release Notes
+- 发布时间：未知
+- 分类：支付与合规
+- 重要性：6/10
+- 相关性：8/10
+- 市场标签：新加坡、全球
+- 事件 Key：adyen-pos-firmware-sdk-update
+- 来源类型：网页新闻
+- 原文/页面：[https://docs.adyen.com/point-of-sale/firmware-release-notes](https://docs.adyen.com/point-of-sale/firmware-release-notes)
+
+**摘要**：Adyen发布线下支付终端固件及移动支付SDK的发布说明。Adyen是FLIPOS新加坡Solution Pack的核心支付伙伴，此类更新直接影响POS支付集成方案。原文未提供具体变更内容，建议支付团队跟进完整Release Notes评估影响。
+
+**信号**：Adyen持续迭代线下支付基础设施，固件和SDK更新可能影响POS集成稳定性
+
+**FLIPOS 判断**：判断：Adyen支付终端固件或SDK变更若涉及API接口或行为调整，可能影响FLIPOS新加坡POS的Adyen集成稳定性，需支付团队评估兼容性
+
+**建议动作**：建议支付团队查阅完整Release Notes，确认是否有Breaking Changes或需要升级集成的部分，并评估对当前iPad POS的影响
+
+### 3. CPK拟部署千台独立餐食Kiosk
+
+- 来源：Restaurant Technology News
+- 发布时间：2026-08-24
+- 分类：餐饮数字化
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：美国、全球
+- 事件 Key：standalone-kiosk-foodservice-expansion
+- 来源类型：新闻/RSS
+- 原文/页面：[https://restauranttechnologynews.com/2026/08/california-pizza-kitchen-plans-up-to-1000-automated-kiosks-as-restaurant-brands-push-beyond-traditional-locations/](https://restauranttechnologynews.com/2026/08/california-pizza-kitchen-plans-up-to-1000-automated-kiosks-as-restaurant-brands-push-beyond-traditional-locations/)
+
+**摘要**：California Pizza Kitchen与T-ROC Global合作，计划3年内在美国部署多达1000台独立餐食Kiosk，选址覆盖机场、大学、医院等高流量场景。该模式不同于店内自助点单，而是以Kiosk作为完整餐饮门店替代方案，90秒出餐的7寸披萨已在美国多个机场落地验证。对FLIPOS新加坡Kiosk方案的客户教育和功能迭代具有参考价值。
+
+**信号**：餐饮品牌通过自动化Kiosk开辟非传统选址的新分发渠道，餐食自动化从增效工具演变为独立业态载体
+
+**FLIPOS 判断**：判断：CPK案例验证了独立Kiosk作为餐饮品牌地理扩张载体的商业可行性，新加坡客户若关注Kiosk出海复制，此案例可作为需求锚点；同时提醒产品团队需强化Kiosk离线运营、远程运维和多场景适配能力。
+
+**建议动作**：建议产品团队将该案例纳入新加坡Kiosk方案的客户沟通素材，并评估当前Kiosk方案对机场、医院等高流量独立场景的适配程度。
+
+### 4. 连连数字科技半年利润翻倍，Agent Wallet布局AI支付
+
+- 来源：Fintech News Hong Kong
+- 发布时间：2026-08-24
 - 分类：竞品动态
 - 重要性：5/10
 - 相关性：6/10
-- 市场标签：马来西亚、东南亚
-- 事件 Key：storehub-pos-content-marketing
-- 来源类型：竞品官网/产品页
-- 原文/页面：[https://www.storehub.com/blog/what-is-a-pos-system](https://www.storehub.com/blog/what-is-a-pos-system)
+- 市场标签：香港、东南亚、全球
+- 事件 Key：lianlian-digitech-ai-payment-expansion
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.hk/40235/payments/lianlian-digitech-h12026-results/](https://fintechnews.hk/40235/payments/lianlian-digitech-h12026-results/)
 
-**摘要**：StoreHub发布POS基础概念文章，展示其全功能POS涵盖销售报表、数据分析、库存管理、CRM、外卖集成、QR点单、员工管理等能力，目标马来西亚及东南亚中小餐饮零售商。通过内容营销强化“super-powered cash register”定位，塑造一站式数字化解决方案形象。
+**摘要**：连连数字科技发布2026年上半年财报，利润翻倍增长。公司推出Agent Wallet智能支付基础设施，并宣布AI-Native+Globalisation战略持续推进。CEO强调在Agentic Payment领域取得突破，服务边界从支付延伸。虽未披露具体市场扩张计划，但明确表示将继续扩大全球足迹。
 
-**信号**：东南亚竞品StoreHub通过内容营销教育市场，强调其POS集CRM、外卖、QR点单、库存等全栈能力
+**信号**：中国支付服务商连连数字科技H1利润翻倍，AI-Native战略驱动全球化扩张，推出Agent Wallet智能支付基础设施
 
-**FLIPOS 判断**：判断：StoreHub在东南亚市场的内容营销和全功能POS定位可能影响FLIPOS品牌认知，但FLIPOS当前Solution Pack聚焦港澳新日泰，暂不直接竞争。需关注其产品迭代方向以评估长期影响。
+**FLIPOS 判断**：判断：连连数字科技作为中国支付公司加速AI和全球化布局，若其在东南亚市场推出支付服务，可能与FLIPOS现有的Adyen、MPay等支付合作形成竞争关系；但目前其具体海外市场进入计划未知，暂无直接影响。
 
-**建议动作**：产品团队可对比StoreHub功能清单与FLIPOS能力边界，识别潜在差异化机会；市场团队可考虑在SEA区域加强内容营销布局以提升品牌认知。
+**建议动作**：支付团队可关注连连数字科技在东南亚的Agent Wallet落地进展，评估其是否会成为FLIPOS海外客户的潜在竞品选项；建议持续跟踪其全球化扩张的具体市场布局。
 
 ## 14 天趋势
 
@@ -97,27 +156,7 @@
 
 **建议动作**：建议法务团队持续跟踪泰国央行后续细则，确认现有支付合作方的合规状态；产品团队在泰国支付集成设计时预留合规校验接口。
 
-### 4. 泰国劳动力短缺倒逼餐饮技术化
-
-- 来源：Bangkok Post Business
-- 发布时间：2026-08-10
-- 分类：餐饮数字化
-- 重要性：7/10
-- 相关性：8/10
-- 市场标签：泰国、东南亚
-- 事件 Key：thai-restaurant-labor-tech
-- 来源类型：新闻/RSS
-- 原文/页面：[https://www.bangkokpost.com/business/general/3299177/restaurants-turn-to-tech-amid-worker-shortage](https://www.bangkokpost.com/business/general/3299177/restaurants-turn-to-tech-amid-worker-shortage)
-
-**摘要**：泰国餐厅协会指出劳动力短缺问题悬而未决，业者正通过技术手段缓解人力压力。这对提供 Kiosk 自助点单、云 POS 等自动化解决方案的厂商是明确的市场需求信号，东南亚人力成本上升趋势下技术替代步伐加快。
-
-**信号**：泰国餐饮业因持续劳动力短缺，餐厅经营者加速采用技术替代方案
-
-**FLIPOS 判断**：判断：泰国市场对 Kiosk、iPad POS 等替代人工的技术方案需求明确上升，FLIPOS 泰国 Solution Pack 中的 Kiosk 能力可作为核心卖点强化推广。
-
-**建议动作**：建议产品团队针对泰国市场优化 Kiosk 方案的人机交互体验，突出其降低人力依赖的核心价值，并在定价策略中体现节人成本效益。
-
-### 5. 越南MoMo电子钱包跨境QR支付覆盖60国
+### 4. 越南MoMo电子钱包跨境QR支付覆盖60国
 
 - 来源：Fintech News Singapore
 - 发布时间：2026-08-19
@@ -137,7 +176,7 @@
 
 **建议动作**：建议支付团队持续跟踪MoMo在各出海市场的商户渗透情况，评估对POS支付聚合方案的影响，暂无阻塞性动作但需列入支付合作方候选名单观察。
 
-### 6. 快餐连锁关店潮：餐饮业转向效益优先
+### 5. 快餐连锁关店潮：餐饮业转向效益优先
 
 - 来源：QSR Web
 - 发布时间：2026-08-13
@@ -157,7 +196,7 @@
 
 **建议动作**：建议产品团队在下一版本中增加门店效益看板功能，帮助客户快速识别低效门店和优化机会点，强化FLIPOS作为运营决策工具的价值定位。
 
-### 7. 蚂蚁国际与中银香港达成跨境支付合作
+### 6. 蚂蚁国际与中银香港达成跨境支付合作
 
 - 来源：Fintech News Hong Kong
 - 发布时间：2026-08-21
@@ -177,7 +216,7 @@
 
 **建议动作**：支付团队可关注Alipay+在香港商户侧的覆盖率变化，评估其与FLIPOS港澳支付方案的竞合关系，暂无需投入资源跟进。
 
-### 8. AI餐饮运营平台Palona获2000万美元融资
+### 7. AI餐饮运营平台Palona获2000万美元融资
 
 - 来源：Restaurant Technology News
 - 发布时间：2026-08-18
@@ -197,7 +236,7 @@
 
 **建议动作**：建议产品团队持续跟踪Palona等AI平台的技术路线，评估与FLIPOS Solution Pack的集成可能性（如通过API对接AI工作流或数据层），同时关注餐饮客户对AI自动化需求的真实痛点。
 
-### 9. 麦当劳整合2.2亿会员数据推进AI战略
+### 8. 麦当劳整合2.2亿会员数据推进AI战略
 
 - 来源：Restaurant Technology News
 - 发布时间：2026-08-13
@@ -216,7 +255,7 @@
 
 **建议动作**：建议产品团队将忠诚度数据采集、CRM触达能力作为东南亚/日本方案的核心差异化卖点，同时关注各国数据本地化存储要求是否影响全球化数据湖架构的可行性。
 
-### 10. Visa菲律宾推手机POS商户收单方案
+### 9. Visa菲律宾推手机POS商户收单方案
 
 - 来源：Fintech News Philippines
 - 发布时间：2026-08-13
@@ -235,6 +274,26 @@
 **FLIPOS 判断**：判断：当前FLIPOS出海Solution Pack暂未覆盖菲律宾市场，但该方案印证了东南亚市场对低成本移动收单的需求趋势，若未来进入菲律宾市场可参考其与本地钱包/卡组织的集成模式。
 
 **建议动作**：建议支付团队将其作为东南亚移动收单趋势观察，评估手机POS模式与FLIPOS iPad POS在东南亚中小商户场景的互补性，暂不纳入当前开发计划。
+
+### 10. Coins.ph集成Tempo稳定币支付
+
+- 来源：Fintech News Philippines
+- 发布时间：2026-08-12
+- 分类：支付与合规
+- 重要性：7/10
+- 相关性：6/10
+- 市场标签：菲律宾、全球
+- 事件 Key：stablecoin-payment-infra
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.ph/73006/blockchain/coins-ph-stablecoin-tempo-usdt-usdc-transfers/](https://fintechnews.ph/73006/blockchain/coins-ph-stablecoin-tempo-usdt-usdc-transfers/)
+
+**摘要**：Coins.ph 集成了 Stripe 和 Paradigm 孵化的 Tempo 区块链，支持 USDT/USDC 半秒跨境转账，涵盖零售支付、商业支付和汇款场景。Tempo 提供专用支付通道和稳定币 gas 费，降低商户和消费者使用门槛。这是稳定币支付进入菲律宾主流金融的关键信号，可能影响未来餐饮跨境收款的支付通道选择。
+
+**信号**：主流支付平台 Coins.ph 接入 Stripe 孵化的稳定币区块链，跨境支付进入半秒结算时代
+
+**FLIPOS 判断**：判断：Coins.ph 在菲律宾拥有大量用户基础，若稳定币支付在餐饮零售场景普及，FLIPOS 可能需要评估是否支持相关支付通道；目前对港澳/新/日/泰 Solution Pack 无直接冲击，但长期需关注稳定币支付在东南亚的落地节奏。
+
+**建议动作**：支付团队持续关注 Coins.ph 稳定币支付生态进展，评估是否需要提前规划稳定币收款能力；同时监测 Tempo 在菲律宾的 Validator 生态和合规政策走向。
 
 ## 补充观察
 
