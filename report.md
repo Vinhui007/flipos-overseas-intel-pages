@@ -1,7 +1,7 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-08-25 09:08
-- 48 小时重点：4 个
+- 生成时间：2026-08-26 09:04
+- 48 小时重点：7 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,13 +9,53 @@
 
 ## 今日摘要
 
-- 今日重点：4 条
-- 高重要性：0 条
+- 今日重点：7 条
+- 高重要性：1 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
 
-### 1. Deliverect联手Bounteous强化企业级数字点单
+### 1. Stripe 新增东南亚六种支付方式
+
+- 来源：Fintech News Singapore
+- 发布时间：2026-08-25
+- 分类：支付与合规
+- 重要性：8/10
+- 相关性：8/10
+- 市场标签：新加坡、东南亚
+- 事件 Key：stripe-southeast-asia-payment-expansion
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.sg/136275/payments/stripe-singapore-expansion/](https://fintechnews.sg/136275/payments/stripe-singapore-expansion/)
+
+**摘要**：Stripe 为新加坡商户新增六种东南亚支付方式（Samsung Pay、MoMo、GCash、Touch'n Go、PromptPay、TrueMoney），ShopeePay 和 SPayLater 将于 Q4 2026 上线。Stripe 同时推出 Managed Payments 服务，支持企业在 195 个国家无需设立本地实体即可收单，并预告 2027 年在新加坡推出 Treasury 服务。此举强化了 Stripe 在东南亚的支付基础设施地位，对 FLIPOS 在新加坡及东南亚的支付集成策略产生直接竞争与参考价值。
+
+**信号**：Stripe 在新加坡十周年之际扩展东南亚支付版图，新增 GCash、Touch'n Go、PromptPay 等区域主流支付工具
+
+**FLIPOS 判断**：判断：Stripe 新增 PromptPay（泰国）、GCash（菲律宾）等支付方式，若 FLIPOS 在新加坡或东南亚市场使用 Stripe 作为支付通道，这些新支付方式可快速接入；但 Stripe Managed Payments 的 195 国覆盖能力也对 FLIPOS 自建多市场支付网关形成竞争压力。
+
+**建议动作**：支付团队应评估 Stripe 新增支付方式与 FLIPOS 当前支付集成的重叠度，并关注 Q4 2026 ShopeePay/SPayLater 上线后对东南亚外卖平台集成的影响。
+
+### 2. MENU TIGER推出云端POS系统
+
+- 来源：Restaurant Technology News
+- 发布时间：2026-08-25
+- 分类：竞品动态
+- 重要性：7/10
+- 相关性：8/10
+- 市场标签：东南亚、日本、韩国、全球
+- 事件 Key：menu-tiger-pos-expansion
+- 来源类型：新闻/RSS
+- 原文/页面：[https://restauranttechnologynews.com/2026/08/menu-tiger-expands-beyond-digital-ordering-with-new-cloud-based-restaurant-pos-system/](https://restauranttechnologynews.com/2026/08/menu-tiger-expands-beyond-digital-ordering-with-new-cloud-based-restaurant-pos-system/)
+
+**摘要**：MENU TIGER从数字点餐切入云端POS，提供订单、支付、库存、员工管理一体化方案。软启动阶段提供6个月免费试用，目标餐饮全业态。对FLIPOS而言，这是在东南亚/东亚市场多了一个从扫码点餐向POS集成的直接竞争对手。
+
+**信号**：扫码点餐厂商MENU TIGER向POS领域扩展，餐饮SaaS赛道竞争加剧
+
+**FLIPOS 判断**：判断：MENU TIGER从扫码点餐扩展到POS，与FLIPOS在东南亚/东亚市场的iPad POS形成直接竞争，尤其在已有MENU TIGER扫码点餐习惯的客户群中可能形成捆绑优势。
+
+**建议动作**：评估MENU TIGER的定价策略和已覆盖市场，考虑是否需要加强扫码点餐与POS的联动演示，或在重点市场突出FLIPOS POS的功能差异化。
+
+### 3. Deliverect联手Bounteous强化企业级数字点单
 
 - 来源：Restaurant Technology News
 - 发布时间：2026-08-24
@@ -34,7 +74,27 @@
 
 **建议动作**：建议产品团队持续跟踪Deliverect在日本和东南亚市场的产品路线图，重点关注其AI个性化点单与企业POS集成能力的演进，评估FLIPOS当前H5/Kiosk点单方案与竞品的差距。
 
-### 2. Adyen线下支付终端固件与SDK更新
+### 4. 竞品StoreHub获投35亿美元交易额支付扩张
+
+- 来源：Fintech News Malaysia
+- 发布时间：2026-08-25
+- 分类：竞品动态
+- 重要性：6/10
+- 相关性：8/10
+- 市场标签：马来西亚、菲律宾、泰国、日本
+- 事件 Key：storehub-shardlab-payment-expansion
+- 来源类型：新闻/RSS
+- 原文/页面：[https://fintechnews.my/60453/payments-remittance-malaysia/storehub-investment/](https://fintechnews.my/60453/payments-remittance-malaysia/storehub-investment/)
+
+**摘要**：StoreHub获得ShardLab战略投资，其商户网络年处理35亿美元交易额、覆盖2万+商户，遍布马来西亚、菲律宾、泰国和日本四地。StoreHub正围绕AI重建产品，并计划通过合资公司探索支付与会员奖励服务。竞品融资规模与市场覆盖范围值得持续跟踪。
+
+**信号**：东南亚餐饮POS竞品StoreHub获ShardLab投资，宣布重建AI产品，支付与奖励服务将进入测试阶段
+
+**FLIPOS 判断**：判断：StoreHub年交易额达35亿美元且持续扩张支付与会员服务，其在泰国与日本的覆盖与FLIPOS目标市场高度重合，若其AI重构产品快速落地将形成直接竞争压力。
+
+**建议动作**：建议产品团队持续跟踪StoreHub AI产品落地进展与支付奖励服务测试结果，评估其在东南亚与日本市场的商户争夺策略，同时确认FLIPOS当前Solution Pack的差异化定位是否清晰。
+
+### 5. Adyen线下支付终端固件与SDK更新
 
 - 来源：Adyen Docs Release Notes
 - 发布时间：未知
@@ -54,7 +114,7 @@
 
 **建议动作**：建议支付团队查阅完整Release Notes，确认是否有Breaking Changes或需要升级集成的部分，并评估对当前iPad POS的影响
 
-### 3. CPK拟部署千台独立餐食Kiosk
+### 6. CPK拟部署千台独立餐食Kiosk
 
 - 来源：Restaurant Technology News
 - 发布时间：2026-08-24
@@ -74,7 +134,7 @@
 
 **建议动作**：建议产品团队将该案例纳入新加坡Kiosk方案的客户沟通素材，并评估当前Kiosk方案对机场、医院等高流量独立场景的适配程度。
 
-### 4. 连连数字科技半年利润翻倍，Agent Wallet布局AI支付
+### 7. 连连数字科技半年利润翻倍，Agent Wallet布局AI支付
 
 - 来源：Fintech News Hong Kong
 - 发布时间：2026-08-24
