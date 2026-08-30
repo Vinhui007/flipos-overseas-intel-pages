@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T01:03:02",
-  "count": 1120,
+  "generated_at": "2026-08-30T01:03:24",
+  "count": 1127,
   "articles": [
     {
       "id": 1,
@@ -26379,6 +26379,30 @@
       }
     },
     {
+      "id": 1100,
+      "title": "Finloop and Yunfeng Financial Become Latest Anchorpoint Authorised Distributors",
+      "url": "https://fintechnews.hk/40261/blockchain/anchorpoint-hkdap-stablecoin-yunfeng-financial-finloop/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-08-27T08:46:03",
+      "fetched_at": "2026-08-28T01:00:13",
+      "ai_output": {
+        "short_title": "港元稳定币HKDAP机构分销商再增两家",
+        "one_line_signal": "港元锚定稳定币HKDAP生态加速机构化，香港数字港元基础设施建设进入beta阶段",
+        "zh_summary": "Finloop和云锋金融成为Anchorpoint的HKDAP港元稳定币授权分销商，使分销商总数增至5家。此前HashKey、OSL、渣打香港已加入。这些机构分销商主要面向合格投资者和机构用户，提供认购、赎回、兑换、交易和结算服务。显示港元稳定币生态正按监管框架推进机构化部署。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 3,
+        "market_tags": "香港",
+        "primary_market": "香港",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议支付团队将HKDAP稳定币生态纳入长期支付路线图观察清单，重点关注香港金管局稳定币发牌制度最终落地时间表，评估其进入餐饮零售支付场景的可行性。",
+        "flipos_impact": "判断：HKDAP目前主要面向机构用户而非餐饮商家，短期内对FLIPOS港澳支付模块影响有限；但稳定币基础设施成熟后可能成为餐饮支付的备选通道，需关注监管框架扩展至零售场景的进展。"
+      }
+    },
+    {
       "id": 1101,
       "title": "CIMB Tests RM1.38 Billion Tokenised Sukuk Settlement Through BNM Hub",
       "url": "https://fintechnews.my/60571/blockchain/cimb-tokenised-sukuk-settlement/",
@@ -26787,6 +26811,54 @@
       }
     },
     {
+      "id": 1119,
+      "title": "Why Restaurant QR Menus Have an Execution Problem, Not a Concept Problem",
+      "url": "https://restauranttechnologynews.com/2026/08/why-restaurant-qr-menus-have-an-execution-problem-not-a-concept-problem/",
+      "source": "Restaurant Technology News",
+      "region": "Global",
+      "domain": "restaurant_saas",
+      "published_at": "2026-08-27T11:46:27",
+      "fetched_at": "2026-08-28T01:00:23",
+      "ai_output": {
+        "short_title": "QR菜单体验差的根因是技术实现而非概念",
+        "one_line_signal": "餐厅QR码点单失败率高并非客人不喜欢该形式，而是技术实现存在PDF直转、跳转链过长、缺少离线缓存等可修复缺陷",
+        "zh_summary": "文章指出餐饮业QR菜单的高放弃率根源在于执行缺陷而非概念问题：最常见的错误是直接打印PDF导致手机端无法自适应显示；URL跳转链过长（最多4次）在信号差环境造成长时间等待；缺少离线缓存使高峰时段体验崩溃。技术问题可通过减少跳转、使用自适应H5页面和添加Service Worker缓存等标准Web技术解决。",
+        "category": "餐饮数字化",
+        "importance_score": 6,
+        "relevance_score": 7,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署",
+        "action_level": "可观察",
+        "recommended_action": "产品团队应审查H5点单页面的技术实现：验证URL是否直连自有域名而非跳转链、页面是否采用响应式设计而非PDF图片、是否已配置Service Worker实现离线缓存",
+        "flipos_impact": "判断：FLIPOS H5点单若采用PDF直转方案或存在多级跳转，将面临与文中描述相同的用户体验问题，需评估现有实现是否符合自适应布局、单域名、离线缓存等最佳实践"
+      }
+    },
+    {
+      "id": 1131,
+      "title": "Blaze Pizza launches 1st kids meal menu",
+      "url": "https://www.pizzamarketplace.com/news/blaze-pizza-launches-1st-kids-meal-menu/",
+      "source": "Fast Casual",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-08-28T12:46:45",
+      "fetched_at": "2026-08-29T01:00:21",
+      "ai_output": {
+        "short_title": "Blaze Pizza推出首个儿童餐菜单",
+        "one_line_signal": "美国快餐品牌通过儿童餐细分菜单进行差异化竞争",
+        "zh_summary": "Blaze Pizza宣布推出品牌首个儿童餐菜单，提供更小份量的披萨配饮料或水果杯，定价3.99美元。此举反映快餐连锁通过产品细分吸引家庭客群的策略，但作为美国本地化运营决策，对FLIPOS出海业务和产品能力暂无直接关联。",
+        "category": "餐饮数字化",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队记录此案例作为美国快餐市场趋势观察，但暂不纳入产品路线图或出海优先级评估。",
+        "flipos_impact": "判断：此为美国本土快餐品牌的菜单运营决策，对FLIPOS的POS、支付、出海Solution Pack均无直接技术或市场关联，无需跟进。"
+      }
+    },
+    {
       "id": 1133,
       "title": "PayPal shares sink on reported collapse of Stripe-Advent takeover deal",
       "url": "https://www.finextra.com/newsarticle/48322/paypal-shares-sink-on-reported-collapse-of-stripe-advent-takeover-deal",
@@ -26811,6 +26883,30 @@
       }
     },
     {
+      "id": 1134,
+      "title": "Visa and Mastercard complete transactions in Syria after US lifts state terrorism label",
+      "url": "https://www.finextra.com/newsarticle/48321/visa-and-mastercard-complete-transactions-in-syria-after-us-lifts-state-terrorism-label",
+      "source": "Finextra",
+      "region": "Global",
+      "domain": "fintech",
+      "published_at": "2026-08-28T11:53:00",
+      "fetched_at": "2026-08-29T01:00:21",
+      "ai_output": {
+        "short_title": "Visa和Mastercard重返叙利亚支付市场",
+        "one_line_signal": "美国解除制裁标签后国际支付网络重新进入叙利亚，反映地缘政治对跨境支付基础设施的直接影响",
+        "zh_summary": "Visa和Mastercard在叙利亚完成首批国际交易，系美国将叙利亚移出恐怖主义支持国名单后的首个支付里程碑。此事件表明制裁解除可快速激活跨境支付基础设施，但对FLIPOS当前出海市场（港澳新日泰）暂无直接影响。",
+        "category": "支付与合规",
+        "importance_score": 7,
+        "relevance_score": 3,
+        "market_tags": "中东、全球",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议支付团队将此案例归档为制裁解除对支付基础设施影响的观察样本，暂无需采取行动。",
+        "flipos_impact": "判断：此事件短期内不影响FLIPOS现有Solution Pack（港澳新日泰），但提供了制裁解除后支付市场重启的参考案例，未来若FLIPOS扩张至中东市场可作为政策风险评估素材。"
+      }
+    },
+    {
       "id": 1136,
       "title": "Modernizing payments is a must",
       "url": "https://www.paymentsdive.com/news/modernizing-payments-is-a-must/829074/",
@@ -26832,6 +26928,30 @@
         "action_level": "可观察",
         "recommended_action": "建议支付团队持续跟踪全球支付基础设施升级的具体监管要求和主流技术方案，为Solution Pack支付模块迭代提供参考。",
         "flipos_impact": "判断：支付现代化趋势确认了FLIPOS在海外市场强化支付基础设施的方向正确，但文章未提供具体技术路径或合规要求细节。"
+      }
+    },
+    {
+      "id": 1138,
+      "title": "Loyalty programs have become new front line of QSR fraud",
+      "url": "https://www.qsrweb.com/blogs/loyalty-programs-have-become-new-front-line-of-qsr-fraud/",
+      "source": "QSR Web",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-08-28T12:00:00",
+      "fetched_at": "2026-08-29T01:00:27",
+      "ai_output": {
+        "short_title": "忠诚度计划成快餐业欺诈新前线",
+        "one_line_signal": "快餐连锁忠诚度会员体系正成为黑客攻击和欺诈的新目标，需重新评估风控策略",
+        "zh_summary": "文章指出快餐行业（QSR）的忠诚度计划正成为欺诈攻击的新前线，攻击者通过盗取积分、账户接管等方式牟利。这意味着餐饮 SaaS 供应商在设计 CRM 和会员体系时，需要将欺诈防范作为核心功能而非附加选项。",
+        "category": "风险预警",
+        "importance_score": 6,
+        "relevance_score": 5,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "CRM",
+        "action_level": "可观察",
+        "recommended_action": "建议产品团队在 CRM 模块需求评审中加入欺诈风险评估项，可参考行业案例建立基础风控逻辑，无需立即阻塞开发进度。",
+        "flipos_impact": "判断：FLIPOS 港澳和东南亚市场的餐饮客户若部署 CRM 会员积分功能，需评估是否具备防欺诈机制（如异常登录检测、积分兑换风控）。目前 Solution Pack 中未明确提及该风险控制点。"
       }
     },
     {
@@ -26880,6 +27000,54 @@
         "action_level": "需评估",
         "recommended_action": "产品团队建议研究Owner的AI agent能力边界和商业化路径，评估FLIPOS独立餐厅客户对“AI自主运营”需求的成熟度，适时将AI能力建设纳入Solution Pack路线图。",
         "flipos_impact": "判断：Owner展示的AI agent能力（如自动创建营销活动、管理全链路运营）对FLIPOS的海外AI功能规划有参考价值，其从独立餐厅数字化切入并向POS渗透的模式值得产品团队研究。"
+      }
+    },
+    {
+      "id": 1144,
+      "title": "Thai Government Moves to Overhaul Firearms Laws and Licensing",
+      "url": "https://www.thailand-business-news.com/law/324245-thai-government-moves-to-overhaul-firearms-laws-and-licensing",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-08-29T21:15:28",
+      "fetched_at": "2026-08-30T01:00:15",
+      "ai_output": {
+        "short_title": "泰国修订枪支法加强监管",
+        "one_line_signal": "泰国政府修订枪支法律强化许可管控，与餐饮SaaS和支付业务无直接关联",
+        "zh_summary": "泰国政府正修订枪支法律，重点改革进口、销售、持有和使用许可控制，并利用技术手段优化记录和背景核查。尽管这是泰国重要的监管动态，但对餐饮数字化、POS系统、支付解决方案或外卖平台无任何业务影响。",
+        "category": "风险预警",
+        "importance_score": 3,
+        "relevance_score": 1,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "合规",
+        "action_level": "可观察",
+        "recommended_action": "建议标记为低优先级监控即可，无需投入资源跟进。",
+        "flipos_impact": "判断：该新闻与FLIPOS餐饮SaaS、POS、支付或任何Solution Pack能力无业务关联，无需评估对产品路线图的影响。"
+      }
+    },
+    {
+      "id": 1145,
+      "title": "Morning Briefing: Thailand and Asia Business News",
+      "url": "https://www.thailand-business-news.com/news/325683-morning-briefing-thailand-and-asia",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-08-29T20:22:00",
+      "fetched_at": "2026-08-30T01:00:15",
+      "ai_output": {
+        "short_title": "泰国央行收紧黄金交易监管",
+        "one_line_signal": "泰国央行加强零售黄金交易限制，此举属于货币市场调控而非餐饮支付领域，对餐饮SaaS无直接关联。",
+        "zh_summary": "泰国央行行长称3月施行的零售黄金交易限制已有效降低黄金对泰铢的影响，当前线上黄金交易限额为5000万泰铢/人，央行保留进一步收紧空间。此新闻属货币调控范畴，与餐饮支付、POS或外卖平台无直接关联，对FLIPOS泰国市场拓展影响极低。",
+        "category": "监管合规",
+        "importance_score": 2,
+        "relevance_score": 2,
+        "market_tags": "泰国",
+        "primary_market": "泰国",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议法务团队在评估泰国市场时，将此类金融监管作为营商环境背景参考，无需针对餐饮SaaS产品做特殊响应；可观察央行是否将监管扩展至数字支付领域。",
+        "flipos_impact": "判断：该新闻属于泰国货币调控政策，与餐饮SaaS的支付、外卖、POS等核心能力无直接交集；除非FLIPOS泰国业务涉及贵金属相关商户，否则可视为背景噪音。"
       }
     }
   ]
