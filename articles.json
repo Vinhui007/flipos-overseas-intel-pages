@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T01:02:58",
-  "count": 1138,
+  "generated_at": "2026-08-31T03:11:45",
+  "count": 1148,
   "articles": [
     {
       "id": 1,
@@ -26859,6 +26859,102 @@
       }
     },
     {
+      "id": 1120,
+      "title": "Ant International’s Ant Bank and Bettr Selected for Hong Kong’s GenAI Sandbox++",
+      "url": "https://fintechnews.hk/40296/ai/ant-bank-bettr-partnership-hkma-sandbox/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-08-28T05:10:28",
+      "fetched_at": "2026-08-29T01:00:16",
+      "ai_output": {
+        "short_title": "蚂蚁银行携Bettr加入香港GenAI沙盒",
+        "one_line_signal": "香港监管机构推动金融业AI采用，但主要影响银行级流动性管理，与餐饮SaaS关联较弱",
+        "zh_summary": "Ant Bank与Bettr入选香港GenAI Sandbox++，使用蚂蚁Falcon TST AI模型优化流动性预测。该项目由香港金管局等四大监管机构联合发起，旨在推动金融业AI应用。目前项目聚焦银行级 treasury management，与餐饮POS/支付系统无直接技术交集。",
+        "category": "AI与自动化",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "香港",
+        "primary_market": "港澳",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议产品团队保持对香港金管局AI监管动态的关注，尤其关注是否会推出面向零售/餐饮行业的AI应用指引或合规框架。",
+        "flipos_impact": "判断：该新闻反映香港监管机构积极推动金融业AI adoption，但当前聚焦银行级 treasury management。FLIPOS港澳Solution Pack中的支付、Wallet Card等能力暂不受此影响，但若GenAI Sandbox++扩展至零售/餐饮支付场景，可能需要跟进合规要求。"
+      }
+    },
+    {
+      "id": 1121,
+      "title": "Visa and BOCHK Tapped for Hong Kong AI Sandbox to Test Agent-Initiated Commerce",
+      "url": "https://fintechnews.hk/40280/ai/visa-bochk-genai-sandbox-hong-kong/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-08-28T03:19:34",
+      "fetched_at": "2026-08-29T01:00:16",
+      "ai_output": {
+        "short_title": "Visa与中银香港测试AI代理支付",
+        "one_line_signal": "AI代理支付进入沙盒测试阶段，香港支付基础设施向自动化交易演进",
+        "zh_summary": "Visa与中银香港合作在香港推出AI代理商务沙盒测试，连通BOC Pay+与OpenRice等平台，测试AI代理在用户授权下代为完成交易的能力。这反映了支付行业向“无感支付”演进的趋势，虽然短期内对餐饮POS系统影响有限，但可能影响未来支付回调和订单处理逻辑。",
+        "category": "AI与自动化",
+        "importance_score": 6,
+        "relevance_score": 4,
+        "market_tags": "港澳",
+        "primary_market": "港澳",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议产品团队将AI代理商务列为观察项，关注香港AI支付监管政策进展，评估FLIPOS POS系统对AI代理订单请求的兼容适配方案。",
+        "flipos_impact": "判断：虽然当前对FLIPOS港澳业务影响有限，但AI代理支付若普及可能改变用户下单和支付交互方式，需要在产品路线图中提前布局AI交互能力。"
+      }
+    },
+    {
+      "id": 1122,
+      "title": "Hong Kong Regulators Pick 36 Agentic AI Use Cases for GenA.I. Sandbox++",
+      "url": "https://fintechnews.hk/40273/ai/genai-sandbox-hong-kong-agentic-ai/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-08-28T01:48:45",
+      "fetched_at": "2026-08-29T01:00:16",
+      "ai_output": {
+        "short_title": "香港金管局启动AI沙盒，36个代理AI用例获批",
+        "one_line_signal": "香港四大金融监管机构联合推出GenAI沙盒计划，聚焦代理AI在支付、客服等场景的合规测试",
+        "zh_summary": "香港金管局、证监会、保险业监管局及强积金管理局联合Cyberport推出GenAI Sandbox++，首期筛选36个代理AI用例，涵盖支付、客服 onboarding、保险理赔等端到端流程。技术试验将于今年底启动，这反映了香港监管机构对金融AI应用的积极态度，但也意味着餐饮SaaS等跨境金融场景需关注AI合规要求。",
+        "category": "AI与自动化",
+        "importance_score": 7,
+        "relevance_score": 6,
+        "market_tags": "香港、全球",
+        "primary_market": "港澳",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议法务团队持续跟踪香港GenAI监管进展，关注代理AI在支付场景的合规要求演变，评估现有支付模块是否需要增加AI行为日志或审计追踪功能。",
+        "flipos_impact": "判断：目前该沙盒聚焦传统金融机构，暂不直接影响餐饮SaaS，但若代理AI被广泛应用于支付流程，香港餐饮商户的支付合规审计标准可能随之提升，需提前布局AI合规能力。"
+      }
+    },
+    {
+      "id": 1123,
+      "title": "Is Your Money Safe If a Malaysian Digital Bank Suddenly Shuts Down?",
+      "url": "https://fintechnews.my/60523/digital-banking-news-malaysia/digital-bank-shuts-down-malaysia-pidm-protection/",
+      "source": "Fintech News Malaysia",
+      "region": "Malaysia",
+      "domain": "fintech",
+      "published_at": "2026-08-28T03:11:50",
+      "fetched_at": "2026-08-29T01:00:17",
+      "ai_output": {
+        "short_title": "马来西亚数字银行存保机制：5家银行240万客RM42亿存款",
+        "one_line_signal": "马来西亚数字银行用户已达240万、存款规模42亿令吉，BNM强制要求提交退出计划以保障存款人权益",
+        "zh_summary": "马来西亚5家持牌数字银行（GXBank、Boost Bank、AEON Bank、Ryt Bank、KAF Digital Bank）已服务约240万客户、持有42亿令吉存款，均为PIDM成员。BNM要求数字银行在申请牌照时必须提交退出计划，五年内未达资本要求者须执行退出，否则面临执照撤销。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "马来西亚",
+        "primary_market": "全球",
+        "affected_capability": "合规",
+        "action_level": "可观察",
+        "recommended_action": "建议持续关注马来西亚市场动态，待未来考虑进入时可参考其数字银行PIDM保护机制作为合规设计参照；目前无需采取具体行动。",
+        "flipos_impact": "判断：马来西亚非FLIPOS当前Solution Pack目标市场，且本文聚焦存款保险与银行退出机制，对FLIPOS餐饮SaaS产品能力无直接影响，但可作为东南亚数字银行合规研究的背景参考。"
+      }
+    },
+    {
       "id": 1124,
       "title": "GCash Loan Scam Victims Can Now Get Insurance Payouts",
       "url": "https://fintechnews.ph/73302/security/gcash-facial-verification-gloan/",
@@ -26880,6 +26976,102 @@
         "action_level": "可观察",
         "recommended_action": "建议基建团队持续跟踪东南亚市场电子钱包的生物识别合规要求，为未来市场扩展预研技术对接方案；同时可参考GCash的诈骗保险模式，评估是否需在支付方案中加入类似风控保障建议。",
         "flipos_impact": "判断：菲律宾GCash的生物识别+保险方案代表东南亚电子钱包在信贷安全上的演进方向，当前对FLIPOS无直接影响，但未来若FLIPOS进入菲律宾市场或对接GCash支付，需关注其合规要求变化。"
+      }
+    },
+    {
+      "id": 1125,
+      "title": "Filipinos Can Now Grow Retirement Savings With a PERA Time Deposit",
+      "url": "https://fintechnews.ph/73298/personalfinance/pera-time-deposit-philippines-bsp/",
+      "source": "Fintech News Philippines",
+      "region": "Philippines",
+      "domain": "fintech",
+      "published_at": "2026-08-28T05:12:44",
+      "fetched_at": "2026-08-29T01:00:17",
+      "ai_output": {
+        "short_title": "菲律宾央行允许PERA定期存款",
+        "one_line_signal": "菲律宾BSP将定期存款纳入养老储蓄账户(PERA)合规产品清单",
+        "zh_summary": "菲律宾央行(BSP)发布备忘录M-2026-044，允许银行将定期存款作为养老储蓄账户(PERA)的合规投资工具。这是针对个人投资者的养老储蓄产品扩容，与餐饮商家的支付处理、POS系统、外卖回调等业务无直接关联，FLIPOS菲律宾餐饮SaaS业务暂不受影响。",
+        "category": "合规",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "菲律宾",
+        "primary_market": "全球",
+        "affected_capability": "合规",
+        "action_level": "可观察",
+        "recommended_action": "产品团队可将该政策纳入菲律宾金融监管环境监控，用于长期合规判断，但无需调整当前产品路线图或支付集成计划。",
+        "flipos_impact": "判断：该政策属个人金融/养老储蓄监管范畴，与餐饮商家的支付网关、外卖聚合、POS系统等核心业务能力无直接交集，对FLIPOS当前Solution Pack在菲律宾的落地不构成影响。"
+      }
+    },
+    {
+      "id": 1126,
+      "title": "Asian Cybercrime Networks Turn to Decentralization, AI Tools, New Research Finds",
+      "url": "https://fintechnews.sg/136418/security/asian-cybercrime-networks-turn-to-decentralization-ai-tools-new-research-finds/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-08-28T06:02:08",
+      "fetched_at": "2026-08-29T01:00:18",
+      "ai_output": {
+        "short_title": "亚太网络犯罪去中心化与AI化趋势加剧",
+        "one_line_signal": "网络犯罪集团采用去中心化运营和AI深度伪造技术，对跨境支付合规和反欺诈体系提出新挑战",
+        "zh_summary": "APG报告显示亚太35%的成员国发现网络诈骗集团去中心化趋势，犯罪窝点从缅柬老分散至酒店民宿等小型场所。同时82%成员国发现深度伪造、59%发现语音克隆被用于诈骗。对支付行业而言，AI驱动的身份欺诈将增加商户和平台的合规压力，需提前布局反欺诈和KYC能力。",
+        "category": "风险预警",
+        "importance_score": 6,
+        "relevance_score": 5,
+        "market_tags": "新加坡、马来西亚、越南、斯里兰卡、泰国",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "支付团队可向Adyen、KPay等支付合作方确认其AI反欺诈和深度伪造检测能力覆盖范围，评估是否需要额外风控措施。",
+        "flipos_impact": "判断：网络犯罪AI化（如深度伪造身份验证）可能增加FLIPOS海外商户的支付欺诈风险，需关注支付合作伙伴的AI反欺诈能力是否覆盖亚太区域。"
+      }
+    },
+    {
+      "id": 1127,
+      "title": "HSBC Weighs Singapore Restructuring to Unite Wholesale, Retail and Private Banking",
+      "url": "https://fintechnews.sg/136472/fintech/hsbc-singapore-restructuring/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-08-28T04:08:32",
+      "fetched_at": "2026-08-29T01:00:18",
+      "ai_output": {
+        "short_title": "汇丰考虑合并新加坡业务组织架构",
+        "one_line_signal": "新加坡主要银行汇丰内部重组可能影响其对Fintech合作伙伴的支持策略",
+        "zh_summary": "汇丰银行正在评估将新加坡批发、零售和私人银行业务统一至本地子公司的可能性，目前尚未确认是否执行。该行表示所有权、管理和解决方案安排将保持不变，但对Fintech合作伙伴关系可能有间接影响。",
+        "category": "支付与合规",
+        "importance_score": 3,
+        "relevance_score": 2,
+        "market_tags": "新加坡",
+        "primary_market": "新加坡",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议支付团队将此信息归档，暂不需要采取行动，但持续关注汇丰新加坡重组后续动态，尤其是是否有支付产品或API变更公告。",
+        "flipos_impact": "判断：当前影响有限，因汇丰表示所有权和管理安排不变，且汇丰并非FLIPOS新加坡Solution Pack的核心支付合作方。但如果重组完成长期影响需观察。"
+      }
+    },
+    {
+      "id": 1128,
+      "title": "AWS to Deploy 2 Million More NVIDIA GPUs by 2028",
+      "url": "https://fintechnews.sg/136461/ai/aws-nvidia-gpus/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-08-28T03:29:10",
+      "fetched_at": "2026-08-29T01:00:18",
+      "ai_output": {
+        "short_title": "AWS与NVIDIA扩大AI基础设施合作",
+        "one_line_signal": "AI基础设施竞争加剧，AWS大规模部署GPU可能影响云服务定价",
+        "zh_summary": "AWS计划在2027-2028年新增200万NVIDIA GPU，这是继2026年100万GPU计划后的扩展。新增容量涵盖Blackwell Ultra、Rubin等新一代GPU，用于代理AI、科学发现、企业自动化等领域。此举反映了AI基础设施竞争加剧，AWS在GPU资源上的投入可能影响未来云服务定价和AI应用成本。",
+        "category": "AI与自动化",
+        "importance_score": 7,
+        "relevance_score": 5,
+        "market_tags": "新加坡、泰国、日本、全球",
+        "primary_market": "全球",
+        "affected_capability": "云部署",
+        "action_level": "可观察",
+        "recommended_action": "持续监控AWS基础设施发展，评估AWS作为FLIPOS云服务合作伙伴的长期战略价值。关注AWS AI服务价格变化，为可能的成本调整做准备。",
+        "flipos_impact": "判断：AWS基础设施扩张可能影响FLIPOS的云部署成本和服务可用性。如果AWS在AI领域加大投入，可能会影响AWS对传统云服务的价格策略，间接影响FLIPOS的运营成本。"
       }
     },
     {
@@ -27312,6 +27504,54 @@
         "action_level": "可观察",
         "recommended_action": "支付团队应建立稳定币支付情报追踪机制，评估东南亚主要市场监管态度，为未来支付能力扩展做准备。",
         "flipos_impact": "判断：虽然韩国不在FLIPOS当前Solution Pack范围内，但Visa稳定币平台的成熟可能影响东南亚市场支付合规要求，需持续跟踪全球稳定币监管动态。"
+      }
+    },
+    {
+      "id": 1147,
+      "title": "IFC Invests US$20 Million in Boost at US$340 Million Valuation",
+      "url": "https://fintechnews.my/60591/funding/boost-ifc-investment/",
+      "source": "Fintech News Malaysia",
+      "region": "Malaysia",
+      "domain": "fintech",
+      "published_at": "2026-08-31T02:43:17",
+      "fetched_at": "2026-08-31T03:05:51",
+      "ai_output": {
+        "short_title": "IFC 2000万美元投资马来西亚Boost支付平台",
+        "one_line_signal": "世界银行 IFC 以 3.4 亿美元估值投资马来西亚支付平台 Boost，反映国际机构持续押注东南亚支付基础设施。",
+        "zh_summary": "IFC（世界银行私营部门）向 Boost Holdings 投资 2000 万美元，估值 3.4 亿美元。Boost 运营马来西亚和印尼的支付及融资服务，拥有数字银行 Boost Bank。投资信号表明国际机构持续看好东南亚支付基础设施，马来西亚作为潜在出海市场值得关注。",
+        "category": "支付与合规",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "马来西亚、印度尼西亚",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议产品团队将 Boost 纳入东南亚支付生态监测名单，未来若考虑进入马来西亚市场，Boost Bank 可作为潜在支付合作方评估。",
+        "flipos_impact": "判断：马来西亚不在 FLIPOS 当前 Solution Pack 主攻市场，此投资暂无直接业务影响；但 Boost 的支付+银行双轨模式对 FLIPOS 评估东南亚支付生态合作伙伴有参考价值。"
+      }
+    },
+    {
+      "id": 1148,
+      "title": "Jason's Deli, Omnirev leaders talk guest data, AI for driving repeat catering business",
+      "url": "https://www.fastcasual.com/articles/jasons-deli-omnirev-leaders-talk-guest-data-ai-for-driving-repeat-catering-business/",
+      "source": "Fast Casual",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-08-28T10:00:00",
+      "fetched_at": "2026-08-31T03:06:12",
+      "ai_output": {
+        "short_title": "餐饮CRM与AI驱动复购：美式熟食店案例",
+        "one_line_signal": "美国连锁餐厅Jason's Deli通过客人数据与AI提升团餐复购率，反映餐饮业数据驱动运营趋势向B2B场景延伸",
+        "zh_summary": "Jason's Deli与Omnirev在餐饮团餐工作坊上探讨如何利用AI和客人数据提升留存、将数据转化为营收。该案例显示团餐（B2B）场景正成为餐饮CRM与AI应用的新增长点，客人数据闭环是核心。",
+        "category": "AI与自动化",
+        "importance_score": 4,
+        "relevance_score": 5,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "CRM",
+        "action_level": "可观察",
+        "recommended_action": "产品团队可将该团餐CRM场景列入下一季度需求池，评估与现有外卖回调能力的整合可行性；市场团队可关注Omnirev的解决方案定位作为对标参考。",
+        "flipos_impact": "判断：FLIPOS当前海外Solution Pack中CRM模块侧重外卖平台回调触达，该案例揭示的团餐场景数据闭环需求可作为港澳/新加坡市场CRM能力扩展的参考方向，但非直接竞品动作。"
       }
     }
   ]
