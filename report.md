@@ -1,7 +1,7 @@
 # FLIPOS INT Daily Report
 
-- 生成时间：2026-09-01 09:02
-- 48 小时重点：0 个
+- 生成时间：2026-09-01 17:38
+- 48 小时重点：1 个
 - 14 天趋势：10 个
 - 补充观察：5 个
 - 时间规则：48 小时重点 / 14 天趋势 / 高分历史背景；无发布时间按近 24 小时抓取计算
@@ -9,13 +9,30 @@
 
 ## 今日摘要
 
-- 今日重点：0 条
+- 今日重点：1 条
 - 高重要性：0 条
 - 建议重点关注支付合规、本地生活平台变化、餐饮数字化和目标市场监管动态。
 
 ## 48 小时重点
 
-暂无 48 小时重点情报。
+### 1. 自有点餐成为餐饮数字化战略优先项
+
+- 来源：Restaurant Technology News
+- 发布时间：2026-08-31
+- 分类：餐饮数字化
+- 重要性：7/10
+- 相关性：8/10
+- 事件 Key：first-party-digital-ordering-strategy
+- 来源类型：新闻/RSS
+- 原文/页面：[https://restauranttechnologynews.com/2026/08/why-first-party-digital-ordering-is-becoming-a-strategic-priority-for-restaurants/](https://restauranttechnologynews.com/2026/08/why-first-party-digital-ordering-is-becoming-a-strategic-priority-for-restaurants/)
+
+**摘要**：第三方外卖平台的高抽佣和客户数据缺失促使餐饮品牌重新审视数字点餐策略。自有点餐不仅是降低渠道成本的手段，更是建立会员体系、实现精准营销的基础设施。FLIPOS 的 H5/Kiosk 方案与这一趋势高度契合，文章验证了海外餐饮品牌对掌控第一方数据的强烈需求。
+
+**信号**：餐饮品牌从依赖第三方平台转向建设自有数字点餐渠道，以掌控客户关系和数据主权
+
+**FLIPOS 判断**：判断：文章验证了 FLIPOS H5/Kiosk 自有点餐方案的市场需求，餐饮品牌对降低平台依赖、掌控客户数据的需求与 FLIPOS 出海 Solution Pack 能力高度匹配，有助于向客户阐述方案价值。
+
+**建议动作**：产品团队应重点打磨 H5/Kiosk 的用户体验流畅度，并与 CRM 模块深度集成，强化客户数据沉淀能力；在与餐饮品牌沟通时，可将此趋势作为自有点餐功能的核心卖点之一。
 
 ## 14 天趋势
 
