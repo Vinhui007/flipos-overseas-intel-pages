@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T03:11:45",
-  "count": 1148,
+  "generated_at": "2026-09-01T01:02:57",
+  "count": 1150,
   "articles": [
     {
       "id": 1,
@@ -27552,6 +27552,54 @@
         "action_level": "可观察",
         "recommended_action": "产品团队可将该团餐CRM场景列入下一季度需求池，评估与现有外卖回调能力的整合可行性；市场团队可关注Omnirev的解决方案定位作为对标参考。",
         "flipos_impact": "判断：FLIPOS当前海外Solution Pack中CRM模块侧重外卖平台回调触达，该案例揭示的团餐场景数据闭环需求可作为港澳/新加坡市场CRM能力扩展的参考方向，但非直接竞品动作。"
+      }
+    },
+    {
+      "id": 1158,
+      "title": "Uzbek Regulator Clears TBC Bank Group’s Acquisition of OLX Uzbekistan",
+      "url": "https://www.thailand-business-news.com/press-release/325954-uzbek-regulator-clears-tbc-bank-groups-acquisition-of-olx-uzbekistan",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-08-31T18:02:55",
+      "fetched_at": "2026-09-01T01:01:34",
+      "ai_output": {
+        "short_title": "乌兹别克斯坦批准OLX分类广告收购案",
+        "one_line_signal": "中亚金融科技并购活动，但与餐饮数字化赛道无关",
+        "zh_summary": "乌兹别克斯坦反垄断机构批准TBC Bank通过子公司收购当地最大分类广告平台OLX Uzbekistan。该交易属于金融集团整合在线分类业务，与餐饮SaaS、外卖平台、支付基础设施无直接关联，对FLIPOS出海市场影响极低。",
+        "category": "出海市场动态",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "乌兹别克斯坦、全球",
+        "primary_market": "全球",
+        "affected_capability": "无",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队将精力集中在东南亚/日韩核心市场的竞品动态追踪，暂无需跟进中亚分类广告平台的并购新闻。",
+        "flipos_impact": "判断：乌兹别克斯坦非FLIPOS当前Solution Pack目标市场（港澳/新加坡/日本/泰国），该并购案涉及在线分类广告而非餐饮外卖或支付，与FLIPOS产品能力无交集，对海外业务无实质影响。"
+      }
+    },
+    {
+      "id": 1159,
+      "title": "Why Gwyneth Paltrow-backed Goop Kitchen is adding dine-in to $6.7M delivery empire",
+      "url": "https://www.fastcasual.com/articles/why-gwyneth-paltrow-backed-goop-kitchen-is-adding-dine-in-to-67m-delivery-empire/",
+      "source": "Fast Casual",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-08-31T13:33:18",
+      "fetched_at": "2026-09-01T01:01:36",
+      "ai_output": {
+        "short_title": "Goop Kitchen从纯外卖切入堂食全渠道",
+        "one_line_signal": "DTC健康餐饮品牌从纯外卖转型全渠道堂食，验证多场景融合能力需求",
+        "zh_summary": "Gwyneth Paltrow背书的Goop Kitchen在深耕5年纯外卖/自取模式后，于加州开设首家92座堂食旗舰店。该案例反映餐饮品牌正从单一渠道向堂食+外卖+自取全渠道转型，对POS系统的多场景统一运营能力提出更高要求。",
+        "category": "餐饮数字化",
+        "importance_score": 5,
+        "relevance_score": 4,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "POS",
+        "action_level": "可观察",
+        "recommended_action": "产品团队可将该案例作为多场景融合能力的参考案例，观察海外餐饮品牌全渠道转型趋势是否在东南亚/东亚市场复制。原文未说明",
+        "flipos_impact": "判断：Goop Kitchen从纯外卖向全渠道转型，验证了餐饮SaaS需具备堂食+外卖+自取统一运营能力的需求趋势，与FLIPOS多场景POS产品方向一致。"
       }
     }
   ]
