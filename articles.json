@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T09:38:40",
-  "count": 1162,
+  "generated_at": "2026-09-02T01:08:35",
+  "count": 1174,
   "articles": [
     {
       "id": 1,
@@ -27555,6 +27555,78 @@
       }
     },
     {
+      "id": 1149,
+      "title": "Aspire Yield Turns Idle Cash into Returns for Hong Kong Businesses",
+      "url": "https://fintechnews.hk/40322/wealthtech/aspire-yield-hong-kong-launch/",
+      "source": "Fintech News Hong Kong",
+      "region": "Hong Kong",
+      "domain": "fintech",
+      "published_at": "2026-08-31T04:57:14",
+      "fetched_at": "2026-09-01T01:01:15",
+      "ai_output": {
+        "short_title": "Aspire在香港推出企业现金管理理财产品",
+        "one_line_signal": "香港企业金融服务竞争加剧，现金管理正成为B2B金融科技差异化方向",
+        "zh_summary": "Aspire在香港推出企业闲置资金理财服务Aspire Yield，获得香港证监会1/4/9号牌照后与Franklin Templeton合作，面向港资企业提供USD/HKD余额投资，无最低门槛且资金次日可取。这是B2B金融科技向一体化财资管理演进的信号，但对餐饮POS/支付基础设施无直接关联。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "香港",
+        "primary_market": "港澳",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议产品团队将此作为香港金融生态补充能力观察，如商户有财资一体化需求，可考虑与Aspire等B2B金融平台做API集成预研，暂不作为紧急事项处理。",
+        "flipos_impact": "判断：Aspire Yield属于企业财资管理范畴，与餐饮SaaS的支付收单、外卖聚合核心链路无直接竞争；但香港餐饮商户若使用Aspire作为企业账户，可能影响其与FLIPOS的资金归集和账务对账需求。"
+      }
+    },
+    {
+      "id": 1152,
+      "title": "BSP Proposes Annual Liquidity Tests for Systemically Important Banks",
+      "url": "https://fintechnews.ph/73313/banking/bsp-bank-discount-window-facility/",
+      "source": "Fintech News Philippines",
+      "region": "Philippines",
+      "domain": "fintech",
+      "published_at": "2026-08-31T07:29:58",
+      "fetched_at": "2026-09-01T01:01:17",
+      "ai_output": {
+        "short_title": "菲律宾央行强化系统重要性银行流动性测试",
+        "one_line_signal": "菲律宾BSP收紧系统重要性银行流动性合规要求，餐饮支付资金链路稳定性面临更高审查",
+        "zh_summary": "菲律宾央行BSP要求系统重要性银行每年测试贴现窗口便利额度，并简化申请流程以加快流动性支持响应速度。该政策主要针对大型银行，但可能间接影响餐饮SaaS接入本地银行通道的资金结算时效性。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "菲律宾",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议支付团队在评估新市场进入时，将银行流动性合规要求纳入合作伙伴评估维度，持续跟踪BSP政策走向。",
+        "flipos_impact": "判断：FLIPOS当前Solution Pack尚未覆盖菲律宾市场，该政策对现有出海业务的直接影响有限；但若未来进入菲律宾市场，需关注合作银行的DWF测试状态对支付通道稳定性的潜在影响。"
+      }
+    },
+    {
+      "id": 1153,
+      "title": "PH Bank Deposits Hit PHP 22 Trillion, Growth Nearly Doubles Year-on-Year",
+      "url": "https://fintechnews.ph/73310/banking/pdic-philippines-bank-deposits-php-22-trillion/",
+      "source": "Fintech News Philippines",
+      "region": "Philippines",
+      "domain": "fintech",
+      "published_at": "2026-08-31T06:39:43",
+      "fetched_at": "2026-09-01T01:01:17",
+      "ai_output": {
+        "short_title": "菲律宾银行存款突破22万亿比索",
+        "one_line_signal": "菲律宾存款增长加速至9.8%，消费者对银行系统信心增强，可能带动消费能力提升",
+        "zh_summary": "菲律宾银行存款达22.04万亿比索，同比增长9.8%，较前一年的5.3%增速大幅提升。PDIC于2025年3月将存款保险覆盖额度翻倍至100万比索，推动了存款增长加速。个人和企业存款占增量的76%，显示消费者财务基础改善，间接有利于餐饮消费场景。",
+        "category": "支付与合规",
+        "importance_score": 4,
+        "relevance_score": 3,
+        "market_tags": "菲律宾",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "可作为东南亚市场长期潜力评估的背景数据关注，暂无需纳入当前产品或支付团队的行动项。",
+        "flipos_impact": "判断：菲律宾不在FLIPOS当前Solution Pack目标市场（港澳、新加坡、日本、泰国）之列，此数据暂无直接影响，但存款增长反映消费者购买力提升，对未来潜在市场拓展有一定参考价值。"
+      }
+    },
+    {
       "id": 1155,
       "title": "MAS Commits S$220 Million Funding to Singapore’s Next Fintech Push",
       "url": "https://fintechnews.sg/136531/funding/mas-fintech-funding/",
@@ -27603,6 +27675,30 @@
       }
     },
     {
+      "id": 1157,
+      "title": "AI Set to Contribute up to US$130B to the Vietnamese Economy by 2040",
+      "url": "https://fintechnews.sg/136479/vietnam/ai-set-to-contribute-up-to-us130b-to-the-vietnamese-economy-by-2040/",
+      "source": "Fintech News Singapore",
+      "region": "Singapore",
+      "domain": "fintech",
+      "published_at": "2026-08-31T06:04:38",
+      "fetched_at": "2026-09-01T01:01:18",
+      "ai_output": {
+        "short_title": "越南AI经济2040年预计贡献1300亿美元",
+        "one_line_signal": "越南AI经济快速发展，东南亚生成式AI创业公司占比27%排名第二，显示该市场对AI解决方案的强烈需求",
+        "zh_summary": "越南AI经济预计到2040年贡献1200-1300亿美元，其中消费驱动收入450-550亿美元，生产力节省600-750亿美元。越南在东南亚生成式AI创业公司中占27%排名第二，2024年AI领域融资达7.8亿美元。虽然越南非FLIPOS当前Solution Pack目标市场，但其AI采纳成熟度为未来拓展提供参考。",
+        "category": "AI与自动化",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "越南、东南亚",
+        "primary_market": "全球",
+        "affected_capability": "AI与自动化",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队将越南列为中长期观察市场，关注其餐饮数字化进程；同时跟踪越南AI创业生态，为未来可能的Solution Pack扩展做准备。",
+        "flipos_impact": "判断：越南不在FLIPOS当前Solution Pack目标市场（港澳、新加坡、日本、泰国）内，短期直接影响有限。但越南金融领域74%的AI部署率和成熟的eKYC、OCR等应用，可作为未来市场拓展时AI能力对接的参考案例。"
+      }
+    },
+    {
       "id": 1158,
       "title": "Uzbek Regulator Clears TBC Bank Group’s Acquisition of OLX Uzbekistan",
       "url": "https://www.thailand-business-news.com/press-release/325954-uzbek-regulator-clears-tbc-bank-groups-acquisition-of-olx-uzbekistan",
@@ -27648,6 +27744,30 @@
         "action_level": "可观察",
         "recommended_action": "产品团队可将该案例作为多场景融合能力的参考案例，观察海外餐饮品牌全渠道转型趋势是否在东南亚/东亚市场复制。原文未说明",
         "flipos_impact": "判断：Goop Kitchen从纯外卖向全渠道转型，验证了餐饮SaaS需具备堂食+外卖+自取统一运营能力的需求趋势，与FLIPOS多场景POS产品方向一致。"
+      }
+    },
+    {
+      "id": 1160,
+      "title": "Beyond the booking: How Navan scaled global card issuing with embedded finance",
+      "url": "https://www.paymentsdive.com/spons/beyond-the-booking-how-navan-scaled-global-card-issuing-with-embedded-fina/828874/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-08-31T05:00:00",
+      "fetched_at": "2026-09-01T01:01:38",
+      "ai_output": {
+        "short_title": "企业旅行平台Navan嵌入式金融发卡破十亿欧元",
+        "one_line_signal": "企业级嵌入式金融发卡规模突破十亿欧元，Adyen企业金融解决方案成熟度提升",
+        "zh_summary": "企业旅行平台Navan通过Adyen实现全球发卡规模超10亿欧元，展示嵌入式金融在B2B领域的成熟应用。该案例反映大型企业支付基础设施正向嵌入式方向整合，虽非餐饮领域直接应用，但Adyen作为FLIPOS合作伙伴的能力边界在持续扩展。",
+        "category": "支付与合规",
+        "importance_score": 6,
+        "relevance_score": 4,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "建议支付团队关注Adyen嵌入式金融产品的迭代，特别是与新加坡GrabFood等本地生活场景的潜在联动可能性，但暂不作为当前Solution Pack开发优先项。",
+        "flipos_impact": "判断：虽然Navan属于企业差旅领域而非餐饮行业，但Adyen作为FLIPOS新加坡市场的支付合作伙伴，其嵌入式金融发卡能力提升意味着FLIPOS未来若拓展企业支付场景（如员工餐补卡）可能有更成熟的方案可集成。"
       }
     },
     {
@@ -27888,6 +28008,174 @@
         "action_level": "可观察",
         "recommended_action": "建议市场团队持续关注泰国汇率稳定性，评估是否需要为客户提供多货币定价选项或汇率波动下的成本优化建议，暂无需调整当前产品路线图。",
         "flipos_impact": "判断：泰铢汇率若持续波动可能影响泰国餐饮商家的成本核算和定价决策，间接影响FLIPOS在当地的客户续费意愿；极端情况下若客户收入以泰铢计价但需以美元结算，会增加运营复杂度。"
+      }
+    },
+    {
+      "id": 1205,
+      "title": "Rethinking Wealth Planning for Longevity in the APAC Region",
+      "url": "https://www.thailand-business-news.com/finance/325405-rethinking-wealth-planning-for-longevity-in-the-apac-region",
+      "source": "Thailand Business News",
+      "region": "Thailand",
+      "domain": "local_business",
+      "published_at": "2026-09-01T18:35:00",
+      "fetched_at": "2026-09-02T01:01:51",
+      "ai_output": {
+        "short_title": "APAC地区长寿财富规划变革",
+        "one_line_signal": "亚洲老龄化加速正重塑地区财富规划与传承方式，与餐饮数字化业务关联度低",
+        "zh_summary": "文章探讨APAC地区因人口老龄化速度超前于经济富裕化进程，迫使家庭财富规划、保护与传承方式发生根本性改变。该话题属于泛金融领域，与餐饮SaaS、POS或支付业务无直接关联，对FLIPOS出海Solution Pack落地无实质影响。",
+        "category": "出海市场动态",
+        "importance_score": 3,
+        "relevance_score": 1,
+        "market_tags": "泰国、新加坡、日本、东南亚",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队继续关注与餐饮数字化、本地生活平台、支付合规相关的新闻源，当前文章可归档为宏观市场参考资料，无需深入跟进。",
+        "flipos_impact": "判断：文章聚焦财富管理与老龄化金融规划，与FLIPOS餐饮SaaS、POS、外卖、支付等核心业务能力无交集，暂不对海外业务产生影响。人口老龄化长期或影响餐饮消费结构，但文章未涉及该维度。"
+      }
+    },
+    {
+      "id": 1206,
+      "title": "How restaurant real estate is being rewritten — and what operators need to know",
+      "url": "https://www.fastcasual.com/podcasts/how-restaurant-real-estate-is-being-rewritten-and-what-operators-need-to-know/",
+      "source": "Fast Casual",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-09-01T17:29:23",
+      "fetched_at": "2026-09-02T01:01:54",
+      "ai_output": {
+        "short_title": "餐饮选址模式转变：幽灵厨房与共享空间兴起",
+        "one_line_signal": "餐饮业通过幽灵厨房、共享厨房和灵活租约降低开店门槛，传统选址逻辑正在被重写",
+        "zh_summary": "播客讨论商业房地产如何重塑餐饮业，核心变化包括幽灵厨房（Ghost Kitchen）兴起、共享厨房模式流行、快餐连锁转向轻资产选址策略。这些趋势意味着餐饮运营商不再需要高额租金的传统临街店面，可降低 30-50% 的初始投入成本。",
+        "category": "餐饮数字化",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "产品团队可跟踪幽灵厨房场景对 Kiosk 和云 POS 的特殊需求（如多品牌订单路由、远程管理），但无需立即行动。",
+        "flipos_impact": "判断：幽灵厨房和共享厨房模式对 POS 系统需求可能不同（无人值守、多租户厨房），但该播客未讨论技术细节，FLIPOS 当前 Solution Pack 未受影响。"
+      }
+    },
+    {
+      "id": 1207,
+      "title": "Moe’s Southwest Grill adds to Twin Cities presence with traditional restaurant",
+      "url": "https://www.fastcasual.com/news/moes-southwest-grill-adds-to-twin-cities-presence-with-traditional-restaurant/",
+      "source": "Fast Casual",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-09-01T10:00:00",
+      "fetched_at": "2026-09-02T01:01:54",
+      "ai_output": {
+        "short_title": "美国快餐品牌Moe's双城扩张",
+        "one_line_signal": "美国本土快餐品牌在明尼苏达州双城地区新增门店，属于常规市场扩张新闻，与出海市场无关联。",
+        "zh_summary": "美国西南风味快餐品牌Moe's Southwest Grill在明尼阿波利斯-圣保罗双城地区开设传统餐厅，延续其区域扩张策略。这是美国本土市场的单店开业公告，无涉及支付技术、POS系统、外卖平台或任何跨境数字化餐饮能力。",
+        "category": "本地生活平台",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "POS",
+        "action_level": "可观察",
+        "recommended_action": "无需跟进，可从监控列表中移除此类纯美国本土餐饮扩张新闻，避免浪费分析资源。",
+        "flipos_impact": "判断：该文章报道美国本土快餐品牌在美国的单店扩张，对FLIPOS的港澳、新加坡、日本、泰国等出海市场无任何参考价值，也不涉及任何Solution Pack能力。"
+      }
+    },
+    {
+      "id": 1208,
+      "title": "PayPal makes job cuts",
+      "url": "https://www.paymentsdive.com/news/paypal-employee-job-cuts-restructuring-enrique-lores/829314/",
+      "source": "Payments Dive",
+      "region": "Global",
+      "domain": "payments",
+      "published_at": "2026-09-01T11:14:00",
+      "fetched_at": "2026-09-02T01:01:55",
+      "ai_output": {
+        "short_title": "PayPal裁员重组",
+        "one_line_signal": "支付巨头PayPal执行5月计划裁员，反映数字支付行业竞争加剧与成本优化压力",
+        "zh_summary": "PayPal本周启动裁员，系其5月公布的重组计划一部分。此前有报道称PayPal曾搁置出售可能性，转而选择内部精简。此举反映数字支付市场竞争加剧，传统支付巨头面临盈利压力需优化成本结构。",
+        "category": "竞品动态",
+        "importance_score": 6,
+        "relevance_score": 4,
+        "market_tags": "全球",
+        "primary_market": "全球",
+        "affected_capability": "支付",
+        "action_level": "可观察",
+        "recommended_action": "产品团队可关注PayPal商户支持政策变化，评估其他支付网关的备选方案；但鉴于FLIPOS现有Solution Pack未包含PayPal，此项观察优先级较低。",
+        "flipos_impact": "判断：PayPal裁员对其API稳定性和开发者生态的直接影响有限，但若其收缩B2B商家服务，可能为Adyen、Wise等竞对支付平台提供市场空间，间接影响FLIPOS支付合作的谈判筹码。"
+      }
+    },
+    {
+      "id": 1209,
+      "title": "Golden Chick launches 1st-ever queso lineup",
+      "url": "https://www.qsrweb.com/news/golden-chick-launches-1st-ever-queso-lineup/",
+      "source": "QSR Web",
+      "region": "Global",
+      "domain": "restaurant_ops",
+      "published_at": "2026-09-01T12:56:36",
+      "fetched_at": "2026-09-02T01:01:58",
+      "ai_output": {
+        "short_title": "美国炸鸡品牌Golden Chick推出首款芝士辣酱系列",
+        "one_line_signal": "美国快餐品牌通过新品发布驱动同店销售增长",
+        "zh_summary": "美国快餐连锁品牌Golden Chick宣布推出首个芝士辣酱（queso）产品线，系该品牌创立以来首次涉足该品类。Golden Chick作为主打炸鸡的QSR品牌，此举意在通过品类扩展吸引新客群并提升客单价。该新闻属单一品牌产品上新，对餐饮SaaS或支付行业无直接关联，但反映了QSR品牌持续通过菜单创新驱动增长的趋势。",
+        "category": "餐饮数字化",
+        "importance_score": 2,
+        "relevance_score": 1,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "可标记为低优先级行业噪音，无需跟进。如FLIPOS在北美市场有餐饮客户，可关注其菜单管理模块是否有类似需求。",
+        "flipos_impact": "判断：此新闻仅涉及美国单一快餐品牌的菜单上新，与FLIPOS餐饮SaaS、POS系统、支付集成或任何出海Solution Pack均无交集，暂无业务影响。"
+      }
+    },
+    {
+      "id": 1210,
+      "title": "Q2 2026’s restaurant winners and losers",
+      "url": "https://www.restaurantdive.com/news/q2-restaurant-winners-loses-coffee-pizza-steak-wendys-burger-king/829001/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-09-01T11:21:00",
+      "fetched_at": "2026-09-02T01:01:58",
+      "ai_output": {
+        "short_title": "美国餐饮Q2赢家：咖啡领跑披萨失势",
+        "one_line_signal": "美国QSR连锁在数字化转型中分化，咖啡品类逆势增长反映消费偏好变化",
+        "zh_summary": "2026年Q2美国餐饮业呈现明显分化：咖啡品类表现强劲，披萨品类持续疲软，星巴克等传统连锁在转型压力下挣扎求存。该趋势反映消费者对健康便捷和数字化体验的需求升级，对面向美国市场的餐饮 SaaS 选品和功能优先级有参考价值。",
+        "category": "餐饮数字化",
+        "importance_score": 5,
+        "relevance_score": 3,
+        "market_tags": "美国",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "建议市场团队将该趋势纳入美国餐饮市场预研报告，关注 QSR 数字化转型痛点与 SaaS 机会点，暂不需立即落地产品动作。",
+        "flipos_impact": "判断：FLIPOS 当前出海 Solution Pack 聚焦东南亚及日本市场，美国市场非直接覆盖范围；但文中 QSR 数字化转型趋势可作为未来进入北美市场的预研参考。"
+      }
+    },
+    {
+      "id": 1211,
+      "title": "Starbucks’ pumpkin spice launch breaks records, again",
+      "url": "https://www.restaurantdive.com/news/starbucks-pumpkin-spice-latte-launch-sales-win/829268/",
+      "source": "Restaurant Dive",
+      "region": "US",
+      "domain": "restaurant_ops",
+      "published_at": "2026-09-01T09:26:06",
+      "fetched_at": "2026-09-02T01:01:58",
+      "ai_output": {
+        "short_title": "星巴克南瓜香料拿铁秋季首发创历史最佳",
+        "one_line_signal": "星巴克季节性爆品策略通过食品连带销售实现营收增长，验证菜单创新对餐饮连锁的重要性",
+        "zh_summary": "星巴克南瓜香料拿铁联合新品饮料及强化食品连带策略，创下咖啡巨头史上最强秋季菜单首发记录。南瓜香料系列产品已成为餐饮业季节性营销经典案例，食品订单比例提升显示连带销售对客单价贡献显著。",
+        "category": "竞品动态",
+        "importance_score": 4,
+        "relevance_score": 2,
+        "market_tags": "美国、全球",
+        "primary_market": "全球",
+        "affected_capability": "市场",
+        "action_level": "可观察",
+        "recommended_action": "可观察星巴克南瓜香料拿铁的数字化营销玩法（如移动端预点、会员积分兑换），作为FLIPOS促销/CRM模块的竞品研究案例。",
+        "flipos_impact": "判断：此条新闻属于美国市场头部品牌营销案例，与FLIPOS当前聚焦的东南亚、日本餐饮SaaS市场关联度低，但季节性菜单策略和食品连带思维对餐饮SaaS的促销模块设计具有参考价值。"
       }
     }
   ]
